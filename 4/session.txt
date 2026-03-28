@@ -1,0 +1,642 @@
+=== FINAL SESSION METRICS ===
+Timestamp: 2026-03-27 21:57:18
+Session Duration: 03:09:04
+Total Orders: 626
+Total Trades: 228
+Total Fees: 4.1607 USDT
+Final Balance: 46.53 USDT
+Overall Win Rate: 24.1%
+Average TPM: 1.21
+
+=== ACTIVE ASSET LIST ===
+ETHUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+SOLUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+XAUUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.03
+XAGUSDT: Trades: 2 | Win%: 0.0% | PnL: -0.07
+XRPUSDT: Trades: 1 | Win%: 100.0% | PnL: 0.01
+XAUTUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.11
+TAOUSDT: Trades: 2 | Win%: 50.0% | PnL: -0.12
+SIRENUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+TSLAUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.05
+RIVERUSDT: Trades: 1 | Win%: 100.0% | PnL: 0.78
+CRCLUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+DOGEUSDT: Trades: 2 | Win%: 50.0% | PnL: -0.00
+PAXGUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.11
+HYPEUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+PEPEUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.07
+STGUSDT: Trades: 2 | Win%: 100.0% | PnL: 0.23
+COINUSDT: Trades: 2 | Win%: 0.0% | PnL: -0.48
+CUSDT: Trades: 1 | Win%: 100.0% | PnL: 0.79
+SUIUSDT: Trades: 1 | Win%: 100.0% | PnL: 0.12
+BNBUSDT: Trades: 1 | Win%: 100.0% | PnL: 0.06
+PIPPINUSDT: Trades: 2 | Win%: 50.0% | PnL: 0.00
+NVDAUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.17
+B3USDT: Trades: 2 | Win%: 50.0% | PnL: -0.01
+ADAUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.00
+MSTRUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+LINKUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.08
+ZECUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.22
+ENAUSDT: Trades: 1 | Win%: 100.0% | PnL: 0.07
+ONDOUSDT: Trades: 2 | Win%: 50.0% | PnL: -0.01
+CLUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+PIXELUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.33
+WLDUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.48
+TRUMPUSDT: Trades: 2 | Win%: 0.0% | PnL: -0.30
+KNCUSDT: Trades: 1 | Win%: 100.0% | PnL: 0.49
+BCHUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.10
+AAPLUSDT: Trades: 2 | Win%: 0.0% | PnL: -0.49
+MUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+AAVEUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.15
+AVAXUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+FETUSDT: Trades: 1 | Win%: 100.0% | PnL: 0.28
+BSBUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+WIFUSDT: Trades: 3 | Win%: 33.3% | PnL: -0.27
+FILUSDT: Trades: 1 | Win%: 100.0% | PnL: 0.09
+LYNUSDT: Trades: 2 | Win%: 100.0% | PnL: 1.87
+PROVEUSDT: Trades: 2 | Win%: 50.0% | PnL: -0.07
+FARTCOINUSDT: Trades: 2 | Win%: 50.0% | PnL: -0.32
+ONTUSDT: Trades: 2 | Win%: 50.0% | PnL: 0.13
+KITEUSDT: Trades: 1 | Win%: 100.0% | PnL: 0.63
+NEARUSDT: Trades: 1 | Win%: 100.0% | PnL: 0.03
+DOTUSDT: Trades: 3 | Win%: 66.7% | PnL: 0.17
+BRUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+MUUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+RENDERUSDT: Trades: 1 | Win%: 100.0% | PnL: 0.05
+KATUSDT: Trades: 2 | Win%: 50.0% | PnL: -0.16
+APTUSDT: Trades: 1 | Win%: 100.0% | PnL: 0.05
+TRXUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.00
+LTCUSDT: Trades: 1 | Win%: 100.0% | PnL: 0.10
+ZROUSDT: Trades: 3 | Win%: 0.0% | PnL: -0.88
+BEATUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+PIUSDT: Trades: 1 | Win%: 100.0% | PnL: 0.05
+PENGUUSDT: Trades: 1 | Win%: 100.0% | PnL: 0.03
+AMZNUSDT: Trades: 2 | Win%: 0.0% | PnL: -0.18
+PUMPUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.19
+XLMUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.14
+SHIBUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.44
+ARIAUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.72
+STOUSDT: Trades: 2 | Win%: 100.0% | PnL: 0.70
+VIRTUALUSDT: Trades: 1 | Win%: 100.0% | PnL: 0.03
+GOOGLUSDT: Trades: 3 | Win%: 0.0% | PnL: -0.39
+SAHARAUSDT: Trades: 3 | Win%: 0.0% | PnL: -1.04
+ROBOUSDT: Trades: 4 | Win%: 25.0% | PnL: -0.62
+EWYUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+XPLUSDT: Trades: 2 | Win%: 50.0% | PnL: -0.07
+TRIAUSDT: Trades: 1 | Win%: 100.0% | PnL: 0.65
+UNIUSDT: Trades: 1 | Win%: 100.0% | PnL: 0.02
+SEIUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.43
+ASTERUSDT: Trades: 4 | Win%: 0.0% | PnL: -1.21
+LDOUSDT: Trades: 2 | Win%: 50.0% | PnL: -0.23
+CRVUSDT: Trades: 2 | Win%: 100.0% | PnL: 0.44
+HBARUSDT: Trades: 3 | Win%: 33.3% | PnL: -0.36
+AXSUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.97
+CYSUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.76
+METAUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+LIGHTUSDT: Trades: 2 | Win%: 50.0% | PnL: -0.37
+MYXUSDT: Trades: 3 | Win%: 0.0% | PnL: -0.79
+VVVUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+UAIUSDT: Trades: 3 | Win%: 0.0% | PnL: -1.47
+ENSOUSDT: Trades: 2 | Win%: 0.0% | PnL: -0.63
+WLFIUSDT: Trades: 3 | Win%: 33.3% | PnL: -0.45
+ARBUSDT: Trades: 2 | Win%: 0.0% | PnL: -0.69
+DYDXUSDT: Trades: 3 | Win%: 0.0% | PnL: -1.00
+ETHFIUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.28
+RESOLVUSDT: Trades: 3 | Win%: 0.0% | PnL: -2.20
+XMRUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.11
+ICPUSDT: Trades: 2 | Win%: 50.0% | PnL: -0.24
+ANKRUSDT: Trades: 4 | Win%: 25.0% | PnL: -1.55
+BARDUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.43
+FOLKSUSDT: Trades: 2 | Win%: 0.0% | PnL: -0.60
+SIGNUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.35
+1000RATSUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.28
+ETCUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.12
+PARTIUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+TIAUSDT: Trades: 2 | Win%: 0.0% | PnL: -1.14
+JCTUSDT: Trades: 2 | Win%: 0.0% | PnL: -1.03
+PLTRUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+MSFTUSDT: Trades: 2 | Win%: 0.0% | PnL: -0.42
+ATOMUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.44
+MAGMAUSDT: Trades: 2 | Win%: 50.0% | PnL: 0.01
+OPUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+1000BONKUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.20
+BGBUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.88
+QQQUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.79
+APRUSDT: Trades: 1 | Win%: 100.0% | PnL: 0.08
+GALAUSDT: Trades: 3 | Win%: 0.0% | PnL: -0.74
+ATHUSDT: Trades: 2 | Win%: 50.0% | PnL: -0.02
+MRVLUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+POWERUSDT: Trades: 3 | Win%: 0.0% | PnL: -1.10
+OXYUSDT: Trades: 3 | Win%: 0.0% | PnL: -2.87
+RDDTUSDT: Trades: 2 | Win%: 0.0% | PnL: -1.22
+INTCUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.96
+AKTUSDT: Trades: 1 | Win%: 100.0% | PnL: 1.22
+TONUSDT: Trades: 2 | Win%: 0.0% | PnL: -1.30
+PEOPLEUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.37
+BANANAS31USDT: Trades: 1 | Win%: 100.0% | PnL: 0.56
+HOODUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.79
+JTOUSDT: Trades: 2 | Win%: 0.0% | PnL: -0.75
+HUMAUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.62
+ESPORTSUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+UNHUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+IPUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ARCUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+BASUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.63
+LITUSDT: Trades: 2 | Win%: 0.0% | PnL: -1.54
+SUPERUSDT: Trades: 2 | Win%: 0.0% | PnL: -1.46
+DEXEUSDT: Trades: 4 | Win%: 0.0% | PnL: -1.05
+GEUSDT: Trades: 3 | Win%: 0.0% | PnL: -0.45
+GIGGLEUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.99
+CHZUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.26
+GRASSUSDT: Trades: 3 | Win%: 0.0% | PnL: -1.41
+KASUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.62
+POLUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.51
+INJUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+GUNUSDT: Trades: 1 | Win%: 100.0% | PnL: 0.69
+HUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+MONUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+CFGUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.48
+EWTUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.52
+SANDUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+JSTUSDT: Trades: 1 | Win%: 100.0% | PnL: 0.03
+CETUSUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ICNTUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+KAVAUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+SPYUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+JUPUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.17
+JASMYUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+OPNUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+APPUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+MANTRAUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+PLUMEUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.32
+LABUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ZENUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+TSMUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+CFXUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+AIXBTUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+CSCOUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+XPTUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ORDIUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+PNUTUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ARMUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+SPXUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+NAORISUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+GMEUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+XOMUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ALGOUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+SKYAIUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+NIGHTUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+RAVEUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+BABAUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+INITUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+PIEVERSEUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+NOMUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+VETUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+STABLEUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+FUTUUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+SPACEUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+4USDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+STRKUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.71
+1000SATSUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ASMLUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+DENTUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+MOODENGUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ENJUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+CAKEUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+BRETTUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+FLOKIUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+IOTAUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+MORPHOUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+KAITOUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+JDUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ENSUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+SUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+COSTUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ACNUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+APEUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+METUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+BLESSUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+AVGOUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ARUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+AEROUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+RSRUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+THEUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+COWUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ALICEUSDT: Trades: 2 | Win%: 0.0% | PnL: -1.04
+YGGUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+INXUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ZKUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+BERAUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+COPUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+KERNELUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+USELESSUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+AVNTUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+QNTUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+0GUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+VELVETUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+XTZUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ESPUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+PENDLEUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+GWEIUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+GUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+PYTHUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.22
+AGLDUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.19
+WAXPUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+OPENUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+WUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+TRBUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+CROSSUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+AZTECUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ARKMUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+XPINUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+STXUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+UBUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+CATIUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+DASHUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+LINEAUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+BOBUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+LUNCUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+TOWNSUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ORCLUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ZILUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+AINUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+龙虾USDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+BROCCOLIUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+BANUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ZAMAUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+SXTUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+MANAUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+EGLDUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+1MBABYDOGEUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+BATUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+SENTUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+DYMUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+LAYERUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+PHAUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+QUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+IOUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+YBUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+FORMUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+BANANAUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+AXLUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+RVNUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ROSEUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+EDENUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ICXUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+IMXUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+KWEBUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+BOMEUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+XVGUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.56
+STORJUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+KAIAUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ANIMEUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+EWJUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.14
+XANUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+TURBOUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.26
+BIOUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+NMRUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+FLUXUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.72
+GRIFFAINUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+COAIUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+LPTUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ACXUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+WALUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+NOTUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+CHRUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+SUSHIUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.65
+CROUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+EIGENUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+SUNUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+COMPUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+BABYUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+BANKUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.70
+MINAUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+FOGOUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+GOATUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ZETAUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.61
+XAIUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ZORAUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ALTUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+CARVUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+BIRBUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+MEWUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+XPDUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+DEEPUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+SNXUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ACHUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+SKRUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+POPCATUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+AEVOUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+KGENUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+MEMEUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+NEOUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+UMAUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+GLMUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+COOKIEUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+SOMIUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+IRYSUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+CELOUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+STEEMUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+REZUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+IDOLUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+1INCHUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+POLYXUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+CVXUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ALLOUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+GPSUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+MAVUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+GMTUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+MUBARAKUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ASTRUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+BBUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ZBTUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+HAEDALUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+VANRYUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+VELOUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+OGNUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.40
+VANAUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+AWEUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+MOVEUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+MEUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+KSMUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+QTUMUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+POWRUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+THETAUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+C98USDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+HIVEUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+HYPERUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+SYNUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+WMTUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+WETUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+HOLOUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+MELANIAUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+SKYUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+SQDUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+TUTUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ALCHUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.70
+MMTUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ONGUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+COPPERUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+MERLUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.27
+PROMUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.14
+NXPCUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.65
+ZKPUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+RAYUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+AUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ORDERUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+ORCAUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+MCDUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+SYRUPUSDT: Trades: 1 | Win%: 100.0% | PnL: 0.02
+SAPIENUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+GMXUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.56
+GASUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+MASKUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+CLOUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+FFUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+LUNAUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+DOODUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+FUNTOKENUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+BSVUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+WCTUSDT: Trades: 2 | Win%: 0.0% | PnL: -1.37
+AUCTIONUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+BLURUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+USUALUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+2ZUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.20
+VINEUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+NILUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.26
+KMNOUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.09
+CTSIUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.57
+SPKUSDT: Trades: 1 | Win%: 0.0% | PnL: -0.42
+TAGUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+REDUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+IDUSDT: Trades: 0 | Win%: 0.0% | PnL: 0.00
+
+=== CLOSED TRADE LOG ===
+ID    ST   Symbol       Dir    Entry      TP1        Exit       PnL        Fees       Vol    1U H/L                 3U H/L                 6U H/L                 Reason    
+239   5M   GMXUSDT      LONG   6.6063     N/A        6.3304     -0.5567    0.0111     10     6.3880/6.3400          6.3880/6.3400          6.3880/6.3400          SL        
+302   5M   NILUSDT      LONG   0.0314     N/A        0.0311     -0.2622    0.0095     10     0.0000/0.0000          0.0000/0.0000          0.0000/0.0000          SL        
+301   5M   MERLUSDT     LONG   0.0246     N/A        0.0243     -0.2663    0.0095     10     0.0000/0.0000          0.0000/0.0000          0.0000/0.0000          SL        
+300   5M   CFGUSDT      LONG   0.1641     N/A        0.1608     -0.4760    0.0095     30     0.0000/0.0000          0.0000/0.0000          0.0000/0.0000          LIQ       
+252   5M   GUNUSDT      SHORT  0.0177     0.0172     0.0173     0.6868     0.0109     10     0.0180/0.0178          0.0180/0.0178          0.0180/0.0176          TSL       
+267   5M   XPLUSDT      SHORT  0.0883     0.0870     0.0875     0.3121     0.0103     10     0.0885/0.0881          0.0885/0.0881          0.0885/0.0881          TSL       
+152   5M   DOTUSDT      SHORT  1.2870     1.2810     1.2767     0.2399     0.0155     10     1.2910/1.2890          1.2910/1.2890          1.2920/1.2850          TSL       
+265   15M  DOTUSDT      SHORT  1.2796     1.2710     1.2741     0.1460     0.0108     20     0.0000/0.0000          0.0000/0.0000          0.0000/0.0000          TSL       
+268   5M   ICPUSDT      SHORT  2.2154     2.2010     2.2062     0.1336     0.0102     10     2.2190/2.2170          2.2190/2.2170          2.2190/2.2170          TSL       
+228   5M   PLUMEUSDT    LONG   0.0104     N/A        0.0103     -0.3228    0.0122     10     0.0103/0.0103          0.0103/0.0103          0.0104/0.0103          SL        
+168   5M   GRASSUSDT    LONG   0.3025     N/A        0.2978     -0.5747    0.0145     10     0.3011/0.2990          0.3011/0.2990          0.3011/0.2990          SL        
+128   5M   WIFUSDT      LONG   0.1708     0.1722     0.1727     0.3822     0.0161     10     0.1704/0.1698          0.1712/0.1698          0.1714/0.1698          TSL       
+104   5M   1000BONKUSDT LONG   0.0057     N/A        0.0057     -0.2048    0.0171     10     0.0057/0.0057          0.0057/0.0057          0.0057/0.0057          SL        
+240   5M   ONTUSDT      LONG   0.0497     N/A        0.0494     -0.1742    0.0111     10     0.0499/0.0496          0.0499/0.0496          0.0499/0.0496          SL        
+47    5M   AXSUSDT      LONG   1.1287     N/A        1.0959     -0.9667    0.0193     10     1.1000/1.0980          1.1000/1.0980          1.1080/1.0980          SL        
+103   5M   ETCUSDT      LONG   8.0927     N/A        8.0702     -0.1205    0.0161     10     8.0800/8.0730          8.0950/8.0730          8.0950/8.0730          SL        
+8     5M   LTCUSDT      LONG   53.4405    53.5400    53.5713    0.0986     0.0192     10     53.3900/53.3800        53.4900/53.3800        53.6100/53.3800        TSL       
+266   5M   EWTUSDT      LONG   129.8255   N/A        69.6730    -0.5162    0.0103     10     69.7500/69.7500        69.7500/69.7500        69.7500/69.7500        SL        
+233   5M   FOLKSUSDT    LONG   1.2155     N/A        1.2049     -0.2476    0.0111     10     1.2121/1.2065          1.2123/1.2065          1.2123/1.2065          SL        
+178   10M  COINUSDT     LONG   161.4314   N/A        160.7539   -0.1627    0.0148     10     161.0000/160.8700      161.0700/160.8700      161.0700/160.8100      SL        
+75    5M   PUMPUSDT     LONG   0.0017     N/A        0.0017     -0.1853    0.0185     10     0.0017/0.0017          0.0017/0.0017          0.0017/0.0017          SL        
+87    5M   BANANAS31USDT SHORT  0.0132     0.0131     0.0130     0.5568     0.0180     10     0.0133/0.0133          0.0133/0.0132          0.0133/0.0129          TSL       
+270   5M   2ZUSDT       LONG   0.0698     N/A        0.0693     -0.2014    0.0102     10     0.0693/0.0693          0.0693/0.0693          0.0693/0.0693          SL        
+232   5M   SYRUPUSDT    LONG   0.2079     N/A        0.2081     0.0244     0.0114     10     0.2075/0.2075          0.2084/0.2073          0.2084/0.2073          TSL       
+229   5M   CTSIUSDT     LONG   0.0246     N/A        0.0225     -0.5718    0.0114     10     0.0226/0.0226          0.0226/0.0226          0.0226/0.0226          SL        
+278   5M   POLUSDT      SHORT  0.0887     N/A        0.0905     -0.5095    0.0102     10     0.0905/0.0903          0.0905/0.0903          0.0905/0.0903          SL        
+190   10M  GALAUSDT     LONG   0.0030     N/A        0.0029     -0.2193    0.0140     10     0.0030/0.0029          0.0030/0.0029          0.0030/0.0029          SL        
+18    5M   PENGUUSDT    LONG   0.0065     N/A        0.0065     0.0332     0.0199     10     0.0065/0.0065          0.0065/0.0065          0.0065/0.0065          TSL       
+13    5M   ARBUSDT      LONG   0.0899     N/A        0.0894     -0.2933    0.0199     10     0.0897/0.0897          0.0898/0.0896          0.0900/0.0896          SL        
+202   5M   WCTUSDT      LONG   0.0585     N/A        0.0566     -0.6545    0.0131     10     0.0568/0.0568          0.0569/0.0567          0.0569/0.0567          SL        
+264   5M   PROMUSDT     LONG   0.9852     N/A        0.9801     -0.1449    0.0107     10     0.9803/0.9803          0.9803/0.9803          0.9803/0.9790          SL        
+249   5M   KMNOUSDT     LONG   0.0172     N/A        0.0171     -0.0876    0.0109     10     0.0172/0.0171          0.0172/0.0171          0.0172/0.0170          SL        
+234   10M  JCTUSDT      LONG   0.0032     N/A        0.0031     -0.5612    0.0112     10     0.0032/0.0031          0.0032/0.0031          0.0032/0.0030          LIQ       
+262   10M  WLFIUSDT     LONG   0.0972     N/A        0.0963     -0.2660    0.0107     10     0.0965/0.0965          0.0965/0.0963          0.0965/0.0963          SL        
+251   5M   DEXEUSDT     SHORT  7.3692     N/A        7.4037     -0.1336    0.0109     10     7.3960/7.3700          7.4020/7.3700          7.4260/7.3700          SL        
+91    5M   TONUSDT      LONG   1.2314     N/A        1.2138     -0.6385    0.0177     10     1.2160/1.2155          1.2170/1.2155          1.2185/1.2155          SL        
+121   5M   HBARUSDT     LONG   0.0890     N/A        0.0891     0.0101     0.0164     10     0.0890/0.0889          0.0890/0.0889          0.0892/0.0889          TSL       
+10    5M   ATOMUSDT     LONG   1.6847     N/A        1.6703     -0.4379    0.0201     10     1.6738/1.6711          1.6738/1.6711          1.6738/1.6711          SL        
+148   10M  RIVERUSDT    LONG   12.7560    12.9580    13.0777    0.7783     0.0153     20     12.7010/12.6520        12.7750/12.5850        13.2550/12.5850        TSL       
+250   5M   XMRUSDT      SHORT  327.1128   N/A        328.3828   -0.1071    0.0105     10     328.3100/328.0700      328.6500/328.0700      328.7100/327.7800      SL        
+231   5M   STGUSDT      LONG   0.2397     N/A        0.2404     0.0771     0.0114     10     0.2409/0.2386          0.2421/0.2386          0.2421/0.2386          TSL       
+160   5M   POWERUSDT    LONG   0.0858     N/A        0.0851     -0.3035    0.0145     10     0.0857/0.0852          0.0859/0.0852          0.0861/0.0852          SL        
+14    5M   SUIUSDT      LONG   0.8791     0.8818     0.8808     0.1191     0.0199     10     0.8789/0.8772          0.8789/0.8765          0.8789/0.8765          TSL       
+149   5M   XRPUSDT      LONG   1.3257     N/A        1.3263     0.0106     0.0159     10     1.3252/1.3240          1.3258/1.3240          1.3265/1.3240          TSL       
+237   5M   XVGUSDT      SHORT  0.0044     N/A        0.0045     -0.5640    0.0113     10     0.0000/0.0000          0.0000/0.0000          0.0000/0.0000          SL        
+147   10M  LYNUSDT      LONG   0.0553     0.0569     0.0576     1.3521     0.0157     10     0.0551/0.0544          0.0583/0.0544          0.0589/0.0544          TSL       
+226   5M   ZETAUSDT     SHORT  0.0488     N/A        0.0501     -0.6106    0.0122     10     0.0000/0.0000          0.0000/0.0000          0.0000/0.0000          SL        
+133   5M   TSLAUSDT     LONG   361.2400   N/A        360.8639   -0.0493    0.0159     10     361.3000/361.0900      361.3000/360.9200      361.3000/360.9200      SL        
+225   5M   PYTHUSDT     SHORT  0.0371     N/A        0.0373     -0.2159    0.0122     10     0.0000/0.0000          0.0000/0.0000          0.0000/0.0000          SL        
+201   5M   TURBOUSDT    SHORT  0.0010     N/A        0.0010     -0.2587    0.0131     10     0.0000/0.0000          0.0000/0.0000          0.0000/0.0000          SL        
+245   5M   OGNUSDT      SHORT  0.0207     N/A        0.0210     -0.4012    0.0110     10     0.0000/0.0000          0.0000/0.0000          0.0000/0.0000          SL        
+214   5M   ROBOUSDT     SHORT  0.0233     N/A        0.0235     -0.1927    0.0126     10     0.0234/0.0233          0.0234/0.0232          0.0236/0.0232          SL        
+223   5M   LINKUSDT     SHORT  8.5345     N/A        8.5539     -0.0842    0.0137     10     8.5510/8.5430          8.5610/8.5430          8.5650/8.5430          SL        
+150   5M   DOGEUSDT     SHORT  0.0900     N/A        0.0902     -0.0969    0.0154     10     0.0901/0.0900          0.0901/0.0900          0.0901/0.0900          SL        
+142   5M   XAGUSDT      LONG   69.8500    N/A        69.7930    -0.0397    0.0156     10     69.8500/69.8400        69.8500/69.8100        69.8600/69.8100        SL        
+2     5M   APTUSDT      SHORT  0.9762     N/A        0.9751     0.0479     0.0200     10     0.9804/0.9775          0.9804/0.9774          0.9804/0.9764          TSL       
+30    5M   XPLUSDT      LONG   0.0893     N/A        0.0886     -0.3841    0.0196     10     0.0889/0.0887          0.0891/0.0887          0.0893/0.0887          SL        
+125   5M   TRIAUSDT     SHORT  0.0266     0.0262     0.0260     0.6460     0.0161     10     0.0267/0.0265          0.0267/0.0264          0.0267/0.0257          TSL       
+73    5M   MSFTUSDT     LONG   358.5009   N/A        356.7943   -0.2302    0.0186     10     357.0700/356.9500      357.1200/356.9500      357.2300/356.9500      SL        
+221   10M  POWERUSDT    LONG   0.0865     N/A        0.0853     -0.4459    0.0122     10     0.0861/0.0855          0.0861/0.0850          0.0861/0.0843          SL        
+161   5M   GOOGLUSDT    SHORT  273.0577   N/A        273.6474   -0.0839    0.0142     10     273.5400/273.4300      273.5400/273.3900      273.6400/273.3900      SL        
+171   10M  XAUUSDT      SHORT  4495.0300  N/A        4496.9597  -0.0283    0.0180     10     4495.5500/4495.0400    4496.9200/4495.0400    4496.9200/4495.0400    SL        
+165   5M   WLDUSDT      SHORT  0.2476     N/A        0.2508     -0.4781    0.0145     20     0.2501/0.2489          0.2507/0.2489          0.2516/0.2480          SL        
+196   5M   PAXGUSDT     LONG   4510.9428  N/A        4496.7403  -0.1054    0.0126     10     4498.8800/4497.9200    4498.8800/4497.4200    4500.7100/4496.5700    SL        
+199   5M   TRXUSDT      LONG   0.3110     N/A        0.3110     -0.0019    0.0131     10     0.3109/0.3108          0.3113/0.3107          0.3113/0.3104          TSL       
+135   5M   STOUSDT      LONG   0.1085     0.1095     0.1091     0.3008     0.0161     10     0.1084/0.1079          0.1090/0.1079          0.1091/0.1079          TSL       
+197   5M   LIGHTUSDT    LONG   0.1543     N/A        0.1547     0.0760     0.0130     30     0.1544/0.1529          0.1549/0.1529          0.1557/0.1524          TSL       
+25    5M   BGBUSDT      LONG   1.9691     N/A        1.9349     -0.8847    0.0201     10     1.9355/1.9353          1.9364/1.9353          1.9370/1.9353          SL        
+67    5M   ZECUSDT      LONG   215.6900   N/A        214.7085   -0.2227    0.0188     10     215.0900/214.8200      215.7300/214.7500      215.7300/214.7500      SL        
+220   5M   JSTUSDT      LONG   0.0601     N/A        0.0601     0.0280     0.0122     10     0.0602/0.0599          0.0603/0.0596          0.0603/0.0596          TSL       
+16    5M   AKTUSDT      LONG   0.4818     0.4892     0.4985     1.2225     0.0199     10     0.4788/0.4780          0.4790/0.4772          0.4827/0.4772          TSL       
+203   5M   NXPCUSDT     LONG   0.2829     N/A        0.2764     -0.6486    0.0130     10     0.2771/0.2771          0.2771/0.2756          0.2771/0.2754          SL        
+215   5M   EWJUSDT      SHORT  81.2017    N/A        81.5382    -0.1378    0.0127     10     0.0000/0.0000          0.0000/0.0000          0.0000/0.0000          SL        
+162   5M   DYDXUSDT     LONG   0.0929     N/A        0.0921     -0.3218    0.0145     10     0.0924/0.0922          0.0924/0.0922          0.0924/0.0917          SL        
+143   10M  DEXEUSDT     LONG   7.4516     N/A        7.3713     -0.4326    0.0158     10     7.4400/7.4100          7.4580/7.3860          7.4580/7.3650          SL        
+37    5M   KITEUSDT     SHORT  0.1825     0.1807     0.1794     0.6270     0.0194     10     0.1837/0.1833          0.1840/0.1832          0.1840/0.1829          TSL       
+107   5M   BASUSDT      SHORT  0.0074     N/A        0.0075     -0.6286    0.0170     10     0.0075/0.0075          0.0075/0.0074          0.0075/0.0074          SL        
+19    5M   GIGGLEUSDT   LONG   25.0032    N/A        24.4076    -0.9918    0.0198     10     24.5400/24.5400        24.5500/24.4900        24.5500/24.4500        SL        
+97    5M   SHIBUSDT     LONG   0.0000     N/A        0.0000     -0.4447    0.0172     10     0.0000/0.0000          0.0000/0.0000          0.0000/0.0000          SL        
+193   5M   ALCHUSDT     SHORT  0.0669     N/A        0.0704     -0.7000    0.0140     10     0.0703/0.0703          0.0703/0.0703          0.0704/0.0703          SL        
+224   5M   ALICEUSDT    LONG   0.1090     N/A        0.1076     -0.3940    0.0122     10     0.0000/0.0000          0.0000/0.0000          0.0000/0.0000          SL        
+227   5M   PEPEUSDT     SHORT  0.0000     N/A        0.0000     -0.0667    0.0122     10     0.0000/0.0000          0.0000/0.0000          0.0000/0.0000          SL        
+200   5M   ANKRUSDT     SHORT  0.0051     N/A        0.0052     -0.6543    0.0131     10     0.0052/0.0051          0.0053/0.0051          0.0053/0.0050          LIQ       
+164   5M   CRVUSDT      LONG   0.2076     0.2090     0.2085     0.1981     0.0144     10     0.2084/0.2073          0.2088/0.2073          0.2090/0.2073          TSL       
+182   10M  ENSOUSDT     LONG   1.0299     N/A        1.0234     -0.2341    0.0144     30     1.0294/1.0237          1.0294/1.0132          1.0294/1.0132          SL        
+155   5M   FARTCOINUSDT LONG   0.1680     N/A        0.1683     0.0385     0.0148     10     0.1677/0.1674          0.1689/0.1674          0.1689/0.1674          TSL       
+191   5M   BANKUSDT     SHORT  0.0363     N/A        0.0411     -0.6998    0.0140     10     0.0410/0.0407          0.0411/0.0407          0.0414/0.0407          SL        
+195   5M   ZROUSDT      SHORT  1.9980     N/A        2.0089     -0.2044    0.0144     20     2.0076/2.0054          2.0121/2.0016          2.0145/2.0016          SL        
+172   5M   TRUMPUSDT    LONG   2.9985     N/A        2.9887     -0.1263    0.0145     10     2.9970/2.9930          2.9970/2.9870          2.9970/2.9830          SL        
+209   5M   ALICEUSDT    SHORT  0.1053     N/A        0.1079     -0.6454    0.0129     10     0.0000/0.0000          0.0000/0.0000          0.0000/0.0000          SL        
+205   5M   AGLDUSDT     LONG   0.2276     N/A        0.2264     -0.1860    0.0130     10     0.0000/0.0000          0.0000/0.0000          0.0000/0.0000          SL        
+11    5M   NEARUSDT     LONG   1.1770     N/A        1.1778     0.0255     0.0198     10     1.1769/1.1761          1.1782/1.1761          1.1788/1.1761          TSL       
+31    5M   STGUSDT      SHORT  0.2386     N/A        0.2378     0.1514     0.0196     40     0.2413/0.2401          0.2413/0.2383          0.2413/0.2374          TSL       
+204   5M   SUSHIUSDT    LONG   0.1961     N/A        0.1907     -0.6497    0.0130     10     0.0000/0.0000          0.0000/0.0000          0.0000/0.0000          SL        
+185   5M   STRKUSDT     LONG   0.0352     N/A        0.0338     -0.7143    0.0143     10     0.0338/0.0338          0.0338/0.0337          0.0338/0.0336          SL        
+175   10M  ARBUSDT      SHORT  0.0890     N/A        0.0900     -0.3992    0.0145     10     0.0899/0.0898          0.0900/0.0896          0.0900/0.0893          SL        
+184   5M   RDDTUSDT     LONG   121.9819   N/A        121.1479   -0.2481    0.0141     10     121.7700/121.5500      121.7700/121.0800      121.7700/121.0800      SL        
+176   5M   B3USDT       LONG   0.0004     0.0004     0.0004     0.5987     0.0145     10     0.0004/0.0004          0.0004/0.0004          0.0004/0.0004          TSL       
+206   5M   JUPUSDT      LONG   0.1430     N/A        0.1423     -0.1688    0.0130     10     0.1426/0.1423          0.1426/0.1421          0.1426/0.1421          SL        
+99    5M   CHZUSDT      LONG   0.0357     N/A        0.0355     -0.2623    0.0172     10     0.0357/0.0355          0.0357/0.0355          0.0357/0.0355          SL        
+189   10M  UAIUSDT      LONG   0.2194     N/A        0.2166     -0.4649    0.0143     10     0.2177/0.2131          0.2177/0.2060          0.2177/0.2060          SL        
+173   5M   LDOUSDT      LONG   0.3000     N/A        0.2980     -0.2503    0.0145     10     0.2997/0.2988          0.2997/0.2970          0.2997/0.2955          SL        
+44    5M   UNIUSDT      LONG   3.3819     N/A        3.3840     0.0196     0.0189     10     3.3800/3.3780          3.3830/3.3780          3.3900/3.3780          TSL       
+194   5M   SPKUSDT      LONG   0.0208     N/A        0.0205     -0.4196    0.0140     10     0.0206/0.0206          0.0206/0.0205          0.0206/0.0205          SL        
+170   5M   ASTERUSDT    LONG   0.6647     N/A        0.6605     -0.2363    0.0145     10     0.6611/0.6607          0.6611/0.6593          0.6615/0.6593          SL        
+153   5M   ATHUSDT      SHORT  0.0069     0.0069     0.0069     0.2317     0.0154     10     0.0069/0.0069          0.0069/0.0068          0.0069/0.0068          TSL       
+181   5M   PROVEUSDT    SHORT  0.2629     0.2605     0.2614     0.2716     0.0145     10     0.2632/0.2605          0.2632/0.2605          0.2632/0.2560          TSL       
+145   5M   WLFIUSDT     LONG   0.0976     N/A        0.0968     -0.3168    0.0157     10     0.0973/0.0972          0.0973/0.0969          0.0973/0.0965          SL        
+113   5M   1000RATSUSDT SHORT  0.0575     N/A        0.0579     -0.2808    0.0167     10     0.0577/0.0576          0.0578/0.0575          0.0580/0.0574          SL        
+186   10M  ANKRUSDT     LONG   0.0053     N/A        0.0052     -0.7144    0.0143     60     0.0053/0.0051          0.0053/0.0050          0.0053/0.0050          LIQ       
+174   5M   ANKRUSDT     LONG   0.0053     N/A        0.0052     -0.7255    0.0145     30     0.0053/0.0052          0.0053/0.0051          0.0053/0.0050          LIQ       
+187   5M   WCTUSDT      SHORT  0.0547     N/A        0.0568     -0.7143    0.0143     10     0.0568/0.0567          0.0569/0.0567          0.0569/0.0567          SL        
+167   5M   TAOUSDT      LONG   316.3500   317.7900   317.2543   0.1307     0.0144     10     318.1300/315.5800      318.1300/315.5800      318.1300/313.6400      TSL       
+110   5M   QQQUSDT      SHORT  542.3301   N/A        561.6762   -0.7862    0.0157     10     561.6100/561.6100      561.6100/561.4600      561.7500/561.3900      SL        
+108   5M   LIGHTUSDT    SHORT  0.1524     N/A        0.1540     -0.4499    0.0170     10     0.1530/0.1527          0.1535/0.1527          0.1544/0.1527          SL        
+138   5M   SUPERUSDT    LONG   0.1198     N/A        0.1096     -0.8030    0.0161     10     0.1100/0.1097          0.1102/0.1097          0.1102/0.1096          SL        
+112   5M   TIAUSDT      LONG   0.3061     N/A        0.2994     -0.8328    0.0167     10     0.3008/0.2997          0.3008/0.2997          0.3055/0.2988          SL        
+166   5M   LYNUSDT      LONG   0.0552     0.0561     0.0558     0.5167     0.0144     10     0.0562/0.0548          0.0577/0.0548          0.0589/0.0548          TSL       
+130   5M   ONDOUSDT     LONG   0.2694     0.2709     0.2703     0.1831     0.0161     10     0.2691/0.2687          0.2701/0.2682          0.2713/0.2682          TSL       
+120   5M   KASUSDT      SHORT  0.0340     N/A        0.0345     -0.6203    0.0165     10     0.0345/0.0345          0.0345/0.0345          0.0346/0.0344          SL        
+158   5M   SIGNUSDT     LONG   0.0326     N/A        0.0323     -0.3452    0.0146     10     0.0326/0.0324          0.0326/0.0321          0.0326/0.0318          SL        
+180   5M   FLUXUSDT     LONG   0.0527     N/A        0.0491     -0.7249    0.0145     10     0.0493/0.0487          0.0493/0.0485          0.0493/0.0485          SL        
+118   5M   FOLKSUSDT    LONG   1.2125     N/A        1.2024     -0.3507    0.0164     10     1.2099/1.2079          1.2109/1.2069          1.2109/1.1991          SL        
+101   5M   LITUSDT      SHORT  0.8567     N/A        0.8841     -0.8624    0.0172     10     0.8820/0.8800          0.8820/0.8800          0.8850/0.8800          SL        
+177   5M   SAHARAUSDT   SHORT  0.0249     N/A        0.0251     -0.2698    0.0145     20     0.0251/0.0249          0.0251/0.0244          0.0251/0.0244          SL        
+163   5M   KATUSDT      SHORT  0.0118     0.0118     0.0118     0.2011     0.0144     10     0.0119/0.0117          0.0121/0.0117          0.0123/0.0117          TSL       
+131   5M   PIPPINUSDT   LONG   0.0514     0.0517     0.0523     0.4676     0.0161     10     0.0515/0.0512          0.0529/0.0512          0.0529/0.0512          TSL       
+144   5M   MYXUSDT      SHORT  0.2514     N/A        0.2530     -0.2625    0.0157     10     0.2522/0.2511          0.2535/0.2511          0.2547/0.2511          SL        
+140   5M   DEXEUSDT     LONG   7.4489     N/A        7.4063     -0.2333    0.0158     10     7.4310/7.4170          7.4400/7.3970          7.4580/7.3870          SL        
+119   5M   ROBOUSDT     LONG   0.0235     N/A        0.0235     0.0559     0.0166     10     0.0235/0.0234          0.0235/0.0234          0.0236/0.0233          TSL       
+49    5M   PIUSDT       LONG   0.1749     N/A        0.1751     0.0528     0.0194     20     0.1750/0.1745          0.1754/0.1745          0.1758/0.1745          TSL       
+66    5M   BNBUSDT      LONG   612.0829   612.9700   612.7282   0.0566     0.0196     10     611.6000/611.4200      613.7300/611.4200      613.7300/611.4200      TSL       
+139   5M   ZROUSDT      LONG   2.0166     N/A        2.0040     -0.2598    0.0161     10     2.0108/2.0050          2.0108/2.0005          2.0117/2.0005          SL        
+156   5M   CUSDT        LONG   0.0861     0.0872     0.0887     0.7872     0.0148     10     0.0877/0.0855          0.0939/0.0855          0.1010/0.0855          TSL       
+127   5M   KNCUSDT      SHORT  0.1621     0.1602     0.1600     0.4889     0.0161     10     0.1630/0.1621          0.1631/0.1589          0.1634/0.1533          TSL       
+35    5M   FETUSDT      LONG   0.2290     0.2306     0.2300     0.2805     0.0195     10     0.2287/0.2280          0.2288/0.2276          0.2296/0.2276          TSL       
+45    5M   BARDUSDT     LONG   0.3713     N/A        0.3681     -0.4268    0.0194     10     0.3697/0.3684          0.3711/0.3684          0.3714/0.3684          SL        
+1     5M   TRUMPUSDT    SHORT  2.9832     N/A        2.9933     -0.1785    0.0200     10     2.9890/2.9850          2.9890/2.9770          2.9890/2.9770          SL        
+154   5M   UAIUSDT      SHORT  0.2151     N/A        0.2179     -0.4931    0.0153     10     0.2169/0.2167          0.2180/0.2167          0.2180/0.2060          SL        
+40    5M   ANKRUSDT     LONG   0.0052     0.0052     0.0052     0.5411     0.0194     10     0.0051/0.0051          0.0052/0.0051          0.0052/0.0051          TSL       
+33    5M   RENDERUSDT   LONG   1.6523     N/A        1.6545     0.0532     0.0195     10     1.6510/1.6450          1.6580/1.6450          1.6600/1.6450          TSL       
+76    5M   PROVEUSDT    LONG   0.2655     N/A        0.2636     -0.3463    0.0185     10     0.2649/0.2643          0.2668/0.2643          0.2668/0.2605          SL        
+48    5M   ONTUSDT      LONG   0.0514     0.0517     0.0517     0.3008     0.0193     20     0.0515/0.0513          0.0516/0.0512          0.0517/0.0512          TSL       
+157   10M  GEUSDT       LONG   283.0941   N/A        281.8618   -0.1675    0.0147     10     282.9800/281.6100      282.9800/281.6100      282.9800/281.6100      SL        
+93    5M   AMZNUSDT     LONG   199.0560   N/A        198.7401   -0.0781    0.0175     10     198.8200/198.7900      198.8200/198.7700      198.8200/198.6400      SL        
+57    5M   BCHUSDT      SHORT  471.5393   N/A        472.4272   -0.0983    0.0189     10     472.1200/471.6400      472.3100/471.4200      472.6700/471.4200      SL        
+123   5M   ETHFIUSDT    LONG   0.4656     N/A        0.4625     -0.2809    0.0162     10     0.4641/0.4634          0.4641/0.4625          0.4641/0.4609          SL        
+98    5M   PEOPLEUSDT   LONG   0.0066     N/A        0.0065     -0.3733    0.0172     10     0.0066/0.0065          0.0066/0.0065          0.0066/0.0065          SL        
+109   5M   CRVUSDT      SHORT  0.2079     0.2064     0.2069     0.2433     0.0170     10     0.2084/0.2081          0.2084/0.2062          0.2088/0.2062          TSL       
+111   5M   KATUSDT      LONG   0.0120     N/A        0.0119     -0.3596    0.0167     10     0.0119/0.0119          0.0119/0.0119          0.0119/0.0117          SL        
+83    5M   SAHARAUSDT   LONG   0.0253     N/A        0.0251     -0.3598    0.0183     10     0.0251/0.0251          0.0253/0.0251          0.0253/0.0249          SL        
+116   5M   DYDXUSDT     SHORT  0.0915     N/A        0.0922     -0.3405    0.0166     10     0.0921/0.0920          0.0922/0.0920          0.0924/0.0920          SL        
+124   5M   JCTUSDT      LONG   0.0032     N/A        0.0032     -0.4639    0.0162     10     0.0032/0.0032          0.0032/0.0031          0.0032/0.0031          SL        
+151   5M   AAVEUSDT     SHORT  98.3309    N/A        98.6899    -0.1517    0.0158     10     98.6800/98.5300        98.6800/98.3600        98.6800/98.2300        SL        
+117   5M   GRASSUSDT    SHORT  0.2964     N/A        0.2986     -0.3168    0.0165     10     0.2977/0.2977          0.2986/0.2977          0.3011/0.2977          SL        
+46    5M   RDDTUSDT     LONG   134.9676   N/A        121.5178   -0.9726    0.0195     10     121.5600/121.5600      121.5600/121.5600      121.7000/121.2200      SL        
+86    5M   FARTCOINUSDT SHORT  0.1664     N/A        0.1677     -0.3612    0.0180     10     0.1671/0.1668          0.1676/0.1668          0.1688/0.1668          SL        
+134   5M   ASTERUSDT    LONG   0.6679     N/A        0.6606     -0.4464    0.0161     10     0.6611/0.6611          0.6611/0.6606          0.6611/0.6593          SL        
+68    5M   ENAUSDT      SHORT  0.0889     N/A        0.0888     0.0651     0.0188     10     0.0891/0.0889          0.0892/0.0886          0.0892/0.0884          TSL       
+105   5M   LDOUSDT      SHORT  0.2988     N/A        0.2986     0.0183     0.0171     10     0.2995/0.2992          0.2995/0.2980          0.2999/0.2979          TSL       
+141   5M   HOODUSDT     LONG   68.5816    N/A        65.7134    -0.7895    0.0158     10     65.7800/65.6700        65.7800/65.6200        65.7800/65.5800        SL        
+90    5M   UAIUSDT      LONG   0.2194     N/A        0.2169     -0.5162    0.0176     10     0.2173/0.2169          0.2178/0.2168          0.2180/0.2167          SL        
+43    5M   INTCUSDT     LONG   71.4497    N/A        43.0457    -0.9648    0.0193     10     43.1200/43.0600        43.1200/43.0600        43.1200/43.0400        SL        
+126   5M   GALAUSDT     LONG   0.0030     N/A        0.0029     -0.3189    0.0161     10     0.0029/0.0029          0.0030/0.0029          0.0030/0.0029          SL        
+9     5M   DOGEUSDT     LONG   0.0898     0.0900     0.0900     0.0952     0.0199     10     0.0898/0.0897          0.0900/0.0897          0.0900/0.0897          TSL       
+17    5M   VIRTUALUSDT  LONG   0.6504     N/A        0.6509     0.0267     0.0198     20     0.6499/0.6494          0.6514/0.6494          0.6517/0.6494          TSL       
+129   5M   JTOUSDT      LONG   0.3087     N/A        0.3071     -0.2173    0.0161     10     0.3081/0.3064          0.3081/0.3060          0.3081/0.3050          SL        
+70    5M   RESOLVUSDT   SHORT  0.0396     N/A        0.0406     -0.9387    0.0188     10     0.0405/0.0405          0.0406/0.0405          0.0408/0.0405          SL        
+137   5M   MAGMAUSDT    SHORT  0.1237     N/A        0.1248     -0.3601    0.0161     10     0.1257/0.1243          0.1257/0.1240          0.1267/0.1240          SL        
+132   5M   MYXUSDT      LONG   0.2537     N/A        0.2524     -0.2161    0.0161     10     0.2530/0.2512          0.2530/0.2511          0.2547/0.2511          SL        
+71    5M   FILUSDT      LONG   0.8381     0.8403     0.8395     0.0945     0.0188     10     0.8391/0.8377          0.8411/0.8377          0.8411/0.8377          TSL       
+122   5M   SUPERUSDT    SHORT  0.1080     N/A        0.1097     -0.6539    0.0163     10     0.1100/0.1096          0.1102/0.1096          0.1102/0.1096          SL        
+115   5M   ONDOUSDT     SHORT  0.2678     N/A        0.2690     -0.1950    0.0166     10     0.2691/0.2682          0.2694/0.2682          0.2713/0.2682          SL        
+62    5M   ZROUSDT      SHORT  1.9920     N/A        2.0088     -0.4159    0.0192     10     2.0051/1.9997          2.0112/1.9997          2.0112/1.9997          SL        
+114   5M   ICPUSDT      SHORT  2.2007     N/A        2.2202     -0.3760    0.0166     10     2.2220/2.2180          2.2220/2.2180          2.2280/2.2180          SL        
+96    5M   GOOGLUSDT    SHORT  272.5649   N/A        273.6574   -0.1842    0.0175     10     273.5800/273.5400      273.6500/273.5400      273.6500/273.4300      SL        
+84    5M   COINUSDT     SHORT  159.8060   N/A        160.8461   -0.3126    0.0186     10     160.7800/160.6400      160.9000/160.6400      160.9000/160.6400      SL        
+82    5M   ATHUSDT      LONG   0.0070     N/A        0.0069     -0.2486    0.0183     10     0.0070/0.0070          0.0070/0.0069          0.0070/0.0068          SL        
+24    5M   GALAUSDT     SHORT  0.0029     N/A        0.0029     -0.2017    0.0198     10     0.0029/0.0029          0.0029/0.0029          0.0030/0.0029          SL        
+38    5M   WLFIUSDT     LONG   0.0966     0.0969     0.0969     0.1337     0.0194     10     0.0968/0.0965          0.0970/0.0965          0.0974/0.0965          TSL       
+100   5M   PIXELUSDT    SHORT  0.0088     N/A        0.0089     -0.3322    0.0172     10     0.0089/0.0089          0.0090/0.0089          0.0091/0.0089          SL        
+15    5M   WIFUSDT      LONG   0.1709     N/A        0.1698     -0.3460    0.0199     10     0.1705/0.1702          0.1709/0.1701          0.1709/0.1696          SL        
+92    5M   DYDXUSDT     LONG   0.0928     N/A        0.0921     -0.3392    0.0176     10     0.0922/0.0920          0.0922/0.0920          0.0924/0.0920          SL        
+102   5M   ROBOUSDT     SHORT  0.0233     N/A        0.0234     -0.2500    0.0172     10     0.0234/0.0234          0.0235/0.0234          0.0236/0.0234          SL        
+63    5M   GRASSUSDT    LONG   0.3006     N/A        0.2974     -0.5140    0.0189     10     0.2988/0.2975          0.2988/0.2972          0.2993/0.2972          SL        
+106   5M   AAPLUSDT     LONG   248.1089   N/A        247.6452   -0.0871    0.0169     10     247.8100/247.4500      247.8100/247.4500      247.8100/247.3500      SL        
+50    5M   CYSUSDT      LONG   0.3501     N/A        0.3447     -0.7553    0.0194     10     0.3466/0.3456          0.3468/0.3419          0.3468/0.3417          SL        
+78    5M   GEUSDT       SHORT  281.7489   N/A        282.4382   -0.1194    0.0180     30     282.3500/282.3500      282.8400/282.0100      282.9800/281.6100      SL        
+89    5M   XAGUSDT      LONG   69.8600    N/A        69.8230    -0.0326    0.0179     10     69.8500/69.8200        69.8500/69.8100        69.8600/69.8100        SL        
+39    5M   ADAUSDT      LONG   0.2456     N/A        0.2456     -0.0023    0.0193     10     0.2457/0.2454          0.2458/0.2454          0.2463/0.2454          TSL       
+94    5M   ASTERUSDT    SHORT  0.6568     N/A        0.6609     -0.2861    0.0177     10     0.6608/0.6606          0.6611/0.6606          0.6611/0.6606          SL        
+61    5M   XLMUSDT      SHORT  0.1667     N/A        0.1672     -0.1435    0.0190     10     0.1670/0.1669          0.1676/0.1669          0.1676/0.1669          SL        
+56    5M   STOUSDT      LONG   0.1069     0.1079     0.1077     0.4038     0.0193     10     0.1067/0.1064          0.1082/0.1064          0.1090/0.1064          TSL       
+58    5M   MYXUSDT      LONG   0.2555     N/A        0.2539     -0.3099    0.0190     10     0.2552/0.2545          0.2552/0.2524          0.2552/0.2511          SL        
+85    5M   ARIAUSDT     SHORT  0.3238     N/A        0.3288     -0.7184    0.0183     10     0.3309/0.3268          0.3309/0.3264          0.3337/0.3264          SL        
+59    5M   AAPLUSDT     SHORT  245.7231   N/A        247.7948   -0.4063    0.0188     10     247.7500/247.6700      247.8100/247.4500      247.8100/247.3700      SL        
+79    5M   OXYUSDT      LONG   67.7500    N/A        65.2735    -0.9156    0.0183     10     65.3900/65.2800        65.4100/65.2800        65.5600/65.2800        SL        
+77    5M   GOOGLUSDT    LONG   274.2497   N/A        273.5726   -0.1241    0.0186     10     273.6300/273.5400      273.6500/273.5400      273.6500/273.4300      SL        
+54    5M   B3USDT       SHORT  0.0004     N/A        0.0004     -0.6058    0.0193     10     0.0004/0.0004          0.0004/0.0004          0.0004/0.0004          SL        
+65    5M   LITUSDT      LONG   0.8944     N/A        0.8819     -0.6777    0.0191     10     0.8840/0.8830          0.8840/0.8800          0.8840/0.8800          SL        
+69    5M   XAUTUSDT     LONG   4500.8679  N/A        4490.7509  -0.1099    0.0180     10     4491.7000/4491.1000    4492.4000/4491.1000    4494.0000/4490.9000    SL        
+88    5M   ROBOUSDT     LONG   0.0234     N/A        0.0233     -0.2300    0.0180     10     0.0234/0.0233          0.0235/0.0233          0.0236/0.0233          SL        
+34    5M   HUMAUSDT     LONG   0.0156     N/A        0.0154     -0.6175    0.0195     10     0.0155/0.0154          0.0155/0.0153          0.0155/0.0150          SL        
+81    5M   ASTERUSDT    LONG   0.6640     N/A        0.6606     -0.2398    0.0182     10     0.6608/0.6606          0.6611/0.6606          0.6611/0.6606          SL        
+60    5M   AMZNUSDT     SHORT  198.4211   N/A        198.7899   -0.0982    0.0191     20     198.8000/198.7600      198.8200/198.7600      198.8200/198.6900      SL        
+80    5M   TONUSDT      SHORT  1.1981     N/A        1.2151     -0.6630    0.0184     10     1.2157/1.2143          1.2170/1.2143          1.2185/1.2143          SL        
+55    5M   PIPPINUSDT   SHORT  0.0508     N/A        0.0513     -0.4639    0.0193     10     0.0512/0.0508          0.0513/0.0508          0.0518/0.0508          SL        
+28    5M   MAGMAUSDT    LONG   0.1246     0.1257     0.1253     0.3665     0.0196     10     0.1241/0.1240          0.1257/0.1240          0.1257/0.1240          TSL       
+72    5M   HBARUSDT     SHORT  0.0886     N/A        0.0888     -0.1429    0.0188     10     0.0888/0.0888          0.0890/0.0888          0.0891/0.0888          SL        
+64    5M   ENSOUSDT     LONG   1.0328     N/A        1.0243     -0.3989    0.0189     10     1.0261/1.0225          1.0284/1.0225          1.0294/1.0225          SL        
+29    5M   TAOUSDT      LONG   315.1881   N/A        313.6486   -0.2483    0.0195     10     315.7000/314.1300      315.7000/313.0000      317.3800/313.0000      SL        
+42    5M   OXYUSDT      SHORT  63.3350    N/A        65.3365    -0.9661    0.0193     10     65.2900/65.2900        65.3900/65.2800        65.4200/65.2800        SL        
+51    5M   SEIUSDT      SHORT  0.0541     N/A        0.0546     -0.4340    0.0193     10     0.0546/0.0545          0.0546/0.0545          0.0548/0.0545          SL        
+52    5M   JTOUSDT      LONG   0.3096     N/A        0.3062     -0.5370    0.0193     10     0.3067/0.3059          0.3071/0.3059          0.3081/0.3059          SL        
+53    5M   MSFTUSDT     SHORT  355.5668   N/A        356.9657   -0.1918    0.0186     10     357.0100/356.8300      357.0700/356.8300      357.2200/356.8300      SL        
+41    5M   POWERUSDT    LONG   0.0860     N/A        0.0854     -0.3536    0.0194     10     0.0856/0.0855          0.0856/0.0852          0.0856/0.0851          SL        
+23    5M   NVDAUSDT     SHORT  166.6594   N/A        167.1767   -0.1655    0.0200     10     167.0500/167.0100      167.1700/167.0100      167.1700/166.9700      SL        
+6     5M   APRUSDT      LONG   0.1548     N/A        0.1550     0.0767     0.0199     20     0.1543/0.1540          0.1557/0.1540          0.1561/0.1540          TSL       
+26    5M   RESOLVUSDT   LONG   0.0412     N/A        0.0404     -0.9797    0.0196     10     0.0406/0.0404          0.0406/0.0404          0.0407/0.0404          SL        
+20    5M   DEXEUSDT     SHORT  7.3665     N/A        7.4017     -0.2465    0.0198     10     7.3850/7.3760          7.4010/7.3760          7.4140/7.3670          SL        
+36    5M   GEUSDT       LONG   283.0116   N/A        282.0818   -0.1676    0.0192     100    282.4100/281.9900      282.4100/281.9400      282.9400/281.8900      SL        
+32    5M   TIAUSDT      SHORT  0.2973     N/A        0.2991     -0.3036    0.0195     10     0.2992/0.2985          0.2996/0.2985          0.3008/0.2985          SL        
+22    5M   SAHARAUSDT   SHORT  0.0249     N/A        0.0251     -0.4108    0.0198     10     0.0251/0.0250          0.0251/0.0250          0.0253/0.0250          SL        
+7     5M   DOTUSDT      LONG   1.2842     N/A        1.2789     -0.2169    0.0200     10     1.2820/1.2800          1.2850/1.2790          1.2920/1.2790          SL        
+21    5M   OXYUSDT      SHORT  61.8286    N/A        65.3365    -0.9923    0.0198     10     65.3300/65.2900        65.3300/65.2900        65.4100/65.2800        SL        
+12    5M   HBARUSDT     LONG   0.0891     N/A        0.0887     -0.2303    0.0199     10     0.0888/0.0887          0.0889/0.0887          0.0889/0.0887          SL        
+4     5M   WIFUSDT      SHORT  0.1693     N/A        0.1703     -0.3089    0.0200     10     0.1705/0.1699          0.1707/0.1699          0.1709/0.1699          SL        
+5     5M   RESOLVUSDT   LONG   0.0406     N/A        0.0404     -0.2842    0.0200     10     0.0405/0.0404          0.0406/0.0404          0.0406/0.0404          SL        
