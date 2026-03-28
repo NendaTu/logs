@@ -1,0 +1,10 @@
+=== FINAL SESSION METRICS (SUMMARY ROWS) ===
+Generated: 2026-03-28 14:29:40
+
+Session: 09:59:53 | Loaded: 400/400 | Setups: 1526 | Trades: 1329 | Win Rate: 29.8% | MAE: -0.59% | MFE: 0.43% | TSLfail: 71.8% | ROI/m: -0.0165% | ROI/t: -0.0693% | PnL/t: -0.0693 | APY: -8688.2% | TPM: 0.37 | Bal: 31.06 | Avail: 0.00 | Margin: 31.06 | Fees: 17.47 | Orders: 1560
+[5M] Setups: 221 | FVGs(A/T): 7299/39855 | Sweeps: 18800 | Orders: 1220 | Trades: 1062 | Win Rate: 36.4% | MAE: -0.38% | MFE: 0.32% | TSLfail: 86.2% | ROI/m: -0.0710% | ROI/t: -0.0401% | PnL/t: -0.0401 | APY: -37297.3% | TPM: 1.77
+[10M] Setups: 259 | FVGs(A/T): 6609/32227 | Sweeps: 23728 | Orders: 179 | Trades: 146 | Win Rate: 39.7% | MAE: -0.56% | MFE: 0.57% | TSLfail: 84.2% | ROI/m: -0.0076% | ROI/t: -0.0310% | PnL/t: -0.0310 | APY: -3971.9% | TPM: 0.24
+[15M] Setups: 258 | FVGs(A/T): 5055/25434 | Sweeps: 26228 | Orders: 92 | Trades: 69 | Win Rate: 31.9% | MAE: -0.70% | MFE: 0.52% | TSLfail: 95.5% | ROI/m: -0.0097% | ROI/t: -0.0847% | PnL/t: -0.0847 | APY: -5121.5% | TPM: 0.12
+[20M] Setups: 252 | FVGs(A/T): 3862/20366 | Sweeps: 26790 | Orders: 46 | Trades: 36 | Win Rate: 33.3% | MAE: -0.85% | MFE: 0.61% | TSLfail: 81.8% | ROI/m: -0.0072% | ROI/t: -0.1197% | PnL/t: -0.1197 | APY: -3774.7% | TPM: 0.06
+[25M] Setups: 269 | FVGs(A/T): 3103/16652 | Sweeps: 26378 | Orders: 23 | Trades: 16 | Win Rate: 37.5% | MAE: -1.07% | MFE: 0.57% | TSLfail: 83.3% | ROI/m: -0.0037% | ROI/t: -0.1401% | PnL/t: -0.1401 | APY: -1963.8% | TPM: 0.03
+[30M] Setups: 267 | FVGs(A/T): 2543/13503 | Sweeps: 24306 | Orders: 0 | Trades: 0 | Win Rate: 0.0% | MAE: 0.00% | MFE: 0.00% | TSLfail: 0.0% | ROI/m: 0.0000% | ROI/t: 0.0000% | PnL/t: 0.0000 | APY: 0.0% | TPM: 0.00
