@@ -1,0 +1,699 @@
+(venv) engineering@Andrews-MacBook-Pro quick % python backtest killzone_sweep.1.mustafa
+Discovering top 25 assets by volume...
+Acquiring historical data for ['1m', '15m', '1H']...
+Data for ETHUSDT 1m already exists in DB (87403 candles).
+Data for ETHUSDT 15m already exists in DB (5827 candles).
+Data for ETHUSDT 1H already exists in DB (1457 candles).
+Data for SOLUSDT 1m already exists in DB (87403 candles).
+Data for SOLUSDT 15m already exists in DB (5827 candles).
+Data for SOLUSDT 1H already exists in DB (1457 candles).
+Downloading XRPUSDT 1m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading XRPUSDT 1m: [87600/87840] 99.7% | ETA: 0s  Downloading XRPUSDT 15m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading XRPUSDT 15m: [6000/5856] 102.5% | ETA: 0s  
+Downloading XRPUSDT 1H from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading XRPUSDT 1H: [1600/1464] 109.3% | ETA: 0s  
+Downloading HYPEUSDT 1m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading HYPEUSDT 1m: [87600/87840] 99.7% | ETA: 0s  Downloading HYPEUSDT 15m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading HYPEUSDT 15m: [6000/5856] 102.5% | ETA: 0s  
+Downloading HYPEUSDT 1H from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading HYPEUSDT 1H: [1600/1464] 109.3% | ETA: 0s  
+Downloading SKHYNIXUSDT 1m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+No more data returned for SKHYNIXUSDT 1m at 1780272000000
+Downloading SKHYNIXUSDT 15m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+No more data returned for SKHYNIXUSDT 15m at 1780272000000
+Downloading SKHYNIXUSDT 1H from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+No more data returned for SKHYNIXUSDT 1H at 1780272000000
+Downloading XAUUSDT 1m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading XAUUSDT 1m: [87600/87840] 99.7% | ETA: 0s  Downloading XAUUSDT 15m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading XAUUSDT 15m: [6000/5856] 102.5% | ETA: 0s  
+Downloading XAUUSDT 1H from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading XAUUSDT 1H: [1600/1464] 109.3% | ETA: 0s  
+Downloading MUUSDT 1m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading MUUSDT 1m: [87600/87840] 99.7% | ETA: 0s  Downloading MUUSDT 15m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading MUUSDT 15m: [6000/5856] 102.5% | ETA: 0s  
+Downloading MUUSDT 1H from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading MUUSDT 1H: [1600/1464] 109.3% | ETA: 0s  
+Downloading ZECUSDT 1m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading ZECUSDT 1m: [87600/87840] 99.7% | ETA: 0s  Downloading ZECUSDT 15m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading ZECUSDT 15m: [6000/5856] 102.5% | ETA: 0s  
+Downloading ZECUSDT 1H from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading ZECUSDT 1H: [1600/1464] 109.3% | ETA: 0s  
+Downloading SNDKUSDT 1m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading SNDKUSDT 1m: [66896/87840] 76.2% | ETA: 30s  No more data returned for SNDKUSDT 1m at 1776238199999
+Downloading SNDKUSDT 15m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading SNDKUSDT 15m: [4460/5856] 76.2% | ETA: 2s  No more data returned for SNDKUSDT 15m at 1776238199999
+Downloading SNDKUSDT 1H from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading SNDKUSDT 1H: [1116/1464] 76.2% | ETA: 0s  No more data returned for SNDKUSDT 1H at 1776236399999
+Downloading SOXLUSDT 1m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading SOXLUSDT 1m: [75463/87840] 85.9% | ETA: 17s  No more data returned for SOXLUSDT 1m at 1775721599999
+Downloading SOXLUSDT 15m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading SOXLUSDT 15m: [5031/5856] 85.9% | ETA: 1s  No more data returned for SOXLUSDT 15m at 1775721599999
+Downloading SOXLUSDT 1H from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading SOXLUSDT 1H: [1258/1464] 85.9% | ETA: 0s  No more data returned for SOXLUSDT 1H at 1775721599999
+Downloading LABUSDT 1m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading LABUSDT 1m: [87600/87840] 99.7% | ETA: 0s  Downloading LABUSDT 15m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading LABUSDT 15m: [6000/5856] 102.5% | ETA: 0s  
+Downloading LABUSDT 1H from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading LABUSDT 1H: [1600/1464] 109.3% | ETA: 0s  
+Downloading KORUUSDT 1m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+No more data returned for KORUUSDT 1m at 1780272000000
+Downloading KORUUSDT 15m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+No more data returned for KORUUSDT 15m at 1780272000000
+Downloading KORUUSDT 1H from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+No more data returned for KORUUSDT 1H at 1780272000000
+Downloading XAGUSDT 1m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading XAGUSDT 1m: [87600/87840] 99.7% | ETA: 0s  Downloading XAGUSDT 15m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading XAGUSDT 15m: [6000/5856] 102.5% | ETA: 0s  
+Downloading XAGUSDT 1H from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading XAGUSDT 1H: [1600/1464] 109.3% | ETA: 0s  
+Downloading ADAUSDT 1m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading ADAUSDT 1m: [87600/87840] 99.7% | ETA: 0s  Downloading ADAUSDT 15m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading ADAUSDT 15m: [6000/5856] 102.5% | ETA: 0s  
+Downloading ADAUSDT 1H from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading ADAUSDT 1H: [1600/1464] 109.3% | ETA: 0s  
+Downloading WLDUSDT 1m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading WLDUSDT 1m: [87600/87840] 99.7% | ETA: 0s  Downloading WLDUSDT 15m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading WLDUSDT 15m: [6000/5856] 102.5% | ETA: 0s  
+Downloading WLDUSDT 1H from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading WLDUSDT 1H: [1600/1464] 109.3% | ETA: 0s  
+Downloading DRAMUSDT 1m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading DRAMUSDT 1m: [29636/87840] 33.7% | ETA: 84s  No more data returned for DRAMUSDT 1m at 1778484959999
+Downloading DRAMUSDT 15m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading DRAMUSDT 15m: [1977/5856] 33.8% | ETA: 5s  No more data returned for DRAMUSDT 15m at 1778484599999
+Downloading DRAMUSDT 1H from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading DRAMUSDT 1H: [495/1464] 33.8% | ETA: 1s  No more data returned for DRAMUSDT 1H at 1778482799999
+Downloading NEARUSDT 1m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading NEARUSDT 1m: [87600/87840] 99.7% | ETA: 0s  Downloading NEARUSDT 15m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading NEARUSDT 15m: [6000/5856] 102.5% | ETA: 0s  
+Downloading NEARUSDT 1H from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading NEARUSDT 1H: [1600/1464] 109.3% | ETA: 0s  
+Downloading ARPAUSDT 1m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading ARPAUSDT 1m: [87600/87840] 99.7% | ETA: 0s  Downloading ARPAUSDT 15m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading ARPAUSDT 15m: [6000/5856] 102.5% | ETA: 0s  
+Downloading ARPAUSDT 1H from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading ARPAUSDT 1H: [1600/1464] 109.3% | ETA: 0s  
+Downloading MAGMAUSDT 1m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading MAGMAUSDT 1m: [87600/87840] 99.7% | ETA: 0s  Downloading MAGMAUSDT 15m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading MAGMAUSDT 15m: [6000/5856] 102.5% | ETA: 0s  
+Downloading MAGMAUSDT 1H from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading MAGMAUSDT 1H: [1600/1464] 109.3% | ETA: 0s  
+Data for SUIUSDT 1m already exists in DB (87403 candles).
+Data for SUIUSDT 15m already exists in DB (5827 candles).
+Data for SUIUSDT 1H already exists in DB (1457 candles).
+Data for DOGEUSDT 1m already exists in DB (87403 candles).
+Data for DOGEUSDT 15m already exists in DB (5827 candles).
+Data for DOGEUSDT 1H already exists in DB (1457 candles).
+Downloading THEUSDT 1m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading THEUSDT 1m: [87600/87840] 99.7% | ETA: 0s  Downloading THEUSDT 15m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading THEUSDT 15m: [6000/5856] 102.5% | ETA: 0s  
+Downloading THEUSDT 1H from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading THEUSDT 1H: [1600/1464] 109.3% | ETA: 0s  
+Downloading MSTRUSDT 1m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading MSTRUSDT 1m: [87600/87840] 99.7% | ETA: 0s  Downloading MSTRUSDT 15m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading MSTRUSDT 15m: [6000/5856] 102.5% | ETA: 0s  
+Downloading MSTRUSDT 1H from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading MSTRUSDT 1H: [1600/1464] 109.3% | ETA: 0s  
+Downloading TLMUSDT 1m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading TLMUSDT 1m: [87600/87840] 99.7% | ETA: 0s  Downloading TLMUSDT 15m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading TLMUSDT 15m: [6000/5856] 102.5% | ETA: 0s  
+Downloading TLMUSDT 1H from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+Downloading TLMUSDT 1H: [1600/1464] 109.3% | ETA: 0s  
+Downloading SPCXUSDT 1m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+No more data returned for SPCXUSDT 1m at 1780272000000
+Downloading SPCXUSDT 15m from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+No more data returned for SPCXUSDT 15m at 1780272000000
+Downloading SPCXUSDT 1H from 2026-04-01 00:00:00+00:00 to 2026-06-01 00:00:00+00:00...
+No more data returned for SPCXUSDT 1H at 1780272000000
+Backtesting ETHUSDT 1m: [12358/87403] 14.1% | ETA: 3s  MUSTAFA | ETHUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting ETHUSDT 1m: [12370/87403] 14.2% | ETA: 3s  MUSTAFA | ETHUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting ETHUSDT 1m: [12371/87403] 14.2% | ETA: 3s  MUSTAFA | ETHUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ETHUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ETHUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 2178.50000000
+  - SL   : 2167.93045000 (Risk: 10.56955000)
+  - TP1  : 2195.78359000 | TP2: 2204.92387500
+  - Qty  : 0.406 (Equity: 1000.00)
+PLACED LIMIT ENTRY ETHUSDT BUY 0.406 @ 2178.50000000 | Margin Reserved: 5.90
+Backtesting ETHUSDT 1m: [12372/87403] 14.2% | ETA: 3s  FILLED ENTRY ETHUSDT BUY 0.406 @ 2178.50000000 (LIMIT) [] drt=0.5000 | equity=999.82 used_margin=5.90
+Backtesting ETHUSDT 1m: [12391/87403] 14.2% | ETA: 3s  EXIT FULL ETHUSDT BUY TP (LIMIT) @ 2204.92387500 PnL=10.7362 net=10.3800 [] drt_entry=0.5000 drt_exit=0.5108 | equity=1010.38 used_margin=0.00
+Backtesting ETHUSDT 1m: [19492/87403] 22.3% | ETA: 4s  MUSTAFA | ETHUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting ETHUSDT 1m: [19499/87403] 22.3% | ETA: 4s  MUSTAFA | ETHUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting ETHUSDT 1m: [19500/87403] 22.3% | ETA: 4s  MUSTAFA | ETHUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ETHUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ETHUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 2378.30000000
+  - SL   : 2399.15373000 (Risk: 20.85373000)
+  - TP1  : 2347.01940500 | TP2: 2326.16567500
+  - Qty  : 0.220 (Equity: 1000.00)
+PLACED LIMIT ENTRY ETHUSDT SELL 0.220 @ 2378.30000000 | Margin Reserved: 3.48
+Backtesting ETHUSDT 1m: [19501/87403] 22.3% | ETA: 4s  FILLED ENTRY ETHUSDT SELL 0.220 @ 2378.30000000 (LIMIT) [] drt=0.5000 | equity=1010.28 used_margin=3.48
+Backtesting ETHUSDT 1m: [19675/87403] 22.5% | ETA: 4s  EXIT FULL ETHUSDT SELL TP (LIMIT) @ 2326.16567500 PnL=11.4486 net=11.2420 [] drt_entry=0.5000 drt_exit=0.4513 | equity=1021.62 used_margin=0.00
+Backtesting ETHUSDT 1m: [79701/87403] 91.2% | ETA: 0s  MUSTAFA | ETHUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting ETHUSDT 1m: [79703/87403] 91.2% | ETA: 0s  MUSTAFA | ETHUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | ETHUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ETHUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ETHUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 2103.24000000
+  - SL   : 2116.65987000 (Risk: 13.41987000)
+  - TP1  : 2081.36655000 | TP2: 2069.69032500
+  - Qty  : 0.331 (Equity: 1000.00)
+PLACED LIMIT ENTRY ETHUSDT SELL 0.331 @ 2103.24000000 | Margin Reserved: 4.64
+Backtesting ETHUSDT 1m: [79704/87403] 91.2% | ETA: 0s  FILLED ENTRY ETHUSDT SELL 0.331 @ 2103.24000000 (LIMIT) [] drt=0.5000 | equity=1021.48 used_margin=4.64
+Backtesting ETHUSDT 1m: [79840/87403] 91.3% | ETA: 0s  EXIT FULL ETHUSDT SELL TP (LIMIT) @ 2069.69032500 PnL=11.1014 net=10.8253 [] drt_entry=0.5000 drt_exit=0.4592 | equity=1032.45 used_margin=0.00
+Backtesting ETHUSDT 1m: [84000/87403] 96.1% | ETA: 0s  MUSTAFA | ETHUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting ETHUSDT 1m: [84003/87403] 96.1% | ETA: 0s  MUSTAFA | ETHUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | ETHUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ETHUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ETHUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 2006.79000000
+  - SL   : 1994.94212000 (Risk: 11.84788000)
+  - TP1  : 2024.56182000 | TP2: 2036.40970000
+  - Qty  : 0.372 (Equity: 1000.00)
+PLACED LIMIT ENTRY ETHUSDT BUY 0.372 @ 2006.79000000 | Margin Reserved: 4.97
+Backtesting ETHUSDT 1m: [84004/87403] 96.1% | ETA: 0s  FILLED ENTRY ETHUSDT BUY 0.372 @ 2006.79000000 (LIMIT) [] drt=0.5000 | equity=1032.30 used_margin=4.97
+Backtesting ETHUSDT 1m: [84032/87403] 96.1% | ETA: 0s  EXIT FULL ETHUSDT BUY TP (LIMIT) @ 2036.40970000 PnL=11.0142 net=10.7135 [] drt_entry=0.5000 drt_exit=0.6037 | equity=1043.16 used_margin=0.00
+Backtesting ETHUSDT 1m: [87403/87403] 100.0% | ETA: 0s  
+
+[Milestone Report: ETHUSDT]
+  - Phase 0: UK_EU Session Start  : 24   | First: 04-01 03:00-03:59 (1H) | Last: 05-27 04:00-04:59 (1H)
+  - Phase 0: HK Session Start     : 22   | First: 04-01 21:00-21:59 (1H) | Last: 05-30 22:00-22:59 (1H)
+  - Phase 0: US Session Start     : 31   | First: 04-02 10:00-10:59 (1H) | Last: 05-31 10:00-10:59 (1H)
+  - Phase 0: JAPAN Session Start  : 20   | First: 04-05 19:00-19:59 (1H) | Last: 05-27 19:00-19:59 (1H)
+  - Phase 1: 1H Overnight Range   : 548  | First: 03-31 20:00-20:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 79   | First: 04-01 03:00-03:59 (1H) | Last: 05-30 22:00-22:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 93   | First: 04-01 21:00-21:59 (1H) | Last: 05-31 11:00-11:59 (1H)
+  - Phase 3: 15m SSL Sweep        : 2    | First: 04-09 11:00-11:14 (15m) | Last: 05-29 11:00-11:14 (15m)
+  - Phase 3: 15m BSL Sweep        : 2    | First: 04-14 10:30-10:44 (15m) | Last: 05-26 11:00-11:14 (15m)
+  - Phase 4: 1m BOS1              : 4    | First: 04-09 11:12-11:12 (1m) | Last: 05-29 11:04-11:04 (1m)
+  - Phase 5: 1m FVG Formed        : 4    | First: 04-09 11:13-11:13 (1m) | Last: 05-29 11:04-11:04 (1m)
+  - Phase 6: 1m FVG Retest        : 4    | First: 04-09 11:13-11:13 (1m) | Last: 05-29 11:04-11:04 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 4    | First: 04-09 11:13-11:13 (1m) | Last: 05-29 11:04-11:04 (1m)
+Backtesting SOLUSDT 1m: [12358/87403] 14.1% | ETA: 3s  MUSTAFA | SOLUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting SOLUSDT 1m: [12371/87403] 14.2% | ETA: 3s  MUSTAFA | SOLUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | SOLUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SOLUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SOLUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 82.22200000
+  - SL   : 81.80705800 (Risk: 0.41494200)
+  - TP1  : 82.84441300 | TP2: 83.25935500
+  - Qty  : 10.406 (Equity: 1000.00)
+PLACED LIMIT ENTRY SOLUSDT BUY 10.406 @ 82.22200000 | Margin Reserved: 8.56
+Backtesting SOLUSDT 1m: [12372/87403] 14.2% | ETA: 3s  FILLED ENTRY SOLUSDT BUY 10.406 @ 82.22200000 (LIMIT) [] drt=0.5000 | equity=999.83 used_margin=8.56
+Backtesting SOLUSDT 1m: [12392/87403] 14.2% | ETA: 3s  EXIT FULL SOLUSDT BUY TP (LIMIT) @ 83.25935500 PnL=10.7952 net=10.4508 [] drt_entry=0.5000 drt_exit=0.5355 | equity=1010.45 used_margin=0.00
+Backtesting SOLUSDT 1m: [87403/87403] 100.0% | ETA: 0s  
+
+[Milestone Report: SOLUSDT]
+  - Phase 0: JAPAN Session Start  : 26   | First: 03-31 20:00-20:59 (1H) | Last: 05-27 19:00-19:59 (1H)
+  - Phase 0: UK_EU Session Start  : 18   | First: 04-01 03:00-03:59 (1H) | Last: 05-27 03:00-03:59 (1H)
+  - Phase 0: HK Session Start     : 28   | First: 04-01 21:00-21:59 (1H) | Last: 05-29 21:00-21:59 (1H)
+  - Phase 0: US Session Start     : 35   | First: 04-02 09:00-09:59 (1H) | Last: 05-31 10:00-10:59 (1H)
+  - Phase 1: 1H Overnight Range   : 548  | First: 03-31 20:00-20:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 89   | First: 03-31 20:00-20:59 (1H) | Last: 05-29 22:00-22:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 114  | First: 04-01 19:00-19:59 (1H) | Last: 05-31 11:00-11:59 (1H)
+  - Phase 3: 15m SSL Sweep        : 1    | 04-09 11:00-11:14 (15m)
+  - Phase 4: 1m BOS1              : 1    | 04-09 11:13-11:13 (1m)
+  - Phase 5: 1m FVG Formed        : 1    | 04-09 11:13-11:13 (1m)
+  - Phase 6: 1m FVG Retest        : 1    | 04-09 11:13-11:13 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 1    | 04-09 11:13-11:13 (1m)
+Backtesting XRPUSDT 1m: [12358/87403] 14.1% | ETA: 2s  MUSTAFA | XRPUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting XRPUSDT 1m: [12370/87403] 14.2% | ETA: 2s  MUSTAFA | XRPUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | XRPUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | XRPUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | XRPUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 1.33190000
+  - SL   : 1.32719030 (Risk: 0.00470970)
+  - TP1  : 1.33953820 | TP2: 1.34367425
+  - Qty  : 866.192 (Equity: 1000.00)
+PLACED LIMIT ENTRY XRPUSDT BUY 866.192 @ 1.33190000 | Margin Reserved: 9.23
+Backtesting XRPUSDT 1m: [12371/87403] 14.2% | ETA: 2s  FILLED ENTRY XRPUSDT BUY 866.192 @ 1.33190000 (LIMIT) [] drt=0.5000 | equity=999.77 used_margin=9.23
+Backtesting XRPUSDT 1m: [12390/87403] 14.2% | ETA: 2s  EXIT FULL XRPUSDT BUY TP (LIMIT) @ 1.34367425 PnL=10.1988 net=9.7352 [] drt_entry=0.5000 drt_exit=0.5059 | equity=1009.74 used_margin=0.00
+Backtesting XRPUSDT 1m: [87403/87403] 100.0% | ETA: 0s  
+
+[Milestone Report: XRPUSDT]
+  - Phase 0: UK_EU Session Start  : 25   | First: 04-05 03:00-03:59 (1H) | Last: 05-31 03:00-03:59 (1H)
+  - Phase 0: US Session Start     : 37   | First: 04-05 09:00-09:59 (1H) | Last: 05-31 10:00-10:59 (1H)
+  - Phase 0: JAPAN Session Start  : 22   | First: 04-05 19:00-19:59 (1H) | Last: 05-29 20:00-20:59 (1H)
+  - Phase 0: HK Session Start     : 27   | First: 04-05 21:00-21:59 (1H) | Last: 05-29 21:00-21:59 (1H)
+  - Phase 1: 1H Overnight Range   : 547  | First: 03-31 21:00-21:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 117  | First: 04-05 03:00-03:59 (1H) | Last: 05-31 11:00-11:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 95   | First: 04-05 19:00-19:59 (1H) | Last: 05-29 22:00-22:59 (1H)
+  - Phase 3: 15m SSL Sweep        : 1    | 04-09 11:00-11:14 (15m)
+  - Phase 4: 1m BOS1              : 1    | 04-09 11:12-11:12 (1m)
+  - Phase 5: 1m FVG Formed        : 1    | 04-09 11:12-11:12 (1m)
+  - Phase 6: 1m FVG Retest        : 1    | 04-09 11:12-11:12 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 1    | 04-09 11:12-11:12 (1m)
+Backtesting HYPEUSDT 1m: [87403/87403] 100.0% | ETA: 0s  
+
+[Milestone Report: HYPEUSDT]
+  - Phase 0: HK Session Start     : 36   | First: 04-02 22:00-22:59 (1H) | Last: 05-30 21:00-21:59 (1H)
+  - Phase 0: UK_EU Session Start  : 24   | First: 04-03 03:00-03:59 (1H) | Last: 05-30 03:00-03:59 (1H)
+  - Phase 0: JAPAN Session Start  : 34   | First: 04-04 19:00-19:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 0: US Session Start     : 40   | First: 04-05 09:00-09:59 (1H) | Last: 05-30 09:00-09:59 (1H)
+  - Phase 1: 1H Overnight Range   : 547  | First: 03-31 21:00-21:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 151  | First: 04-02 22:00-22:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 99   | First: 04-05 09:00-09:59 (1H) | Last: 05-28 04:00-04:59 (1H)
+
+[Milestone Report: SKHYNIXUSDT]
+  - Phase 0: HK Session Start     : 36   | First: 04-02 22:00-22:59 (1H) | Last: 05-30 21:00-21:59 (1H)
+  - Phase 0: UK_EU Session Start  : 24   | First: 04-03 03:00-03:59 (1H) | Last: 05-30 03:00-03:59 (1H)
+  - Phase 0: JAPAN Session Start  : 34   | First: 04-04 19:00-19:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 0: US Session Start     : 40   | First: 04-05 09:00-09:59 (1H) | Last: 05-30 09:00-09:59 (1H)
+  - Phase 1: 1H Overnight Range   : 547  | First: 03-31 21:00-21:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 151  | First: 04-02 22:00-22:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 99   | First: 04-05 09:00-09:59 (1H) | Last: 05-28 04:00-04:59 (1H)
+Backtesting XAUUSDT 1m: [20179/87403] 23.1% | ETA: 3s  MUSTAFA | XAUUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting XAUUSDT 1m: [20193/87403] 23.1% | ETA: 3s  MUSTAFA | XAUUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | XAUUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | XAUUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | XAUUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 4841.51000000
+  - SL   : 4855.46154000 (Risk: 13.95154000)
+  - TP1  : 4820.55462000 | TP2: 4783.46175000
+  - Qty  : 0.280 (Equity: 1000.00)
+PLACED LIMIT ENTRY XAUUSDT SELL 0.280 @ 4841.51000000 | Margin Reserved: 13.57
+Backtesting XAUUSDT 1m: [20194/87403] 23.1% | ETA: 3s  FILLED ENTRY XAUUSDT SELL 0.280 @ 4841.51000000 (LIMIT) [] drt=0.5000 | equity=999.73 used_margin=13.57
+Backtesting XAUUSDT 1m: [20643/87403] 23.6% | ETA: 3s  EXIT FULL XAUUSDT SELL TP (LIMIT) @ 4783.46175000 PnL=16.2754 net=15.7357 [] drt_entry=0.5000 drt_exit=0.4840 | equity=1015.74 used_margin=0.00
+Backtesting XAUUSDT 1m: [71761/87403] 82.1% | ETA: 1s  MUSTAFA | XAUUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting XAUUSDT 1m: [71764/87403] 82.1% | ETA: 1s  MUSTAFA | XAUUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | XAUUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | XAUUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | XAUUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 4559.75000000
+  - SL   : 4575.87849000 (Risk: 16.12849000)
+  - TP1  : 4535.23023000 | TP2: 4467.62790000
+  - Qty  : 0.253 (Equity: 1000.00)
+PLACED LIMIT ENTRY XAUUSDT SELL 0.253 @ 4559.75000000 | Margin Reserved: 11.52
+Backtesting XAUUSDT 1m: [71765/87403] 82.1% | ETA: 1s  FILLED ENTRY XAUUSDT SELL 0.253 @ 4559.75000000 (LIMIT) [] drt=0.5000 | equity=1015.51 used_margin=11.52
+Backtesting XAUUSDT 1m: [77320/87403] 88.5% | ETA: 0s  EXIT FULL XAUUSDT SELL STOP (LIMIT) @ 4575.87849000 PnL=-4.0757 net=-4.5375 [] drt_entry=0.5000 drt_exit=0.5236 | equity=1011.20 used_margin=0.00
+Backtesting XAUUSDT 1m: [78761/87403] 90.1% | ETA: 0s  MUSTAFA | XAUUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting XAUUSDT 1m: [78767/87403] 90.1% | ETA: 0s  MUSTAFA | XAUUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting XAUUSDT 1m: [78773/87403] 90.1% | ETA: 0s  MUSTAFA | XAUUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | XAUUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | XAUUSDT BSL BOS2 Triggered (bearish_bos)! Hub: JAPAN
+  - Entry: 4572.79000000
+  - SL   : 4586.68005000 (Risk: 13.89005000)
+  - TP1  : 4551.95492500 | TP2: 4538.06487500
+  - Qty  : 0.285 (Equity: 1000.00)
+PLACED LIMIT ENTRY XAUUSDT SELL 0.285 @ 4572.79000000 | Margin Reserved: 13.02
+Backtesting XAUUSDT 1m: [78774/87403] 90.1% | ETA: 0s  FILLED ENTRY XAUUSDT SELL 0.285 @ 4572.79000000 (LIMIT) [] drt=0.5000 | equity=1010.94 used_margin=13.02
+Backtesting XAUUSDT 1m: [78902/87403] 90.3% | ETA: 0s  EXIT FULL XAUUSDT SELL TP (LIMIT) @ 4538.06487500 PnL=9.8895 net=9.3705 [] drt_entry=0.5000 drt_exit=0.4717 | equity=1020.57 used_margin=0.00
+Backtesting XAUUSDT 1m: [87403/87403] 100.0% | ETA: 0s  
+
+[Milestone Report: XAUUSDT]
+  - Phase 0: JAPAN Session Start  : 23   | First: 04-04 19:00-19:59 (1H) | Last: 05-30 19:00-19:59 (1H)
+  - Phase 0: HK Session Start     : 27   | First: 04-04 21:00-21:59 (1H) | Last: 05-27 22:00-22:59 (1H)
+  - Phase 0: UK_EU Session Start  : 26   | First: 04-05 03:00-03:59 (1H) | Last: 05-31 03:00-03:59 (1H)
+  - Phase 0: US Session Start     : 33   | First: 04-05 09:00-09:59 (1H) | Last: 05-29 10:00-10:59 (1H)
+  - Phase 1: 1H Overnight Range   : 547  | First: 03-31 21:00-21:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 125  | First: 04-04 19:00-19:59 (1H) | Last: 05-30 20:00-20:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 91   | First: 04-06 03:00-03:59 (1H) | Last: 05-31 03:00-03:59 (1H)
+  - Phase 3: 15m BSL Sweep        : 3    | First: 04-14 22:00-22:14 (15m) | Last: 05-25 19:15-19:29 (15m)
+  - Phase 4: 1m BOS1              : 3    | First: 04-14 22:14-22:14 (1m) | Last: 05-25 19:21-19:21 (1m)
+  - Phase 5: 1m FVG Formed        : 3    | First: 04-14 22:14-22:14 (1m) | Last: 05-25 19:27-19:27 (1m)
+  - Phase 6: 1m FVG Retest        : 3    | First: 04-14 22:14-22:14 (1m) | Last: 05-25 19:27-19:27 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 3    | First: 04-14 22:14-22:14 (1m) | Last: 05-25 19:27-19:27 (1m)
+Backtesting MUUSDT 1m: [17194/87403] 19.7% | ETA: 3s  MUSTAFA | MUUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting MUUSDT 1m: [17204/87403] 19.7% | ETA: 3s  MUSTAFA | MUUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | MUUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | MUUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | MUUSDT SSL BOS2 Triggered (bullish_bos)! Hub: JAPAN
+  - Entry: 410.76000000
+  - SL   : 407.32372000 (Risk: 3.43628000)
+  - TP1  : 415.91442000 | TP2: 419.35070000
+  - Qty  : 1.329 (Equity: 1000.00)
+PLACED LIMIT ENTRY MUUSDT BUY 1.329 @ 410.76000000 | Margin Reserved: 10.92
+Backtesting MUUSDT 1m: [17205/87403] 19.7% | ETA: 3s  FILLED ENTRY MUUSDT BUY 1.329 @ 410.76000000 (LIMIT) [] drt=0.5000 | equity=999.89 used_margin=10.92
+Backtesting MUUSDT 1m: [18100/87403] 20.7% | ETA: 3s  EXIT FULL MUUSDT BUY TP (LIMIT) @ 419.35070000 PnL=11.4152 net=11.1946 [] drt_entry=0.5000 drt_exit=0.6142 | equity=1011.19 used_margin=0.00
+Backtesting MUUSDT 1m: [32417/87403] 37.1% | ETA: 3s  MUSTAFA | MUUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | MUUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | MUUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | MUUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | MUUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 481.72000000
+  - SL   : 480.64179000 (Risk: 1.07821000)
+  - TP1  : 483.97349000 | TP2: 484.56408000
+  - Qty  : 3.418 (Equity: 1000.00)
+PLACED LIMIT ENTRY MUUSDT BUY 3.418 @ 481.72000000 | Margin Reserved: 32.93
+Backtesting MUUSDT 1m: [32418/87403] 37.1% | ETA: 3s  FILLED ENTRY MUUSDT BUY 3.418 @ 481.72000000 (LIMIT) [] drt=0.5000 | equity=1010.87 used_margin=32.93
+Backtesting MUUSDT 1m: [32428/87403] 37.1% | ETA: 3s  EXIT FULL MUUSDT BUY TP (LIMIT) @ 484.56408000 PnL=9.7204 net=9.0599 [] drt_entry=0.5000 drt_exit=0.5996 | equity=1020.25 used_margin=0.00
+Backtesting MUUSDT 1m: [69671/87403] 79.7% | ETA: 1s  MUSTAFA | MUUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | MUUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | MUUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | MUUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | MUUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 680.87000000
+  - SL   : 671.15500000 (Risk: 9.71500000)
+  - TP1  : 701.87117000 | TP2: 705.15750000
+  - Qty  : 0.488 (Equity: 1000.00)
+PLACED LIMIT ENTRY MUUSDT BUY 0.488 @ 680.87000000 | Margin Reserved: 6.64
+Backtesting MUUSDT 1m: [69672/87403] 79.7% | ETA: 1s  FILLED ENTRY MUUSDT BUY 0.488 @ 680.87000000 (LIMIT) [] drt=0.5000 | equity=1020.19 used_margin=6.64
+Backtesting MUUSDT 1m: [69756/87403] 79.8% | ETA: 1s  EXIT FULL MUUSDT BUY TP (LIMIT) @ 705.15750000 PnL=11.8431 net=11.7079 [] drt_entry=0.5000 drt_exit=0.6628 | equity=1031.96 used_margin=0.00
+Backtesting MUUSDT 1m: [87403/87403] 100.0% | ETA: 0s  
+
+[Milestone Report: MUUSDT]
+  - Phase 0: UK_EU Session Start  : 21   | First: 04-03 03:00-03:59 (1H) | Last: 05-29 04:00-04:59 (1H)
+  - Phase 0: US Session Start     : 33   | First: 04-05 09:00-09:59 (1H) | Last: 05-31 11:00-11:59 (1H)
+  - Phase 0: JAPAN Session Start  : 26   | First: 04-05 20:00-20:59 (1H) | Last: 05-26 20:00-20:59 (1H)
+  - Phase 0: HK Session Start     : 28   | First: 04-05 21:00-21:59 (1H) | Last: 05-30 21:00-21:59 (1H)
+  - Phase 1: 1H Overnight Range   : 547  | First: 03-31 21:00-21:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 76   | First: 04-03 03:00-03:59 (1H) | Last: 05-27 11:00-11:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 135  | First: 04-05 20:00-20:59 (1H) | Last: 05-31 11:00-11:59 (1H)
+  - Phase 3: 15m SSL Sweep        : 3    | First: 04-12 20:00-20:14 (15m) | Last: 05-19 11:00-11:14 (15m)
+  - Phase 4: 1m BOS1              : 3    | First: 04-12 20:11-20:11 (1m) | Last: 05-19 11:00-11:00 (1m)
+  - Phase 5: 1m FVG Formed        : 3    | First: 04-12 20:11-20:11 (1m) | Last: 05-19 11:00-11:00 (1m)
+  - Phase 6: 1m FVG Retest        : 3    | First: 04-12 20:11-20:11 (1m) | Last: 05-19 11:00-11:00 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 3    | First: 04-12 20:11-20:11 (1m) | Last: 05-19 11:00-11:00 (1m)
+Backtesting ZECUSDT 1m: [87403/87403] 100.0% | ETA: 0s  
+
+[Milestone Report: ZECUSDT]
+  - Phase 0: UK_EU Session Start  : 15   | First: 04-04 04:00-04:59 (1H) | Last: 05-31 03:00-03:59 (1H)
+  - Phase 0: US Session Start     : 29   | First: 04-04 09:00-09:59 (1H) | Last: 05-30 10:00-10:59 (1H)
+  - Phase 0: JAPAN Session Start  : 23   | First: 04-05 19:00-19:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 0: HK Session Start     : 21   | First: 04-05 21:00-21:59 (1H) | Last: 05-28 22:00-22:59 (1H)
+  - Phase 1: 1H Overnight Range   : 547  | First: 03-31 21:00-21:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 86   | First: 04-04 04:00-04:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 75   | First: 04-05 03:00-03:59 (1H) | Last: 05-28 22:00-22:59 (1H)
+Backtesting SNDKUSDT 1m: [66896/66896] 100.0% | ETA: 0s  
+
+[Milestone Report: SNDKUSDT]
+  - Phase 0: US Session Start     : 27   | First: 04-17 11:00-11:59 (1H) | Last: 05-31 11:00-11:59 (1H)
+  - Phase 0: UK_EU Session Start  : 19   | First: 04-18 04:00-04:59 (1H) | Last: 05-31 03:00-03:59 (1H)
+  - Phase 0: HK Session Start     : 15   | First: 04-18 22:00-22:59 (1H) | Last: 05-25 21:00-21:59 (1H)
+  - Phase 0: JAPAN Session Start  : 20   | First: 04-25 20:00-20:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 1: 1H Overnight Range   : 417  | First: 04-15 09:00-09:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 50   | First: 04-17 11:00-11:59 (1H) | Last: 05-27 11:00-11:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 95   | First: 04-20 09:00-09:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+Backtesting SOXLUSDT 1m: [75463/75463] 100.0% | ETA: 0s  
+
+[Milestone Report: SOXLUSDT]
+  - Phase 0: US Session Start     : 31   | First: 04-11 09:00-09:59 (1H) | Last: 05-29 09:00-09:59 (1H)
+  - Phase 0: HK Session Start     : 22   | First: 04-11 21:00-21:59 (1H) | Last: 05-26 21:00-21:59 (1H)
+  - Phase 0: UK_EU Session Start  : 29   | First: 04-12 03:00-03:59 (1H) | Last: 05-30 03:00-03:59 (1H)
+  - Phase 0: JAPAN Session Start  : 23   | First: 04-13 19:00-19:59 (1H) | Last: 05-28 20:00-20:59 (1H)
+  - Phase 1: 1H Overnight Range   : 471  | First: 04-09 09:00-09:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 148  | First: 04-11 09:00-09:59 (1H) | Last: 05-31 04:00-04:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 63   | First: 04-11 21:00-21:59 (1H) | Last: 05-29 11:00-11:59 (1H)
+Backtesting LABUSDT 1m: [71104/87403] 81.4% | ETA: 1s  MUSTAFA | LABUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting LABUSDT 1m: [71109/87403] 81.4% | ETA: 1s  MUSTAFA | LABUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting LABUSDT 1m: [71110/87403] 81.4% | ETA: 1s  MUSTAFA | LABUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | LABUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+Backtesting LABUSDT 1m: [71111/87403] 81.4% | ETA: 1s  MUSTAFA | LABUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 4.11513000
+  - SL   : 4.11738373 (Risk: 0.00225373)
+  - TP1  : 4.18418000 | TP2: 4.18418000
+  - Qty  : 901.358 (Equity: 1000.00)
+PLACED LIMIT ENTRY LABUSDT BUY 901.358 @ 4.11513000 | Margin Reserved: 370.92
+Backtesting LABUSDT 1m: [71112/87403] 81.4% | ETA: 1s  FILLED ENTRY LABUSDT BUY 901.358 @ 4.11513000 (LIMIT) [] drt=0.5000 | equity=999.26 used_margin=370.92
+EXIT FULL LABUSDT BUY STOP (LIMIT) @ 4.11738373 PnL=2.0314 net=0.5473 [] drt_entry=0.5000 drt_exit=0.5801 | equity=1000.55 used_margin=0.00
+Backtesting LABUSDT 1m: [87403/87403] 100.0% | ETA: 0s  
+
+[Milestone Report: LABUSDT]
+  - Phase 0: UK_EU Session Start  : 28   | First: 04-03 03:00-03:59 (1H) | Last: 05-29 03:00-03:59 (1H)
+  - Phase 0: US Session Start     : 32   | First: 04-04 09:00-09:59 (1H) | Last: 05-31 09:00-09:59 (1H)
+  - Phase 0: HK Session Start     : 22   | First: 04-05 21:00-21:59 (1H) | Last: 05-30 22:00-22:59 (1H)
+  - Phase 0: JAPAN Session Start  : 16   | First: 04-11 19:00-19:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 1: 1H Overnight Range   : 547  | First: 03-31 21:00-21:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 106  | First: 04-03 03:00-03:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 83   | First: 04-04 03:00-03:59 (1H) | Last: 05-31 09:00-09:59 (1H)
+  - Phase 3: 15m SSL Sweep        : 1    | 05-20 11:00-11:14 (15m)
+  - Phase 4: 1m BOS1              : 1    | 05-20 11:05-11:05 (1m)
+  - Phase 5: 1m FVG Formed        : 1    | 05-20 11:06-11:06 (1m)
+  - Phase 6: 1m FVG Retest        : 1    | 05-20 11:06-11:06 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 1    | 05-20 11:07-11:07 (1m)
+
+[Milestone Report: KORUUSDT]
+  - Phase 0: UK_EU Session Start  : 28   | First: 04-03 03:00-03:59 (1H) | Last: 05-29 03:00-03:59 (1H)
+  - Phase 0: US Session Start     : 32   | First: 04-04 09:00-09:59 (1H) | Last: 05-31 09:00-09:59 (1H)
+  - Phase 0: HK Session Start     : 22   | First: 04-05 21:00-21:59 (1H) | Last: 05-30 22:00-22:59 (1H)
+  - Phase 0: JAPAN Session Start  : 16   | First: 04-11 19:00-19:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 1: 1H Overnight Range   : 547  | First: 03-31 21:00-21:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 106  | First: 04-03 03:00-03:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 83   | First: 04-04 03:00-03:59 (1H) | Last: 05-31 09:00-09:59 (1H)
+  - Phase 3: 15m SSL Sweep        : 1    | 05-20 11:00-11:14 (15m)
+  - Phase 4: 1m BOS1              : 1    | 05-20 11:05-11:05 (1m)
+  - Phase 5: 1m FVG Formed        : 1    | 05-20 11:06-11:06 (1m)
+  - Phase 6: 1m FVG Retest        : 1    | 05-20 11:06-11:06 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 1    | 05-20 11:07-11:07 (1m)
+Backtesting XAGUSDT 1m: [26238/87403] 30.0% | ETA: 3s  MUSTAFA | XAGUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting XAGUSDT 1m: [26241/87403] 30.0% | ETA: 3s  MUSTAFA | XAGUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting XAGUSDT 1m: [26243/87403] 30.0% | ETA: 3s  MUSTAFA | XAGUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | XAGUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | XAGUSDT SSL BOS2 Triggered (bullish_bos)! Hub: UK_EU
+  - Entry: 80.69000000
+  - SL   : 80.37393000 (Risk: 0.31607000)
+  - TP1  : 81.16410500 | TP2: 81.48017500
+  - Qty  : 13.143 (Equity: 1000.00)
+PLACED LIMIT ENTRY XAGUSDT BUY 13.143 @ 80.69000000 | Margin Reserved: 10.61
+Backtesting XAGUSDT 1m: [26244/87403] 30.0% | ETA: 3s  FILLED ENTRY XAGUSDT BUY 13.143 @ 80.69000000 (LIMIT) [] drt=0.5000 | equity=999.79 used_margin=10.61
+Backtesting XAGUSDT 1m: [26766/87403] 30.6% | ETA: 3s  EXIT FULL XAGUSDT BUY STOP (LIMIT) @ 80.37393000 PnL=-4.1541 net=-4.5775 [] drt_entry=0.5000 drt_exit=0.4725 | equity=995.42 used_margin=0.00
+Backtesting XAGUSDT 1m: [87403/87403] 100.0% | ETA: 0s  
+
+[Milestone Report: XAGUSDT]
+  - Phase 0: US Session Start     : 30   | First: 04-03 10:00-10:59 (1H) | Last: 05-28 10:00-10:59 (1H)
+  - Phase 0: UK_EU Session Start  : 30   | First: 04-04 03:00-03:59 (1H) | Last: 05-29 04:00-04:59 (1H)
+  - Phase 0: HK Session Start     : 31   | First: 04-04 22:00-22:59 (1H) | Last: 05-30 22:00-22:59 (1H)
+  - Phase 0: JAPAN Session Start  : 27   | First: 04-05 19:00-19:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 1: 1H Overnight Range   : 547  | First: 03-31 21:00-21:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 104  | First: 04-03 10:00-10:59 (1H) | Last: 05-30 22:00-22:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 115  | First: 04-04 03:00-03:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 3: 15m SSL Sweep        : 1    | 04-19 03:30-03:44 (15m)
+  - Phase 4: 1m BOS1              : 1    | 04-19 03:33-03:33 (1m)
+  - Phase 5: 1m FVG Formed        : 1    | 04-19 03:35-03:35 (1m)
+  - Phase 6: 1m FVG Retest        : 1    | 04-19 03:35-03:35 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 1    | 04-19 03:35-03:35 (1m)
+Backtesting ADAUSDT 1m: [87403/87403] 100.0% | ETA: 0s  
+
+[Milestone Report: ADAUSDT]
+  - Phase 0: UK_EU Session Start  : 22   | First: 04-03 03:00-03:59 (1H) | Last: 05-28 03:00-03:59 (1H)
+  - Phase 0: US Session Start     : 33   | First: 04-03 09:00-09:59 (1H) | Last: 05-30 09:00-09:59 (1H)
+  - Phase 0: JAPAN Session Start  : 22   | First: 04-03 20:00-20:59 (1H) | Last: 05-29 20:00-20:59 (1H)
+  - Phase 0: HK Session Start     : 25   | First: 04-03 21:00-21:59 (1H) | Last: 05-29 21:00-21:59 (1H)
+  - Phase 1: 1H Overnight Range   : 547  | First: 03-31 21:00-21:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 94   | First: 04-03 03:00-03:59 (1H) | Last: 05-30 11:00-11:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 102  | First: 04-03 20:00-20:59 (1H) | Last: 05-31 11:00-11:59 (1H)
+Backtesting WLDUSDT 1m: [87403/87403] 100.0% | ETA: 0s  
+
+[Milestone Report: WLDUSDT]
+  - Phase 0: UK_EU Session Start  : 25   | First: 04-03 03:00-03:59 (1H) | Last: 05-29 03:00-03:59 (1H)
+  - Phase 0: JAPAN Session Start  : 24   | First: 04-03 19:00-19:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 0: HK Session Start     : 26   | First: 04-03 21:00-21:59 (1H) | Last: 05-28 21:00-21:59 (1H)
+  - Phase 0: US Session Start     : 27   | First: 04-05 09:00-09:59 (1H) | Last: 05-30 09:00-09:59 (1H)
+  - Phase 1: 1H Overnight Range   : 547  | First: 03-31 21:00-21:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 95   | First: 04-03 03:00-03:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 96   | First: 04-03 19:00-19:59 (1H) | Last: 05-31 11:00-11:59 (1H)
+Backtesting DRAMUSDT 1m: [29636/29636] 100.0% | ETA: 0s  
+
+[Milestone Report: DRAMUSDT]
+  - Phase 0: JAPAN Session Start  : 12   | First: 05-13 19:00-19:59 (1H) | Last: 05-30 19:00-19:59 (1H)
+  - Phase 0: UK_EU Session Start  : 9    | First: 05-14 04:00-04:59 (1H) | Last: 05-30 03:00-03:59 (1H)
+  - Phase 0: HK Session Start     : 10   | First: 05-14 21:00-21:59 (1H) | Last: 05-30 21:00-21:59 (1H)
+  - Phase 0: US Session Start     : 10   | First: 05-18 10:00-10:59 (1H) | Last: 05-31 11:00-11:59 (1H)
+  - Phase 1: 1H Overnight Range   : 183  | First: 05-11 09:00-09:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 38   | First: 05-13 19:00-19:59 (1H) | Last: 05-31 11:00-11:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 30   | First: 05-14 04:00-04:59 (1H) | Last: 05-28 22:00-22:59 (1H)
+Backtesting NEARUSDT 1m: [87403/87403] 100.0% | ETA: 0s  
+
+[Milestone Report: NEARUSDT]
+  - Phase 0: UK_EU Session Start  : 24   | First: 04-03 03:00-03:59 (1H) | Last: 05-23 03:00-03:59 (1H)
+  - Phase 0: US Session Start     : 30   | First: 04-03 09:00-09:59 (1H) | Last: 05-28 09:00-09:59 (1H)
+  - Phase 0: HK Session Start     : 24   | First: 04-05 22:00-22:59 (1H) | Last: 05-30 21:00-21:59 (1H)
+  - Phase 0: JAPAN Session Start  : 23   | First: 04-06 19:00-19:59 (1H) | Last: 05-29 19:00-19:59 (1H)
+  - Phase 1: 1H Overnight Range   : 547  | First: 03-31 21:00-21:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 101  | First: 04-02 22:00-22:59 (1H) | Last: 05-28 22:00-22:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 85   | First: 04-05 03:00-03:59 (1H) | Last: 05-30 21:00-21:59 (1H)
+Backtesting ARPAUSDT 1m: [87403/87403] 100.0% | ETA: 0s  
+
+[Milestone Report: ARPAUSDT]
+  - Phase 0: US Session Start     : 23   | First: 04-03 11:00-11:59 (1H) | Last: 05-31 10:00-10:59 (1H)
+  - Phase 0: JAPAN Session Start  : 30   | First: 04-03 19:00-19:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 0: HK Session Start     : 25   | First: 04-04 21:00-21:59 (1H) | Last: 05-28 22:00-22:59 (1H)
+  - Phase 0: UK_EU Session Start  : 25   | First: 04-06 04:00-04:59 (1H) | Last: 05-30 04:00-04:59 (1H)
+  - Phase 1: 1H Overnight Range   : 547  | First: 03-31 21:00-21:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 94   | First: 04-03 11:00-11:59 (1H) | Last: 05-31 11:00-11:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 85   | First: 04-05 21:00-21:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+Backtesting MAGMAUSDT 1m: [87403/87403] 100.0% | ETA: 0s  
+
+[Milestone Report: MAGMAUSDT]
+  - Phase 0: HK Session Start     : 18   | First: 04-03 21:00-21:59 (1H) | Last: 05-28 21:00-21:59 (1H)
+  - Phase 0: US Session Start     : 33   | First: 04-05 09:00-09:59 (1H) | Last: 05-30 10:00-10:59 (1H)
+  - Phase 0: UK_EU Session Start  : 32   | First: 04-06 03:00-03:59 (1H) | Last: 05-29 03:00-03:59 (1H)
+  - Phase 0: JAPAN Session Start  : 19   | First: 04-07 19:00-19:59 (1H) | Last: 05-29 19:00-19:59 (1H)
+  - Phase 1: 1H Overnight Range   : 547  | First: 03-31 21:00-21:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 101  | First: 04-03 11:00-11:59 (1H) | Last: 05-29 03:00-03:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 86   | First: 04-03 21:00-21:59 (1H) | Last: 05-30 11:00-11:59 (1H)
+Backtesting SUIUSDT 1m: [87403/87403] 100.0% | ETA: 0s  
+
+[Milestone Report: SUIUSDT]
+  - Phase 0: JAPAN Session Start  : 28   | First: 03-31 20:00-20:59 (1H) | Last: 05-26 19:00-19:59 (1H)
+  - Phase 0: UK_EU Session Start  : 23   | First: 04-01 03:00-03:59 (1H) | Last: 05-25 03:00-03:59 (1H)
+  - Phase 0: US Session Start     : 27   | First: 04-01 11:00-11:59 (1H) | Last: 05-29 09:00-09:59 (1H)
+  - Phase 0: HK Session Start     : 29   | First: 04-01 21:00-21:59 (1H) | Last: 05-27 21:00-21:59 (1H)
+  - Phase 1: 1H Overnight Range   : 548  | First: 03-31 20:00-20:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 101  | First: 03-31 20:00-20:59 (1H) | Last: 05-30 11:00-11:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 114  | First: 04-01 19:00-19:59 (1H) | Last: 05-31 11:00-11:59 (1H)
+Backtesting DOGEUSDT 1m: [84000/87403] 96.1% | ETA: 0s  MUSTAFA | DOGEUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting DOGEUSDT 1m: [84003/87403] 96.1% | ETA: 0s  MUSTAFA | DOGEUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | DOGEUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | DOGEUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | DOGEUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 0.09915000
+  - SL   : 0.09832296 (Risk: 0.00082704)
+  - TP1  : 0.10039056 | TP2: 0.10121760
+  - Qty  : 5519.594 (Equity: 1000.00)
+PLACED LIMIT ENTRY DOGEUSDT BUY 5519.594 @ 0.09915000 | Margin Reserved: 7.30
+Backtesting DOGEUSDT 1m: [84004/87403] 96.1% | ETA: 0s  FILLED ENTRY DOGEUSDT BUY 5519.594 @ 0.09915000 (LIMIT) [] drt=0.5000 | equity=999.89 used_margin=7.30
+Backtesting DOGEUSDT 1m: [84658/87403] 96.9% | ETA: 0s  EXIT FULL DOGEUSDT BUY TP (LIMIT) @ 0.10121760 PnL=11.4123 net=11.1911 [] drt_entry=0.5000 drt_exit=0.5659 | equity=1011.19 used_margin=0.00
+Backtesting DOGEUSDT 1m: [87403/87403] 100.0% | ETA: 0s  
+
+[Milestone Report: DOGEUSDT]
+  - Phase 0: UK_EU Session Start  : 20   | First: 04-01 03:00-03:59 (1H) | Last: 05-27 03:00-03:59 (1H)
+  - Phase 0: JAPAN Session Start  : 25   | First: 04-01 19:00-19:59 (1H) | Last: 05-27 19:00-19:59 (1H)
+  - Phase 0: HK Session Start     : 26   | First: 04-01 21:00-21:59 (1H) | Last: 05-29 21:00-21:59 (1H)
+  - Phase 0: US Session Start     : 32   | First: 04-02 10:00-10:59 (1H) | Last: 05-31 10:00-10:59 (1H)
+  - Phase 1: 1H Overnight Range   : 548  | First: 03-31 20:00-20:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 94   | First: 04-01 03:00-03:59 (1H) | Last: 05-29 22:00-22:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 98   | First: 04-01 19:00-19:59 (1H) | Last: 05-31 11:00-11:59 (1H)
+  - Phase 3: 15m SSL Sweep        : 1    | 05-29 11:00-11:14 (15m)
+  - Phase 4: 1m BOS1              : 1    | 05-29 11:04-11:04 (1m)
+  - Phase 5: 1m FVG Formed        : 1    | 05-29 11:04-11:04 (1m)
+  - Phase 6: 1m FVG Retest        : 1    | 05-29 11:04-11:04 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 1    | 05-29 11:04-11:04 (1m)
+Backtesting THEUSDT 1m: [45268/87403] 51.8% | ETA: 2s  MUSTAFA | THEUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting THEUSDT 1m: [45281/87403] 51.8% | ETA: 2s  MUSTAFA | THEUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting THEUSDT 1m: [45306/87403] 51.8% | ETA: 2s  MUSTAFA | THEUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | THEUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | THEUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 0.09950000
+  - SL   : 0.09915130 (Risk: 0.00034870)
+  - TP1  : 0.10002305 | TP2: 0.10037175
+  - Qty  : 11679.766 (Equity: 1000.00)
+PLACED LIMIT ENTRY THEUSDT BUY 11679.766 @ 0.09950000 | Margin Reserved: 116.21
+Backtesting THEUSDT 1m: [45307/87403] 51.8% | ETA: 2s  FILLED ENTRY THEUSDT BUY 11679.766 @ 0.09950000 (LIMIT) [] drt=0.5000 | equity=999.77 used_margin=116.21
+Backtesting THEUSDT 1m: [45387/87403] 51.9% | ETA: 2s  EXIT FULL THEUSDT BUY TP (LIMIT) @ 0.10037175 PnL=10.1818 net=9.7149 [] drt_entry=0.5000 drt_exit=0.5522 | equity=1009.71 used_margin=0.00
+Backtesting THEUSDT 1m: [87403/87403] 100.0% | ETA: 0s  
+
+[Milestone Report: THEUSDT]
+  - Phase 0: UK_EU Session Start  : 23   | First: 04-03 03:00-03:59 (1H) | Last: 05-28 03:00-03:59 (1H)
+  - Phase 0: US Session Start     : 29   | First: 04-03 10:00-10:59 (1H) | Last: 05-29 09:00-09:59 (1H)
+  - Phase 0: JAPAN Session Start  : 24   | First: 04-03 20:00-20:59 (1H) | Last: 05-30 19:00-19:59 (1H)
+  - Phase 0: HK Session Start     : 24   | First: 04-03 21:00-21:59 (1H) | Last: 05-30 22:00-22:59 (1H)
+  - Phase 1: 1H Overnight Range   : 547  | First: 03-31 21:00-21:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 91   | First: 04-03 03:00-03:59 (1H) | Last: 05-30 19:00-19:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 85   | First: 04-03 10:00-10:59 (1H) | Last: 05-30 22:00-22:59 (1H)
+  - Phase 3: 15m SSL Sweep        : 1    | 05-02 10:15-10:29 (15m)
+  - Phase 4: 1m BOS1              : 1    | 05-02 10:28-10:28 (1m)
+  - Phase 5: 1m FVG Formed        : 1    | 05-02 10:53-10:53 (1m)
+  - Phase 6: 1m FVG Retest        : 1    | 05-02 10:53-10:53 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 1    | 05-02 10:53-10:53 (1m)
+Backtesting MSTRUSDT 1m: [12298/87403] 14.1% | ETA: 2s  MUSTAFA | MSTRUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting MSTRUSDT 1m: [12301/87403] 14.1% | ETA: 2s  MUSTAFA | MSTRUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting MSTRUSDT 1m: [12302/87403] 14.1% | ETA: 2s  MUSTAFA | MSTRUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | MSTRUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+Backtesting MSTRUSDT 1m: [12330/87403] 14.1% | ETA: 2s  MUSTAFA | MSTRUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 126.70000000
+  - SL   : 126.51147000 (Risk: 0.18853000)
+  - TP1  : 127.77765000 | TP2: 127.77765000
+  - Qty  : 17.255 (Equity: 1000.00)
+PLACED LIMIT ENTRY MSTRUSDT BUY 17.255 @ 126.70000000 | Margin Reserved: 87.45
+Backtesting MSTRUSDT 1m: [12331/87403] 14.1% | ETA: 2s  FILLED ENTRY MSTRUSDT BUY 17.255 @ 126.70000000 (LIMIT) [] drt=0.5000 | equity=999.56 used_margin=87.45
+Backtesting MSTRUSDT 1m: [12338/87403] 14.1% | ETA: 2s  EXIT FULL MSTRUSDT BUY TP (LIMIT) @ 127.77765000 PnL=18.5945 net=17.7163 [] drt_entry=0.5000 drt_exit=0.6450 | equity=1017.72 used_margin=0.00
+Backtesting MSTRUSDT 1m: [62447/87403] 71.4% | ETA: 1s  MUSTAFA | MSTRUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting MSTRUSDT 1m: [62456/87403] 71.5% | ETA: 1s  MUSTAFA | MSTRUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting MSTRUSDT 1m: [62457/87403] 71.5% | ETA: 1s  MUSTAFA | MSTRUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | MSTRUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+Backtesting MSTRUSDT 1m: [62459/87403] 71.5% | ETA: 1s  MUSTAFA | MSTRUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 177.00000000
+  - SL   : 177.05518000 (Risk: 0.05518000)
+  - TP1  : 179.04887000 | TP2: 179.04887000
+  - Qty  : 25.405 (Equity: 1000.00)
+PLACED LIMIT ENTRY MSTRUSDT BUY 25.405 @ 177.00000000 | Margin Reserved: 179.87
+Backtesting MSTRUSDT 1m: [62460/87403] 71.5% | ETA: 1s  FILLED ENTRY MSTRUSDT BUY 25.405 @ 177.00000000 (LIMIT) [] drt=0.5000 | equity=1016.82 used_margin=179.87
+EXIT FULL MSTRUSDT BUY STOP (LIMIT) @ 177.05518000 PnL=1.4018 net=-0.3971 [] drt_entry=0.5000 drt_exit=0.4557 | equity=1017.32 used_margin=0.00
+Backtesting MSTRUSDT 1m: [87403/87403] 100.0% | ETA: 0s  
+
+[Milestone Report: MSTRUSDT]
+  - Phase 0: HK Session Start     : 22   | First: 04-04 21:00-21:59 (1H) | Last: 05-27 21:00-21:59 (1H)
+  - Phase 0: UK_EU Session Start  : 23   | First: 04-05 03:00-03:59 (1H) | Last: 05-25 03:00-03:59 (1H)
+  - Phase 0: US Session Start     : 34   | First: 04-05 11:00-11:59 (1H) | Last: 05-28 09:00-09:59 (1H)
+  - Phase 0: JAPAN Session Start  : 22   | First: 04-05 19:00-19:59 (1H) | Last: 05-27 19:00-19:59 (1H)
+  - Phase 1: 1H Overnight Range   : 547  | First: 03-31 21:00-21:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 107  | First: 04-03 09:00-09:59 (1H) | Last: 05-31 11:00-11:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 112  | First: 04-04 09:00-09:59 (1H) | Last: 05-30 11:00-11:59 (1H)
+  - Phase 3: 15m SSL Sweep        : 2    | First: 04-09 10:00-10:14 (15m) | Last: 05-14 10:00-10:14 (15m)
+  - Phase 4: 1m BOS1              : 2    | First: 04-09 10:03-10:03 (1m) | Last: 05-14 10:09-10:09 (1m)
+  - Phase 5: 1m FVG Formed        : 2    | First: 04-09 10:04-10:04 (1m) | Last: 05-14 10:10-10:10 (1m)
+  - Phase 6: 1m FVG Retest        : 2    | First: 04-09 10:04-10:04 (1m) | Last: 05-14 10:10-10:10 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 2    | First: 04-09 10:32-10:32 (1m) | Last: 05-14 10:12-10:12 (1m)
+Backtesting TLMUSDT 1m: [73552/87403] 84.2% | ETA: 0s  MUSTAFA | TLMUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | TLMUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | TLMUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | TLMUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | TLMUSDT BSL BOS2 Triggered (bearish_bos)! Hub: UK_EU
+  - Entry: 0.00166900
+  - SL   : 0.00181112 (Risk: 0.00014212)
+  - TP1  : 0.00145583 | TP2: 0.00131371
+  - Qty  : 34834.595 (Equity: 1000.00)
+PLACED LIMIT ENTRY TLMUSDT SELL 34834.595 @ 0.00166900 | Margin Reserved: 5.81
+Backtesting TLMUSDT 1m: [73553/87403] 84.2% | ETA: 0s  FILLED ENTRY TLMUSDT SELL 34834.595 @ 0.00166900 (LIMIT) [] drt=0.5000 | equity=999.99 used_margin=5.81
+Backtesting TLMUSDT 1m: [81912/87403] 93.7% | ETA: 0s  EXIT FULL TLMUSDT SELL TP (LIMIT) @ 0.00131371 PnL=12.3763 net=12.3555 [] drt_entry=0.5000 drt_exit=0.2260 | equity=1012.36 used_margin=0.00
+Backtesting TLMUSDT 1m: [87403/87403] 100.0% | ETA: 0s  
+
+[Milestone Report: TLMUSDT]
+  - Phase 0: UK_EU Session Start  : 27   | First: 04-03 03:00-03:59 (1H) | Last: 05-31 03:00-03:59 (1H)
+  - Phase 0: US Session Start     : 32   | First: 04-03 09:00-09:59 (1H) | Last: 05-31 10:00-10:59 (1H)
+  - Phase 0: JAPAN Session Start  : 28   | First: 04-03 19:00-19:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 0: HK Session Start     : 29   | First: 04-05 21:00-21:59 (1H) | Last: 05-26 21:00-21:59 (1H)
+  - Phase 1: 1H Overnight Range   : 547  | First: 03-31 21:00-21:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 108  | First: 04-03 03:00-03:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 103  | First: 04-03 09:00-09:59 (1H) | Last: 05-31 11:00-11:59 (1H)
+  - Phase 3: 15m BSL Sweep        : 1    | 05-22 04:00-04:14 (15m)
+  - Phase 4: 1m BOS1              : 1    | 05-22 04:00-04:00 (1m)
+  - Phase 5: 1m FVG Formed        : 1    | 05-22 04:00-04:00 (1m)
+  - Phase 6: 1m FVG Retest        : 1    | 05-22 04:00-04:00 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 1    | 05-22 04:00-04:00 (1m)
+
+[Milestone Report: SPCXUSDT]
+  - Phase 0: UK_EU Session Start  : 27   | First: 04-03 03:00-03:59 (1H) | Last: 05-31 03:00-03:59 (1H)
+  - Phase 0: US Session Start     : 32   | First: 04-03 09:00-09:59 (1H) | Last: 05-31 10:00-10:59 (1H)
+  - Phase 0: JAPAN Session Start  : 28   | First: 04-03 19:00-19:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 0: HK Session Start     : 29   | First: 04-05 21:00-21:59 (1H) | Last: 05-26 21:00-21:59 (1H)
+  - Phase 1: 1H Overnight Range   : 547  | First: 03-31 21:00-21:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 108  | First: 04-03 03:00-03:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 103  | First: 04-03 09:00-09:59 (1H) | Last: 05-31 11:00-11:59 (1H)
+  - Phase 3: 15m BSL Sweep        : 1    | 05-22 04:00-04:14 (15m)
+  - Phase 4: 1m BOS1              : 1    | 05-22 04:00-04:00 (1m)
+  - Phase 5: 1m FVG Formed        : 1    | 05-22 04:00-04:00 (1m)
+  - Phase 6: 1m FVG Retest        : 1    | 05-22 04:00-04:00 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 1    | 05-22 04:00-04:00 (1m)
+
+=====================================================================================================================================================================
+BACKTEST RESULTS
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Date Range             | Asset      | TF    |   Win% (L/S) |       PnL (L/S) |     ROE% |        PnL |    ROI% |   Trades |       Equity
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2026-04-01 to 2026-06-01 | ETHUSDT    | 1m    |    100%/100% |       21.1/22.1 |   4316.1% |      43.16 |     4.3% |        4 |      1043.16
+2026-04-01 to 2026-06-01 | SOLUSDT    | 1m    |      100%/0% |        10.5/0.0 |   4180.3% |      10.45 |     1.0% |        1 |      1010.45
+2026-04-01 to 2026-06-01 | XRPUSDT    | 1m    |      100%/0% |         9.7/0.0 |   3894.1% |       9.74 |     1.0% |        1 |      1009.74
+2026-04-01 to 2026-06-01 | HYPEUSDT   | 1m    |        0%/0% |         0.0/0.0 |      0.0% |       0.00 |     0.0% |        0 |      1000.00
+2026-04-01 to 2026-06-01 | XAUUSDT    | 1m    |       0%/67% |        0.0/20.6 |   2742.5% |      20.57 |     2.1% |        3 |      1020.57
+2026-04-01 to 2026-06-01 | MUUSDT     | 1m    |      100%/0% |        32.0/0.0 |   4261.7% |      31.96 |     3.2% |        3 |      1031.96
+2026-04-01 to 2026-06-01 | ZECUSDT    | 1m    |        0%/0% |         0.0/0.0 |      0.0% |       0.00 |     0.0% |        0 |      1000.00
+2026-04-01 to 2026-06-01 | SNDKUSDT   | 1m    |        0%/0% |         0.0/0.0 |      0.0% |       0.00 |     0.0% |        0 |      1000.00
+2026-04-01 to 2026-06-01 | SOXLUSDT   | 1m    |        0%/0% |         0.0/0.0 |      0.0% |       0.00 |     0.0% |        0 |      1000.00
+2026-04-01 to 2026-06-01 | LABUSDT    | 1m    |      100%/0% |         0.5/0.0 |    218.9% |       0.55 |     0.1% |        1 |      1000.55
+2026-04-01 to 2026-06-01 | XAGUSDT    | 1m    |        0%/0% |        -4.6/0.0 |  -1831.0% |      -4.58 |    -0.5% |        1 |       995.42
+2026-04-01 to 2026-06-01 | ADAUSDT    | 1m    |        0%/0% |         0.0/0.0 |      0.0% |       0.00 |     0.0% |        0 |      1000.00
+2026-04-01 to 2026-06-01 | WLDUSDT    | 1m    |        0%/0% |         0.0/0.0 |      0.0% |       0.00 |     0.0% |        0 |      1000.00
+2026-04-01 to 2026-06-01 | DRAMUSDT   | 1m    |        0%/0% |         0.0/0.0 |      0.0% |       0.00 |     0.0% |        0 |      1000.00
+2026-04-01 to 2026-06-01 | NEARUSDT   | 1m    |        0%/0% |         0.0/0.0 |      0.0% |       0.00 |     0.0% |        0 |      1000.00
+2026-04-01 to 2026-06-01 | ARPAUSDT   | 1m    |        0%/0% |         0.0/0.0 |      0.0% |       0.00 |     0.0% |        0 |      1000.00
+2026-04-01 to 2026-06-01 | MAGMAUSDT  | 1m    |        0%/0% |         0.0/0.0 |      0.0% |       0.00 |     0.0% |        0 |      1000.00
+2026-04-01 to 2026-06-01 | SUIUSDT    | 1m    |        0%/0% |         0.0/0.0 |      0.0% |       0.00 |     0.0% |        0 |      1000.00
+2026-04-01 to 2026-06-01 | DOGEUSDT   | 1m    |      100%/0% |        11.2/0.0 |   4476.4% |      11.19 |     1.1% |        1 |      1011.19
+2026-04-01 to 2026-06-01 | THEUSDT    | 1m    |      100%/0% |         9.7/0.0 |   3886.0% |       9.71 |     1.0% |        1 |      1009.71
+2026-04-01 to 2026-06-01 | MSTRUSDT   | 1m    |       50%/0% |        17.3/0.0 |   3463.8% |      17.32 |     1.7% |        2 |      1017.32
+2026-04-01 to 2026-06-01 | TLMUSDT    | 1m    |      0%/100% |        0.0/12.4 |   4942.2% |      12.36 |     1.2% |        1 |      1012.36
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+OVERALL                | ALL        | MIX   |      85%/83% |      107.4/55.0 |      N/A |     162.43 |     0.7% |       19 |          N/A
+=====================================================================================================================================================================
+
