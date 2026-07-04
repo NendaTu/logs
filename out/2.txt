@@ -1,0 +1,1659 @@
+(venv) engineering@Andrews-MacBook-Pro quick % python backtest killzone_sweep.1.mustafa killzone_sweep_overnight.1.mustafa
+Acquiring historical data for ['1m', '15m', '1H']...
+Backtesting ETHUSDT 1m: [20896/260777] 8.0% | ETA: 29s  MUSTAFA | ETHUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting ETHUSDT 1m: [20918/260777] 8.0% | ETA: 29s  MUSTAFA | ETHUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting ETHUSDT 1m: [20920/260777] 8.0% | ETA: 29s  MUSTAFA | ETHUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ETHUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ETHUSDT BSL BOS2 Triggered (bearish_bos)! Hub: UK_EU
+  - Entry: 3128.54000000
+  - SL   : 3138.51000000 (Risk: 9.97000000)
+  - TP1  : 3109.88700000 | TP2: 3099.74715000
+  - Qty  : 0.400 (Equity: 1000.00)
+Backtesting ETHUSDT 1m: [20926/260777] 8.0% | ETA: 29s  MUSTAFA_OV | ETHUSDT Overnight Sweep of Day BSL detected!
+Backtesting ETHUSDT 1m: [23851/260777] 9.1% | ETA: 30s  MUSTAFA | ETHUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting ETHUSDT 1m: [23856/260777] 9.1% | ETA: 30s  MUSTAFA | ETHUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting ETHUSDT 1m: [23861/260777] 9.1% | ETA: 30s  MUSTAFA | ETHUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ETHUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+Backtesting ETHUSDT 1m: [23863/260777] 9.2% | ETA: 30s  MUSTAFA | ETHUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 2957.32000000
+  - SL   : 2985.60000000 (Risk: 28.28000000)
+  - TP1  : 2913.81327000 | TP2: 2882.11500000
+  - Qty  : 0.163 (Equity: 1000.00)
+Backtesting ETHUSDT 1m: [23864/260777] 9.2% | ETA: 30s  MUSTAFA_OV | ETHUSDT BSL Triggered! Target: Day Liquidity. Hub: JAPAN
+PLACED LIMIT ENTRY ETHUSDT SELL 0.152 @ 2955.09000000 | Margin Reserved: 2.99
+Backtesting ETHUSDT 1m: [23865/260777] 9.2% | ETA: 30s  FILLED ENTRY ETHUSDT SELL 0.152 @ 2955.09000000 (LIMIT) [] drt=0.5000 | equity=999.91 used_margin=2.99
+Backtesting ETHUSDT 1m: [23871/260777] 9.2% | ETA: 30s  EXIT PARTIAL ETHUSDT SELL TP (LIMIT) @ 2918.07900000 PnL=2.8128 net=2.7236 [] drt_entry=0.5000 drt_exit=0.1715 | equity=1002.68 used_margin=1.50
+TP1 HIT: SL for ETHUSDT SELL moved to 2936.58000000 (Halfway Entry/TP1)
+Backtesting ETHUSDT 1m: [23896/260777] 9.2% | ETA: 30s  EXIT FULL ETHUSDT SELL TP (LIMIT) @ 2872.77435000 PnL=6.2560 net=6.1674 [] drt_entry=0.5000 drt_exit=0.4221 | equity=1008.89 used_margin=0.00
+Backtesting ETHUSDT 1m: [26806/260777] 10.3% | ETA: 31s  MUSTAFA | ETHUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting ETHUSDT 1m: [26827/260777] 10.3% | ETA: 31s  MUSTAFA | ETHUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting ETHUSDT 1m: [26837/260777] 10.3% | ETA: 31s  MUSTAFA | ETHUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ETHUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ETHUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 2959.99000000
+  - SL   : 2979.02000000 (Risk: 19.03000000)
+  - TP1  : 2911.08600000 | TP2: 2911.08600000
+  - Qty  : 0.233 (Equity: 1000.00)
+Backtesting ETHUSDT 1m: [74030/260777] 28.4% | ETA: 29s  MUSTAFA | ETHUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting ETHUSDT 1m: [74032/260777] 28.4% | ETA: 29s  MUSTAFA | ETHUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting ETHUSDT 1m: [74039/260777] 28.4% | ETA: 29s  MUSTAFA | ETHUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ETHUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ETHUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 2985.77000000
+  - SL   : 2999.46000000 (Risk: 13.69000000)
+  - TP1  : 2955.24180000 | TP2: 2951.00604000
+  - Qty  : 0.310 (Equity: 1000.00)
+Backtesting ETHUSDT 1m: [74040/260777] 28.4% | ETA: 29s  MUSTAFA_OV | ETHUSDT Overnight Sweep of Day BSL detected!
+MUSTAFA_OV | ETHUSDT BSL Triggered! Target: Day Liquidity. Hub: JAPAN
+PLACED LIMIT ENTRY ETHUSDT SELL 1.350 @ 2987.90000000 | Margin Reserved: 26.89
+Backtesting ETHUSDT 1m: [74041/260777] 28.4% | ETA: 29s  FILLED ENTRY ETHUSDT SELL 1.350 @ 2987.90000000 (LIMIT) [] drt=0.5000 | equity=1008.08 used_margin=26.89
+Backtesting ETHUSDT 1m: [74050/260777] 28.4% | ETA: 29s  EXIT PARTIAL ETHUSDT SELL TP (LIMIT) @ 2970.22680000 PnL=11.9294 net=11.1251 [] drt_entry=0.5000 drt_exit=0.4025 | equity=1019.61 used_margin=13.45
+TP1 HIT: SL for ETHUSDT SELL moved to 2979.06000000 (Halfway Entry/TP1)
+EXIT FULL ETHUSDT SELL TP (LIMIT) @ 2970.22680000 PnL=11.9294 net=11.1251 [] drt_entry=0.5000 drt_exit=0.4025 | equity=1031.14 used_margin=0.00
+Backtesting ETHUSDT 1m: [127881/260777] 49.0% | ETA: 23s  MUSTAFA | ETHUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting ETHUSDT 1m: [127887/260777] 49.0% | ETA: 23s  MUSTAFA | ETHUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | ETHUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ETHUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ETHUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 1914.70000000
+  - SL   : 1918.77000000 (Risk: 4.07000000)
+  - TP1  : 1884.15396000 | TP2: 1884.15396000
+  - Qty  : 0.892 (Equity: 1000.00)
+Backtesting ETHUSDT 1m: [135284/260777] 51.9% | ETA: 21s  MUSTAFA | ETHUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting ETHUSDT 1m: [135294/260777] 51.9% | ETA: 21s  MUSTAFA | ETHUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | ETHUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ETHUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ETHUSDT SSL BOS2 Triggered (bullish_bos)! Hub: UK_EU
+  - Entry: 2125.36000000
+  - SL   : 2121.91000000 (Risk: 3.45000000)
+  - TP1  : 2133.95182000 | TP2: 2135.49336000
+  - Qty  : 0.971 (Equity: 1000.00)
+Backtesting ETHUSDT 1m: [158448/260777] 60.8% | ETA: 18s  MUSTAFA | ETHUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting ETHUSDT 1m: [158495/260777] 60.8% | ETA: 18s  MUSTAFA | ETHUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting ETHUSDT 1m: [158500/260777] 60.8% | ETA: 18s  MUSTAFA | ETHUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ETHUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ETHUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 2152.65000000
+  - SL   : 2158.09000000 (Risk: 5.44000000)
+  - TP1  : 2144.49000000 | TP2: 2139.05000000
+  - Qty  : 0.697 (Equity: 1000.00)
+Backtesting ETHUSDT 1m: [158501/260777] 60.8% | ETA: 18s  MUSTAFA_OV | ETHUSDT Overnight Sweep of Day BSL detected!
+MUSTAFA_OV | ETHUSDT BSL Triggered! Target: Day Liquidity. Hub: JAPAN
+PLACED LIMIT ENTRY ETHUSDT SELL 0.635 @ 2151.95000000 | Margin Reserved: 9.11
+Backtesting ETHUSDT 1m: [158502/260777] 60.8% | ETA: 18s  FILLED ENTRY ETHUSDT SELL 0.635 @ 2151.95000000 (LIMIT) [] drt=0.5000 | equity=1030.87 used_margin=9.11
+Backtesting ETHUSDT 1m: [158636/260777] 60.8% | ETA: 18s  EXIT PARTIAL ETHUSDT SELL TP (LIMIT) @ 2142.94491000 PnL=2.8636 net=2.5905 [] drt_entry=0.5000 drt_exit=0.4848 | equity=1033.60 used_margin=4.55
+TP1 HIT: SL for ETHUSDT SELL moved to 2147.45000000 (Halfway Entry/TP1)
+Backtesting ETHUSDT 1m: [158651/260777] 60.8% | ETA: 18s  EXIT FULL ETHUSDT SELL STOP (LIMIT) @ 2147.45000000 PnL=1.4265 net=1.1539 [] drt_entry=0.5000 drt_exit=0.5037 | equity=1034.89 used_margin=0.00
+Backtesting ETHUSDT 1m: [185732/260777] 71.2% | ETA: 14s  MUSTAFA | ETHUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting ETHUSDT 1m: [185744/260777] 71.2% | ETA: 14s  MUSTAFA | ETHUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | ETHUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ETHUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ETHUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 2175.40000000
+  - SL   : 2163.49000000 (Risk: 11.91000000)
+  - TP1  : 2195.78359000 | TP2: 2205.17500000
+  - Qty  : 0.366 (Equity: 1000.00)
+Backtesting ETHUSDT 1m: [188000/260777] 72.1% | ETA: 13s  MUSTAFA | ETHUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting ETHUSDT 1m: [188004/260777] 72.1% | ETA: 13s  MUSTAFA | ETHUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting ETHUSDT 1m: [188008/260777] 72.1% | ETA: 13s  MUSTAFA | ETHUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ETHUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ETHUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 2238.00000000
+  - SL   : 2238.42000000 (Risk: 0.42000000)
+  - TP1  : 2235.03273000 | TP2: 2235.03273000
+  - Qty  : 2.261 (Equity: 1000.00)
+Backtesting ETHUSDT 1m: [192866/260777] 74.0% | ETA: 12s  MUSTAFA | ETHUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting ETHUSDT 1m: [192873/260777] 74.0% | ETA: 12s  MUSTAFA | ETHUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting ETHUSDT 1m: [192874/260777] 74.0% | ETA: 12s  MUSTAFA | ETHUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ETHUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ETHUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 2378.30000000
+  - SL   : 2404.46000000 (Risk: 26.16000000)
+  - TP1  : 2339.06000000 | TP2: 2312.90000000
+  - Qty  : 0.178 (Equity: 1000.00)
+Backtesting ETHUSDT 1m: [192875/260777] 74.0% | ETA: 12s  MUSTAFA_OV | ETHUSDT Overnight Sweep of Day BSL detected!
+MUSTAFA_OV | ETHUSDT BSL Triggered! Target: Day Liquidity. Hub: JAPAN
+PLACED LIMIT ENTRY ETHUSDT SELL 0.340 @ 2375.29000000 | Margin Reserved: 5.38
+Backtesting ETHUSDT 1m: [192876/260777] 74.0% | ETA: 12s  FILLED ENTRY ETHUSDT SELL 0.340 @ 2375.29000000 (LIMIT) [] drt=0.5000 | equity=1034.72 used_margin=5.38
+Backtesting ETHUSDT 1m: [192892/260777] 74.0% | ETA: 12s  EXIT PARTIAL ETHUSDT SELL TP (LIMIT) @ 2357.88975000 PnL=2.9580 net=2.7971 [] drt_entry=0.5000 drt_exit=0.4167 | equity=1037.60 used_margin=2.69
+TP1 HIT: SL for ETHUSDT SELL moved to 2366.59000000 (Halfway Entry/TP1)
+Backtesting ETHUSDT 1m: [192896/260777] 74.0% | ETA: 12s  EXIT FULL ETHUSDT SELL TP (LIMIT) @ 2349.69795000 PnL=4.3506 net=4.1900 [] drt_entry=0.5000 drt_exit=0.4096 | equity=1041.87 used_margin=0.00
+Backtesting ETHUSDT 1m: [198030/260777] 75.9% | ETA: 11s  MUSTAFA | ETHUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting ETHUSDT 1m: [198055/260777] 75.9% | ETA: 11s  MUSTAFA | ETHUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting ETHUSDT 1m: [198063/260777] 76.0% | ETA: 11s  MUSTAFA | ETHUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ETHUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ETHUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 2406.11000000
+  - SL   : 2406.79000000 (Risk: 0.68000000)
+  - TP1  : 2405.03256000 | TP2: 2395.33227000
+  - Qty  : 1.919 (Equity: 1000.00)
+Backtesting ETHUSDT 1m: [247165/260777] 94.8% | ETA: 2s  MUSTAFA | ETHUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting ETHUSDT 1m: [247167/260777] 94.8% | ETA: 2s  MUSTAFA | ETHUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | ETHUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ETHUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ETHUSDT SSL BOS2 Triggered (bullish_bos)! Hub: UK_EU
+  - Entry: 2130.50000000
+  - SL   : 2126.26000000 (Risk: 4.24000000)
+  - TP1  : 2142.56042000 | TP2: 2142.56042000
+  - Qty  : 0.841 (Equity: 1000.00)
+Backtesting ETHUSDT 1m: [253075/260777] 97.0% | ETA: 1s  MUSTAFA | ETHUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting ETHUSDT 1m: [253077/260777] 97.0% | ETA: 1s  MUSTAFA | ETHUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | ETHUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ETHUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ETHUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 2103.24000000
+  - SL   : 2113.04000000 (Risk: 9.80000000)
+  - TP1  : 2087.11080000 | TP2: 2078.74000000
+  - Qty  : 0.435 (Equity: 1000.00)
+Backtesting ETHUSDT 1m: [253078/260777] 97.0% | ETA: 1s  MUSTAFA_OV | ETHUSDT Overnight Sweep of Day BSL detected!
+MUSTAFA_OV | ETHUSDT BSL Triggered! Target: Day Liquidity. Hub: JAPAN
+PLACED LIMIT ENTRY ETHUSDT SELL 0.387 @ 2101.84000000 | Margin Reserved: 5.42
+Backtesting ETHUSDT 1m: [253079/260777] 97.0% | ETA: 1s  FILLED ENTRY ETHUSDT SELL 0.387 @ 2101.84000000 (LIMIT) [] drt=0.5000 | equity=1041.71 used_margin=5.42
+Backtesting ETHUSDT 1m: [253114/260777] 97.1% | ETA: 1s  EXIT PARTIAL ETHUSDT SELL TP (LIMIT) @ 2085.56235000 PnL=3.1579 net=2.9954 [] drt_entry=0.5000 drt_exit=0.3953 | equity=1044.79 used_margin=2.70
+TP1 HIT: SL for ETHUSDT SELL moved to 2093.70000000 (Halfway Entry/TP1)
+Backtesting ETHUSDT 1m: [253128/260777] 97.1% | ETA: 1s  EXIT FULL ETHUSDT SELL TP (LIMIT) @ 2079.44000000 PnL=4.3232 net=4.1618 [] drt_entry=0.5000 drt_exit=0.4613 | equity=1049.03 used_margin=0.00
+Backtesting ETHUSDT 1m: [257374/260777] 98.7% | ETA: 0s  MUSTAFA | ETHUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting ETHUSDT 1m: [257377/260777] 98.7% | ETA: 0s  MUSTAFA | ETHUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | ETHUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ETHUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ETHUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 2006.79000000
+  - SL   : 1998.16000000 (Risk: 8.63000000)
+  - TP1  : 2021.22921000 | TP2: 2028.36500000
+  - Qty  : 0.488 (Equity: 1000.00)
+Backtesting ETHUSDT 1m: [260777/260777] 100.0% | ETA: 0s  
+
+[Milestone Report: ETHUSDT]
+  - Phase 0: JAPAN Session Start  : 92   | First: 11-30 19:00-19:59 (1H) | Last: 05-30 22:00-22:59 (1H)
+  - Phase 0: HK Session Start     : 55   | First: 12-01 01:00-01:59 (1H) | Last: 05-28 01:00-01:59 (1H)
+  - Phase 0: US Session Start     : 139  | First: 12-01 10:00-10:59 (1H) | Last: 05-31 10:00-10:59 (1H)
+  - Phase 0: UK_EU Session Start  : 140  | First: 12-02 05:00-05:59 (1H) | Last: 05-29 08:00-08:59 (1H)
+  - Phase 1: 1H Overnight Range   : 3805 | First: 11-30 19:00-19:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 630  | First: 11-30 19:00-19:59 (1H) | Last: 05-31 15:00-15:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 624  | First: 12-02 05:00-05:59 (1H) | Last: 05-31 00:00-00:59 (1H)
+  - Phase 3: 15m BSL Sweep        : 10   | First: 12-15 09:00-09:14 (15m) | Last: 05-26 11:00-11:14 (15m)
+  - Phase 3: 15m SSL Sweep        : 4    | First: 03-05 05:00-05:14 (15m) | Last: 05-29 11:00-11:14 (15m)
+  - Phase 4: 1m BOS1              : 14   | First: 12-15 09:22-09:22 (1m) | Last: 05-29 11:04-11:04 (1m)
+  - Phase 5: 1m FVG Formed        : 14   | First: 12-15 09:24-09:24 (1m) | Last: 05-29 11:04-11:04 (1m)
+  - Phase 6: 1m FVG Retest        : 14   | First: 12-15 09:24-09:24 (1m) | Last: 05-29 11:04-11:04 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 14   | First: 12-15 09:24-09:24 (1m) | Last: 05-29 11:04-11:04 (1m)
+  - Phase 0: US Overnight Start   : 4    | First: 12-15 09:00-09:59 (1H) | Last: 04-18 01:00-01:59 (1H)
+  - Phase 0: JAPAN Overnight Start: 5    | First: 12-15 09:00-09:59 (1H) | Last: 05-26 11:00-11:59 (1H)
+  - Phase 0: UK_EU Overnight Start: 1    | 12-19 12:00-12:59 (1H)
+  - Phase 1: Preceding Day Range Found: 14   | First: 12-15 09:00-09:59 (1H) | Last: 05-29 11:00-11:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 10   | First: 12-15 09:00-09:59 (1H) | Last: 05-26 11:00-11:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 4    | First: 03-05 05:00-05:59 (1H) | Last: 05-29 11:00-11:59 (1H)
+  - Phase 3: Day BSL Sweep        : 5    | First: 12-15 09:30-09:44 (15m) | Last: 05-26 11:00-11:14 (15m)
+  - Phase 4: 1m BOS1              : 5    | First: 12-17 10:43-10:43 (1m) | Last: 05-26 11:03-11:03 (1m)
+  - Phase 5: 1m FVG Formed        : 5    | First: 12-17 10:43-10:43 (1m) | Last: 05-26 11:03-11:03 (1m)
+  - Phase 6: 1m FVG Retest        : 5    | First: 12-17 10:43-10:43 (1m) | Last: 05-26 11:03-11:03 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 5    | First: 12-17 10:43-10:43 (1m) | Last: 05-26 11:03-11:03 (1m)
+Backtesting HBARUSDT 1m: [13971/260777] 5.4% | ETA: 28s  MUSTAFA | HBARUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting HBARUSDT 1m: [13981/260777] 5.4% | ETA: 28s  MUSTAFA | HBARUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting HBARUSDT 1m: [13984/260777] 5.4% | ETA: 28s  MUSTAFA | HBARUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | HBARUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | HBARUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 0.13668000
+  - SL   : 0.13646000 (Risk: 0.00022000)
+  - TP1  : 0.13706693 | TP2: 0.13727714
+  - Qty  : 15187.781 (Equity: 1000.00)
+Backtesting HBARUSDT 1m: [17553/260777] 6.7% | ETA: 30s  MUSTAFA | HBARUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting HBARUSDT 1m: [17588/260777] 6.7% | ETA: 30s  MUSTAFA | HBARUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting HBARUSDT 1m: [23762/260777] 9.1% | ETA: 32s  MUSTAFA | HBARUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | HBARUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | HBARUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | HBARUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | HBARUSDT SSL BOS2 Triggered (bullish_bos)! Hub: UK_EU
+  - Entry: 0.11384000
+  - SL   : 0.11357000 (Risk: 0.00027000)
+  - TP1  : 0.11474463 | TP2: 0.11474463
+  - Qty  : 13853.869 (Equity: 1000.00)
+Backtesting HBARUSDT 1m: [23763/260777] 9.1% | ETA: 32s  MUSTAFA_OV | HBARUSDT Overnight Sweep of Day SSL detected!
+MUSTAFA_OV | HBARUSDT SSL Triggered! Target: Day Liquidity. Hub: US
+PLACED LIMIT ENTRY HBARUSDT BUY 11339.771 @ 0.11392000 | Margin Reserved: 17.22
+Backtesting HBARUSDT 1m: [23764/260777] 9.1% | ETA: 32s  FILLED ENTRY HBARUSDT BUY 11339.771 @ 0.11392000 (LIMIT) [] drt=0.5000 | equity=999.74 used_margin=17.22
+Backtesting HBARUSDT 1m: [23795/260777] 9.1% | ETA: 32s  EXIT FULL HBARUSDT BUY STOP (LIMIT) @ 0.11357000 PnL=-3.9689 net=-4.4849 [] drt_entry=0.5000 drt_exit=0.4941 | equity=995.52 used_margin=0.00
+Backtesting HBARUSDT 1m: [23941/260777] 9.2% | ETA: 32s  MUSTAFA | HBARUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting HBARUSDT 1m: [23944/260777] 9.2% | ETA: 32s  MUSTAFA | HBARUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting HBARUSDT 1m: [23946/260777] 9.2% | ETA: 32s  MUSTAFA | HBARUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | HBARUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | HBARUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 0.11025000
+  - SL   : 0.11110000 (Risk: 0.00085000)
+  - TP1  : 0.10897500 | TP2: 0.10812500
+  - Qty  : 5326.458 (Equity: 1000.00)
+Backtesting HBARUSDT 1m: [25971/260777] 10.0% | ETA: 32s  MUSTAFA | HBARUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting HBARUSDT 1m: [25973/260777] 10.0% | ETA: 32s  MUSTAFA | HBARUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | HBARUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | HBARUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | HBARUSDT SSL BOS2 Triggered (bullish_bos)! Hub: JAPAN
+  - Entry: 0.10443000
+  - SL   : 0.10398000 (Risk: 0.00045000)
+  - TP1  : 0.10540530 | TP2: 0.10593583
+  - Qty  : 9376.043 (Equity: 1000.00)
+Backtesting HBARUSDT 1m: [25974/260777] 10.0% | ETA: 32s  MUSTAFA_OV | HBARUSDT Overnight Sweep of Day SSL detected!
+MUSTAFA_OV | HBARUSDT SSL Triggered! Target: Day Liquidity. Hub: US
+PLACED LIMIT ENTRY HBARUSDT BUY 6302.579 @ 0.10469000 | Margin Reserved: 8.80
+Backtesting HBARUSDT 1m: [25975/260777] 10.0% | ETA: 32s  FILLED ENTRY HBARUSDT BUY 6302.579 @ 0.10469000 (LIMIT) [] drt=0.5000 | equity=995.38 used_margin=8.80
+Backtesting HBARUSDT 1m: [25985/260777] 10.0% | ETA: 32s  EXIT PARTIAL HBARUSDT BUY TP (LIMIT) @ 0.10593583 PnL=3.9260 net=3.7932 [] drt_entry=0.5000 drt_exit=0.7131 | equity=999.24 used_margin=4.40
+TP1 HIT: SL for HBARUSDT BUY moved to 0.10531000 (Halfway Entry/TP1)
+Backtesting HBARUSDT 1m: [25990/260777] 10.0% | ETA: 32s  EXIT FULL HBARUSDT BUY STOP (LIMIT) @ 0.10531000 PnL=1.9538 net=1.8214 [] drt_entry=0.5000 drt_exit=0.6503 | equity=1001.13 used_margin=0.00
+Backtesting HBARUSDT 1m: [35941/260777] 13.8% | ETA: 33s  MUSTAFA | HBARUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting HBARUSDT 1m: [35943/260777] 13.8% | ETA: 33s  MUSTAFA | HBARUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | HBARUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | HBARUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | HBARUSDT SSL BOS2 Triggered (bullish_bos)! Hub: JAPAN
+  - Entry: 0.11028000
+  - SL   : 0.10969000 (Risk: 0.00059000)
+  - TP1  : 0.11180169 | TP2: 0.11180169
+  - Qty  : 7376.045 (Equity: 1000.00)
+Backtesting HBARUSDT 1m: [67105/260777] 25.7% | ETA: 31s  MUSTAFA | HBARUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting HBARUSDT 1m: [67123/260777] 25.7% | ETA: 31s  MUSTAFA | HBARUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | HBARUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | HBARUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | HBARUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 0.11688000
+  - SL   : 0.11661000 (Risk: 0.00027000)
+  - TP1  : 0.11728500 | TP2: 0.11755500
+  - Qty  : 13761.139 (Equity: 1000.00)
+Backtesting HBARUSDT 1m: [77732/260777] 29.8% | ETA: 30s  MUSTAFA | HBARUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting HBARUSDT 1m: [77736/260777] 29.8% | ETA: 30s  MUSTAFA | HBARUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting HBARUSDT 1m: [77737/260777] 29.8% | ETA: 30s  MUSTAFA | HBARUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | HBARUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | HBARUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 0.10853000
+  - SL   : 0.10863000 (Risk: 0.00010000)
+  - TP1  : 0.10838000 | TP2: 0.10828000
+  - Qty  : 26754.564 (Equity: 1000.00)
+Backtesting HBARUSDT 1m: [82687/260777] 31.7% | ETA: 29s  MUSTAFA | HBARUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting HBARUSDT 1m: [82692/260777] 31.7% | ETA: 29s  MUSTAFA | HBARUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | HBARUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | HBARUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | HBARUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 0.10653000
+  - SL   : 0.10684000 (Risk: 0.00031000)
+  - TP1  : 0.10598391 | TP2: 0.10563426
+  - Qty  : 12645.102 (Equity: 1000.00)
+Backtesting HBARUSDT 1m: [87762/260777] 33.7% | ETA: 29s  MUSTAFA | HBARUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting HBARUSDT 1m: [87767/260777] 33.7% | ETA: 29s  MUSTAFA | HBARUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | HBARUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | HBARUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | HBARUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 0.09795000
+  - SL   : 0.09814000 (Risk: 0.00019000)
+  - TP1  : 0.09761229 | TP2: 0.09645345
+  - Qty  : 18623.777 (Equity: 1000.00)
+Backtesting HBARUSDT 1m: [92896/260777] 35.6% | ETA: 28s  MUSTAFA | HBARUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting HBARUSDT 1m: [92914/260777] 35.6% | ETA: 28s  MUSTAFA | HBARUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting HBARUSDT 1m: [92916/260777] 35.6% | ETA: 28s  MUSTAFA | HBARUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | HBARUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | HBARUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 0.09099000
+  - SL   : 0.09081000 (Risk: 0.00018000)
+  - TP1  : 0.09173164 | TP2: 0.09173164
+  - Qty  : 19787.560 (Equity: 1000.00)
+Backtesting HBARUSDT 1m: [92917/260777] 35.6% | ETA: 28s  MUSTAFA_OV | HBARUSDT Overnight Sweep of Day SSL detected!
+Backtesting HBARUSDT 1m: [92920/260777] 35.6% | ETA: 28s  MUSTAFA_OV | HBARUSDT SSL Triggered! Target: Day Liquidity. Hub: UK_EU
+PLACED LIMIT ENTRY HBARUSDT BUY 7014.826 @ 0.09145000 | Margin Reserved: 8.55
+Backtesting HBARUSDT 1m: [92921/260777] 35.6% | ETA: 28s  FILLED ENTRY HBARUSDT BUY 7014.826 @ 0.09145000 (LIMIT) [] drt=0.5000 | equity=1001.00 used_margin=8.55
+Backtesting HBARUSDT 1m: [92927/260777] 35.6% | ETA: 28s  EXIT PARTIAL HBARUSDT BUY TP (LIMIT) @ 0.09318309 PnL=6.0787 net=5.9491 [] drt_entry=0.5000 drt_exit=0.7928 | equity=1007.01 used_margin=4.28
+TP1 HIT: SL for HBARUSDT BUY moved to 0.09232000 (Halfway Entry/TP1)
+EXIT FULL HBARUSDT BUY TP (LIMIT) @ 0.09318309 PnL=6.0787 net=5.9491 [] drt_entry=0.5000 drt_exit=0.7928 | equity=1013.03 used_margin=0.00
+Backtesting HBARUSDT 1m: [122627/260777] 47.0% | ETA: 24s  MUSTAFA | HBARUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting HBARUSDT 1m: [127881/260777] 49.0% | ETA: 23s  MUSTAFA | HBARUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting HBARUSDT 1m: [127887/260777] 49.0% | ETA: 23s  MUSTAFA | HBARUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | HBARUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | HBARUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | HBARUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 0.09891000
+  - SL   : 0.09916000 (Risk: 0.00025000)
+  - TP1  : 0.09821169 | TP2: 0.09821169
+  - Qty  : 15184.737 (Equity: 1000.00)
+Backtesting HBARUSDT 1m: [152060/260777] 58.3% | ETA: 20s  MUSTAFA | HBARUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | HBARUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting HBARUSDT 1m: [152065/260777] 58.3% | ETA: 20s  MUSTAFA | HBARUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | HBARUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | HBARUSDT BSL BOS2 Triggered (bearish_bos)! Hub: JAPAN
+  - Entry: 0.10045000
+  - SL   : 0.10132000 (Risk: 0.00087000)
+  - TP1  : 0.09903087 | TP2: 0.09827163
+  - Qty  : 5258.276 (Equity: 1000.00)
+Backtesting HBARUSDT 1m: [172956/260777] 66.3% | ETA: 16s  MUSTAFA | HBARUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting HBARUSDT 1m: [172959/260777] 66.3% | ETA: 16s  MUSTAFA | HBARUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | HBARUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | HBARUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | HBARUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 0.08569000
+  - SL   : 0.08515000 (Risk: 0.00054000)
+  - TP1  : 0.08682674 | TP2: 0.08704000
+  - Qty  : 8220.601 (Equity: 1000.00)
+Backtesting HBARUSDT 1m: [188000/260777] 72.1% | ETA: 14s  MUSTAFA | HBARUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting HBARUSDT 1m: [188006/260777] 72.1% | ETA: 14s  MUSTAFA | HBARUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting HBARUSDT 1m: [188040/260777] 72.1% | ETA: 14s  MUSTAFA | HBARUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | HBARUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+Backtesting HBARUSDT 1m: [188044/260777] 72.1% | ETA: 14s  MUSTAFA | HBARUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 0.08806000
+  - SL   : 0.08821000 (Risk: 0.00015000)
+  - TP1  : 0.08783208 | TP2: 0.08768500
+  - Qty  : 22671.829 (Equity: 1000.00)
+Backtesting HBARUSDT 1m: [191344/260777] 73.4% | ETA: 13s  MUSTAFA | HBARUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting HBARUSDT 1m: [191355/260777] 73.4% | ETA: 13s  MUSTAFA | HBARUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting HBARUSDT 1m: [191359/260777] 73.4% | ETA: 13s  MUSTAFA | HBARUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | HBARUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+Backtesting HBARUSDT 1m: [191370/260777] 73.4% | ETA: 13s  MUSTAFA | HBARUSDT SSL BOS2 Triggered (bullish_bos)! Hub: UK_EU
+  - Entry: 0.08551000
+  - SL   : 0.08530000 (Risk: 0.00021000)
+  - TP1  : 0.08594586 | TP2: 0.08603500
+  - Qty  : 17967.385 (Equity: 1000.00)
+Backtesting HBARUSDT 1m: [191374/260777] 73.4% | ETA: 13s  MUSTAFA_OV | HBARUSDT Overnight Sweep of Day SSL detected!
+Backtesting HBARUSDT 1m: [198030/260777] 75.9% | ETA: 12s  MUSTAFA | HBARUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting HBARUSDT 1m: [198046/260777] 75.9% | ETA: 12s  MUSTAFA | HBARUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting HBARUSDT 1m: [198069/260777] 76.0% | ETA: 12s  MUSTAFA | HBARUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | HBARUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+Backtesting HBARUSDT 1m: [198076/260777] 76.0% | ETA: 12s  MUSTAFA | HBARUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 0.08986000
+  - SL   : 0.08984000 (Risk: 0.00002000)
+  - TP1  : 0.08924067 | TP2: 0.08924067
+  - Qty  : 54421.176 (Equity: 1000.00)
+Backtesting HBARUSDT 1m: [214209/260777] 82.1% | ETA: 9s  MUSTAFA | HBARUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | HBARUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | HBARUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | HBARUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | HBARUSDT BSL BOS2 Triggered (bearish_bos)! Hub: UK_EU
+  - Entry: 0.09005000
+  - SL   : 0.09034000 (Risk: 0.00029000)
+  - TP1  : 0.08957034 | TP2: 0.08898093
+  - Qty  : 13803.994 (Equity: 1000.00)
+Backtesting HBARUSDT 1m: [234209/260777] 89.8% | ETA: 5s  MUSTAFA | HBARUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting HBARUSDT 1m: [234211/260777] 89.8% | ETA: 5s  MUSTAFA | HBARUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | HBARUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | HBARUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | HBARUSDT BSL BOS2 Triggered (bearish_bos)! Hub: UK_EU
+  - Entry: 0.09420000
+  - SL   : 0.09444000 (Risk: 0.00024000)
+  - TP1  : 0.09339651 | TP2: 0.09339651
+  - Qty  : 15847.659 (Equity: 1000.00)
+Backtesting HBARUSDT 1m: [234212/260777] 89.8% | ETA: 5s  MUSTAFA_OV | HBARUSDT Overnight Sweep of Day BSL detected!
+MUSTAFA_OV | HBARUSDT BSL Triggered! Target: Day Liquidity. Hub: US
+PLACED LIMIT ENTRY HBARUSDT SELL 14064.855 @ 0.09416000 | Margin Reserved: 17.66
+Backtesting HBARUSDT 1m: [234213/260777] 89.8% | ETA: 5s  FILLED ENTRY HBARUSDT SELL 14064.855 @ 0.09416000 (LIMIT) [] drt=0.5000 | equity=1012.76 used_margin=17.66
+Backtesting HBARUSDT 1m: [234290/260777] 89.8% | ETA: 5s  EXIT PARTIAL HBARUSDT SELL TP (LIMIT) @ 0.09303687 PnL=7.8983 net=7.6350 [] drt_entry=0.5000 drt_exit=0.4622 | equity=1020.53 used_margin=8.83
+TP1 HIT: SL for HBARUSDT SELL moved to 0.09360000 (Halfway Entry/TP1)
+EXIT FULL HBARUSDT SELL TP (LIMIT) @ 0.09303687 PnL=7.8983 net=7.6350 [] drt_entry=0.5000 drt_exit=0.4622 | equity=1028.30 used_margin=0.00
+Backtesting HBARUSDT 1m: [260777/260777] 100.0% | ETA: 0s  
+
+[Milestone Report: HBARUSDT]
+  - Phase 0: JAPAN Session Start  : 127  | First: 11-30 19:00-19:59 (1H) | Last: 05-29 19:00-19:59 (1H)
+  - Phase 0: HK Session Start     : 95   | First: 12-01 01:00-01:59 (1H) | Last: 05-29 01:00-01:59 (1H)
+  - Phase 0: UK_EU Session Start  : 155  | First: 12-01 06:00-06:59 (1H) | Last: 05-31 03:00-03:59 (1H)
+  - Phase 0: US Session Start     : 148  | First: 12-01 09:00-09:59 (1H) | Last: 05-31 11:00-11:59 (1H)
+  - Phase 1: 1H Overnight Range   : 3805 | First: 11-30 19:00-19:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 867  | First: 11-30 19:00-19:59 (1H) | Last: 05-31 12:00-12:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 730  | First: 12-02 08:00-08:59 (1H) | Last: 05-31 07:00-07:59 (1H)
+  - Phase 3: 15m SSL Sweep        : 10   | First: 12-10 13:00-13:14 (15m) | Last: 04-13 09:00-09:14 (15m)
+  - Phase 3: 15m BSL Sweep        : 10   | First: 12-17 12:00-12:14 (15m) | Last: 05-13 07:00-07:14 (15m)
+  - Phase 4: 1m BOS1              : 19   | First: 12-10 13:11-13:11 (1m) | Last: 05-13 07:02-07:02 (1m)
+  - Phase 5: 1m FVG Formed        : 18   | First: 12-10 13:14-13:14 (1m) | Last: 05-13 07:02-07:02 (1m)
+  - Phase 6: 1m FVG Retest        : 18   | First: 12-10 13:14-13:14 (1m) | Last: 05-13 07:02-07:02 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 18   | First: 12-10 13:14-13:14 (1m) | Last: 05-13 07:02-07:02 (1m)
+  - Phase 0: UK_EU Overnight Start: 6    | First: 12-10 13:00-13:59 (1H) | Last: 03-31 13:00-13:59 (1H)
+  - Phase 0: US Overnight Start   : 7    | First: 12-17 09:00-09:59 (1H) | Last: 04-18 01:00-01:59 (1H)
+  - Phase 0: JAPAN Overnight Start: 1    | 04-13 09:00-09:59 (1H)
+  - Phase 1: Preceding Day Range Found: 18   | First: 12-10 13:00-13:59 (1H) | Last: 05-13 07:00-07:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 8    | First: 12-10 13:00-13:59 (1H) | Last: 04-13 09:00-09:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 10   | First: 12-17 12:00-12:59 (1H) | Last: 05-13 07:00-07:59 (1H)
+  - Phase 3: Day SSL Sweep        : 4    | First: 12-17 09:00-09:14 (15m) | Last: 04-13 09:30-09:44 (15m)
+  - Phase 3: Day BSL Sweep        : 1    | 05-13 07:00-07:14 (15m)
+  - Phase 4: 1m BOS1              : 4    | First: 12-17 09:01-09:01 (1m) | Last: 05-13 07:03-07:03 (1m)
+  - Phase 5: 1m FVG Formed        : 4    | First: 12-17 09:01-09:01 (1m) | Last: 05-13 07:03-07:03 (1m)
+  - Phase 6: 1m FVG Retest        : 4    | First: 12-17 09:01-09:01 (1m) | Last: 05-13 07:03-07:03 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 4    | First: 12-17 09:01-09:01 (1m) | Last: 05-13 07:03-07:03 (1m)
+Backtesting UNIUSDT 1m: [23881/260777] 9.2% | ETA: 31s  MUSTAFA | UNIUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting UNIUSDT 1m: [23892/260777] 9.2% | ETA: 31s  MUSTAFA | UNIUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting UNIUSDT 1m: [23893/260777] 9.2% | ETA: 31s  MUSTAFA | UNIUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | UNIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | UNIUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 5.08200000
+  - SL   : 5.11700000 (Risk: 0.03500000)
+  - TP1  : 5.00798700 | TP2: 4.99450000
+  - Qty  : 127.921 (Equity: 1000.00)
+Backtesting UNIUSDT 1m: [23894/260777] 9.2% | ETA: 31s  MUSTAFA_OV | UNIUSDT Overnight Sweep of Day BSL detected!
+MUSTAFA_OV | UNIUSDT BSL Triggered! Target: Day Liquidity. Hub: JAPAN
+PLACED LIMIT ENTRY UNIUSDT SELL 199.408 @ 5.07700000 | Margin Reserved: 13.50
+Backtesting UNIUSDT 1m: [23895/260777] 9.2% | ETA: 31s  FILLED ENTRY UNIUSDT SELL 199.408 @ 5.07700000 (LIMIT) [] drt=0.5000 | equity=999.80 used_margin=13.50
+EXIT PARTIAL UNIUSDT SELL TP (LIMIT) @ 5.04694800 PnL=2.9963 net=2.7944 [] drt_entry=0.5000 drt_exit=0.4733 | equity=1002.69 used_margin=6.75
+TP1 HIT: SL for UNIUSDT SELL moved to 5.06200000 (Halfway Entry/TP1)
+Backtesting UNIUSDT 1m: [23896/260777] 9.2% | ETA: 31s  EXIT FULL UNIUSDT SELL TP (LIMIT) @ 5.00598900 PnL=7.0801 net=6.8790 [] drt_entry=0.5000 drt_exit=0.4234 | equity=1009.67 used_margin=0.00
+Backtesting UNIUSDT 1m: [27582/260777] 10.6% | ETA: 32s  MUSTAFA | UNIUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting UNIUSDT 1m: [27592/260777] 10.6% | ETA: 32s  MUSTAFA | UNIUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting UNIUSDT 1m: [27593/260777] 10.6% | ETA: 32s  MUSTAFA | UNIUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | UNIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | UNIUSDT SSL BOS2 Triggered (bullish_bos)! Hub: HK
+  - Entry: 5.45000000
+  - SL   : 5.42700000 (Risk: 0.02300000)
+  - TP1  : 5.48450000 | TP2: 5.50750000
+  - Qty  : 182.840 (Equity: 1000.00)
+Backtesting UNIUSDT 1m: [51224/260777] 19.6% | ETA: 32s  MUSTAFA | UNIUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | UNIUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | UNIUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | UNIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | UNIUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 5.85300000
+  - SL   : 5.83000000 (Risk: 0.02300000)
+  - TP1  : 5.91190600 | TP2: 5.91190600
+  - Qty  : 180.710 (Equity: 1000.00)
+Backtesting UNIUSDT 1m: [51225/260777] 19.6% | ETA: 32s  MUSTAFA_OV | UNIUSDT Overnight Sweep of Day SSL detected!
+Backtesting UNIUSDT 1m: [67777/260777] 26.0% | ETA: 31s  MUSTAFA | UNIUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | UNIUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting UNIUSDT 1m: [67778/260777] 26.0% | ETA: 31s  MUSTAFA | UNIUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | UNIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | UNIUSDT SSL BOS2 Triggered (bullish_bos)! Hub: HK
+  - Entry: 5.33200000
+  - SL   : 5.32300000 (Risk: 0.00900000)
+  - TP1  : 5.35034500 | TP2: 5.37136600
+  - Qty  : 377.068 (Equity: 1000.00)
+Backtesting UNIUSDT 1m: [69672/260777] 26.7% | ETA: 30s  MUSTAFA | UNIUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting UNIUSDT 1m: [69676/260777] 26.7% | ETA: 30s  MUSTAFA | UNIUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting UNIUSDT 1m: [69678/260777] 26.7% | ETA: 30s  MUSTAFA | UNIUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | UNIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+Backtesting UNIUSDT 1m: [69685/260777] 26.7% | ETA: 30s  MUSTAFA | UNIUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 5.27400000
+  - SL   : 5.27100000 (Risk: 0.00300000)
+  - TP1  : 5.32431900 | TP2: 5.32431900
+  - Qty  : 692.770 (Equity: 1000.00)
+Backtesting UNIUSDT 1m: [69686/260777] 26.7% | ETA: 30s  MUSTAFA_OV | UNIUSDT Overnight Sweep of Day SSL detected!
+Backtesting UNIUSDT 1m: [69691/260777] 26.7% | ETA: 30s  MUSTAFA_OV | UNIUSDT SSL Triggered! Target: Day Liquidity. Hub: JAPAN
+PLACED LIMIT ENTRY UNIUSDT BUY 260.235 @ 5.27800000 | Margin Reserved: 18.31
+Backtesting UNIUSDT 1m: [69692/260777] 26.7% | ETA: 30s  FILLED ENTRY UNIUSDT BUY 260.235 @ 5.27800000 (LIMIT) [] drt=0.5000 | equity=1009.40 used_margin=18.31
+Backtesting UNIUSDT 1m: [69735/260777] 26.7% | ETA: 30s  EXIT PARTIAL UNIUSDT BUY TP (LIMIT) @ 5.33733200 PnL=7.7202 net=7.4439 [] drt_entry=0.5000 drt_exit=0.5771 | equity=1016.98 used_margin=9.16
+TP1 HIT: SL for UNIUSDT BUY moved to 5.30800000 (Halfway Entry/TP1)
+EXIT FULL UNIUSDT BUY TP (LIMIT) @ 5.33733200 PnL=7.7201 net=7.4439 [] drt_entry=0.5000 drt_exit=0.5771 | equity=1024.56 used_margin=0.00
+Backtesting UNIUSDT 1m: [77732/260777] 29.8% | ETA: 30s  MUSTAFA | UNIUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | UNIUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | UNIUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | UNIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | UNIUSDT SSL BOS2 Triggered (bullish_bos)! Hub: HK
+  - Entry: 4.90500000
+  - SL   : 4.89500000 (Risk: 0.01000000)
+  - TP1  : 4.95595100 | TP2: 4.95595100
+  - Qty  : 359.247 (Equity: 1000.00)
+Backtesting UNIUSDT 1m: [92717/260777] 35.6% | ETA: 28s  MUSTAFA | UNIUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting UNIUSDT 1m: [92724/260777] 35.6% | ETA: 28s  MUSTAFA | UNIUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | UNIUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | UNIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | UNIUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 3.86300000
+  - SL   : 3.89200000 (Risk: 0.02900000)
+  - TP1  : 3.81950000 | TP2: 3.79050000
+  - Qty  : 155.725 (Equity: 1000.00)
+Backtesting UNIUSDT 1m: [116836/260777] 44.8% | ETA: 25s  MUSTAFA | UNIUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | UNIUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | UNIUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | UNIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | UNIUSDT BSL BOS2 Triggered (bearish_bos)! Hub: UK_EU
+  - Entry: 3.38700000
+  - SL   : 3.40300000 (Risk: 0.01600000)
+  - TP1  : 3.35564100 | TP2: 3.34700000
+  - Qty  : 267.105 (Equity: 1000.00)
+Backtesting UNIUSDT 1m: [116837/260777] 44.8% | ETA: 25s  MUSTAFA_OV | UNIUSDT Overnight Sweep of Day BSL detected!
+MUSTAFA_OV | UNIUSDT BSL Triggered! Target: Day Liquidity. Hub: US
+PLACED LIMIT ENTRY UNIUSDT SELL 230.217 @ 3.38400000 | Margin Reserved: 10.39
+Backtesting UNIUSDT 1m: [116838/260777] 44.8% | ETA: 25s  FILLED ENTRY UNIUSDT SELL 230.217 @ 3.38400000 (LIMIT) [] drt=0.5000 | equity=1024.41 used_margin=10.39
+Backtesting UNIUSDT 1m: [116866/260777] 44.8% | ETA: 25s  EXIT PARTIAL UNIUSDT SELL TP (LIMIT) @ 3.35963700 PnL=2.8044 net=2.6491 [] drt_entry=0.5000 drt_exit=0.3846 | equity=1027.13 used_margin=5.19
+TP1 HIT: SL for UNIUSDT SELL moved to 3.37200000 (Halfway Entry/TP1)
+Backtesting UNIUSDT 1m: [116870/260777] 44.8% | ETA: 25s  EXIT FULL UNIUSDT SELL TP (LIMIT) @ 3.33266400 PnL=5.9092 net=5.7546 [] drt_entry=0.5000 drt_exit=0.2946 | equity=1032.96 used_margin=0.00
+Backtesting UNIUSDT 1m: [117851/260777] 45.2% | ETA: 25s  MUSTAFA | UNIUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting UNIUSDT 1m: [117860/260777] 45.2% | ETA: 25s  MUSTAFA | UNIUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | UNIUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | UNIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | UNIUSDT SSL BOS2 Triggered (bullish_bos)! Hub: HK
+  - Entry: 3.54400000
+  - SL   : 3.53900000 (Risk: 0.00500000)
+  - TP1  : 3.56155800 | TP2: 3.56155800
+  - Qty  : 638.390 (Equity: 1000.00)
+Backtesting UNIUSDT 1m: [122627/260777] 47.0% | ETA: 24s  MUSTAFA | UNIUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting UNIUSDT 1m: [122634/260777] 47.0% | ETA: 24s  MUSTAFA | UNIUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting UNIUSDT 1m: [122635/260777] 47.0% | ETA: 24s  MUSTAFA | UNIUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | UNIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | UNIUSDT SSL BOS2 Triggered (bullish_bos)! Hub: UK_EU
+  - Entry: 3.29200000
+  - SL   : 3.28600000 (Risk: 0.00600000)
+  - TP1  : 3.32031700 | TP2: 3.32031700
+  - Qty  : 579.374 (Equity: 1000.00)
+Backtesting UNIUSDT 1m: [127881/260777] 49.0% | ETA: 23s  MUSTAFA | UNIUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting UNIUSDT 1m: [127887/260777] 49.0% | ETA: 23s  MUSTAFA | UNIUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting UNIUSDT 1m: [127898/260777] 49.0% | ETA: 23s  MUSTAFA | UNIUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | UNIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | UNIUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 3.65600000
+  - SL   : 3.68500000 (Risk: 0.02900000)
+  - TP1  : 3.61250000 | TP2: 3.58350000
+  - Qty  : 156.532 (Equity: 1000.00)
+Backtesting UNIUSDT 1m: [137911/260777] 52.9% | ETA: 22s  MUSTAFA | UNIUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | UNIUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting UNIUSDT 1m: [137917/260777] 52.9% | ETA: 22s  MUSTAFA | UNIUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | UNIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | UNIUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 3.81300000
+  - SL   : 3.82000000 (Risk: 0.00700000)
+  - TP1  : 3.80250000 | TP2: 3.79550000
+  - Qty  : 497.284 (Equity: 1000.00)
+Backtesting UNIUSDT 1m: [188000/260777] 72.1% | ETA: 14s  MUSTAFA | UNIUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | UNIUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting UNIUSDT 1m: [214269/260777] 82.2% | ETA: 9s  MUSTAFA | UNIUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting UNIUSDT 1m: [214288/260777] 82.2% | ETA: 9s  MUSTAFA | UNIUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting UNIUSDT 1m: [214290/260777] 82.2% | ETA: 9s  MUSTAFA | UNIUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | UNIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | UNIUSDT BSL BOS2 Triggered (bearish_bos)! Hub: UK_EU
+  - Entry: 3.25900000
+  - SL   : 3.26600000 (Risk: 0.00700000)
+  - TP1  : 3.24175500 | TP2: 3.22377300
+  - Qty  : 520.215 (Equity: 1000.00)
+Backtesting UNIUSDT 1m: [238150/260777] 91.3% | ETA: 4s  MUSTAFA | UNIUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting UNIUSDT 1m: [238151/260777] 91.3% | ETA: 4s  MUSTAFA | UNIUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting UNIUSDT 1m: [238182/260777] 91.3% | ETA: 4s  MUSTAFA | UNIUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | UNIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+Backtesting UNIUSDT 1m: [238186/260777] 91.3% | ETA: 4s  MUSTAFA | UNIUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 3.56700000
+  - SL   : 3.57700000 (Risk: 0.01000000)
+  - TP1  : 3.54645000 | TP2: 3.54200000
+  - Qty  : 388.814 (Equity: 1000.00)
+Backtesting UNIUSDT 1m: [245612/260777] 94.2% | ETA: 3s  MUSTAFA | UNIUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting UNIUSDT 1m: [245621/260777] 94.2% | ETA: 3s  MUSTAFA | UNIUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | UNIUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | UNIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | UNIUSDT BSL BOS2 Triggered (bearish_bos)! Hub: UK_EU
+  - Entry: 3.61100000
+  - SL   : 3.64200000 (Risk: 0.03100000)
+  - TP1  : 3.56450000 | TP2: 3.53350000
+  - Qty  : 147.460 (Equity: 1000.00)
+Backtesting UNIUSDT 1m: [253971/260777] 97.4% | ETA: 1s  MUSTAFA | UNIUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | UNIUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting UNIUSDT 1m: [260777/260777] 100.0% | ETA: 0s  
+
+[Milestone Report: UNIUSDT]
+  - Phase 0: JAPAN Session Start  : 113  | First: 11-30 19:00-19:59 (1H) | Last: 05-29 20:00-20:59 (1H)
+  - Phase 0: HK Session Start     : 72   | First: 12-01 01:00-01:59 (1H) | Last: 05-28 01:00-01:59 (1H)
+  - Phase 0: UK_EU Session Start  : 143  | First: 12-02 03:00-03:59 (1H) | Last: 05-30 03:00-03:59 (1H)
+  - Phase 0: US Session Start     : 141  | First: 12-02 09:00-09:59 (1H) | Last: 05-31 10:00-10:59 (1H)
+  - Phase 1: 1H Overnight Range   : 3805 | First: 11-30 19:00-19:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 737  | First: 11-30 19:00-19:59 (1H) | Last: 05-31 15:00-15:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 664  | First: 12-02 09:00-09:59 (1H) | Last: 05-30 00:00-00:59 (1H)
+  - Phase 3: 15m BSL Sweep        : 9    | First: 12-17 11:00-11:14 (15m) | Last: 05-21 06:00-06:14 (15m)
+  - Phase 3: 15m SSL Sweep        : 8    | First: 12-20 01:00-01:14 (15m) | Last: 05-27 02:00-02:14 (15m)
+  - Phase 4: 1m BOS1              : 17   | First: 12-17 11:11-11:11 (1m) | Last: 05-27 02:00-02:00 (1m)
+  - Phase 5: 1m FVG Formed        : 15   | First: 12-17 11:12-11:12 (1m) | Last: 05-21 06:09-06:09 (1m)
+  - Phase 6: 1m FVG Retest        : 15   | First: 12-17 11:12-11:12 (1m) | Last: 05-21 06:09-06:09 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 15   | First: 12-17 11:12-11:12 (1m) | Last: 05-21 06:09-06:09 (1m)
+  - Phase 0: JAPAN Overnight Start: 2    | First: 12-17 11:00-11:59 (1H) | Last: 01-18 10:00-10:59 (1H)
+  - Phase 0: US Overnight Start   : 4    | First: 12-20 01:00-01:59 (1H) | Last: 02-20 08:00-08:59 (1H)
+  - Phase 0: UK_EU Overnight Start: 2    | First: 01-05 13:00-13:59 (1H) | Last: 02-03 12:00-12:59 (1H)
+  - Phase 1: Preceding Day Range Found: 15   | First: 12-17 11:00-11:59 (1H) | Last: 05-21 06:00-06:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 8    | First: 12-17 11:00-11:59 (1H) | Last: 05-21 06:00-06:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 7    | First: 12-20 01:00-01:59 (1H) | Last: 02-24 09:00-09:59 (1H)
+  - Phase 3: Day BSL Sweep        : 2    | First: 12-17 11:00-11:14 (15m) | Last: 02-20 08:00-08:14 (15m)
+  - Phase 3: Day SSL Sweep        : 2    | First: 01-05 13:00-13:14 (15m) | Last: 01-18 10:00-10:14 (15m)
+  - Phase 4: 1m BOS1              : 3    | First: 12-17 11:13-11:13 (1m) | Last: 02-20 08:01-08:01 (1m)
+  - Phase 5: 1m FVG Formed        : 3    | First: 12-17 11:13-11:13 (1m) | Last: 02-20 08:01-08:01 (1m)
+  - Phase 6: 1m FVG Retest        : 3    | First: 12-17 11:13-11:13 (1m) | Last: 02-20 08:01-08:01 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 3    | First: 12-17 11:13-11:13 (1m) | Last: 02-20 08:01-08:01 (1m)
+Backtesting GRTUSDT 1m: [23881/260777] 9.2% | ETA: 32s  MUSTAFA | GRTUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting GRTUSDT 1m: [23894/260777] 9.2% | ETA: 32s  MUSTAFA | GRTUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | GRTUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | GRTUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | GRTUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 0.03846000
+  - SL   : 0.03869000 (Risk: 0.00023000)
+  - TP1  : 0.03810186 | TP2: 0.03788500
+  - Qty  : 19163.990 (Equity: 1000.00)
+Backtesting GRTUSDT 1m: [25971/260777] 10.0% | ETA: 32s  MUSTAFA | GRTUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting GRTUSDT 1m: [25973/260777] 10.0% | ETA: 32s  MUSTAFA | GRTUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting GRTUSDT 1m: [25976/260777] 10.0% | ETA: 32s  MUSTAFA | GRTUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | GRTUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | GRTUSDT SSL BOS2 Triggered (bullish_bos)! Hub: JAPAN
+  - Entry: 0.03577000
+  - SL   : 0.03553000 (Risk: 0.00024000)
+  - TP1  : 0.03677674 | TP2: 0.03677674
+  - Qty  : 18623.916 (Equity: 1000.00)
+Backtesting GRTUSDT 1m: [31224/260777] 12.0% | ETA: 33s  MUSTAFA | GRTUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | GRTUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting GRTUSDT 1m: [31225/260777] 12.0% | ETA: 33s  MUSTAFA | GRTUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | GRTUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | GRTUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 0.03883000
+  - SL   : 0.03892000 (Risk: 0.00009000)
+  - TP1  : 0.03844152 | TP2: 0.03844152
+  - Qty  : 41282.055 (Equity: 1000.00)
+Backtesting GRTUSDT 1m: [34985/260777] 13.4% | ETA: 33s  MUSTAFA | GRTUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting GRTUSDT 1m: [34994/260777] 13.4% | ETA: 33s  MUSTAFA | GRTUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting GRTUSDT 1m: [52597/260777] 20.2% | ETA: 32s  MUSTAFA | GRTUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting GRTUSDT 1m: [52614/260777] 20.2% | ETA: 32s  MUSTAFA | GRTUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting GRTUSDT 1m: [52615/260777] 20.2% | ETA: 32s  MUSTAFA | GRTUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | GRTUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | GRTUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 0.04138000
+  - SL   : 0.04157000 (Risk: 0.00019000)
+  - TP1  : 0.04109500 | TP2: 0.04090500
+  - Qty  : 22399.627 (Equity: 1000.00)
+Backtesting GRTUSDT 1m: [67105/260777] 25.7% | ETA: 31s  MUSTAFA | GRTUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting GRTUSDT 1m: [67123/260777] 25.7% | ETA: 31s  MUSTAFA | GRTUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting GRTUSDT 1m: [67136/260777] 25.7% | ETA: 31s  MUSTAFA | GRTUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | GRTUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | GRTUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 0.04084000
+  - SL   : 0.04055000 (Risk: 0.00029000)
+  - TP1  : 0.04127500 | TP2: 0.04156500
+  - Qty  : 15503.972 (Equity: 1000.00)
+Backtesting GRTUSDT 1m: [67702/260777] 26.0% | ETA: 31s  MUSTAFA | GRTUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting GRTUSDT 1m: [67714/260777] 26.0% | ETA: 31s  MUSTAFA | GRTUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | GRTUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | GRTUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | GRTUSDT SSL BOS2 Triggered (bullish_bos)! Hub: HK
+  - Entry: 0.04343000
+  - SL   : 0.04311000 (Risk: 0.00032000)
+  - TP1  : 0.04391000 | TP2: 0.04423000
+  - Qty  : 14102.303 (Equity: 1000.00)
+Backtesting GRTUSDT 1m: [74030/260777] 28.4% | ETA: 30s  MUSTAFA | GRTUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting GRTUSDT 1m: [74038/260777] 28.4% | ETA: 30s  MUSTAFA | GRTUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting GRTUSDT 1m: [74047/260777] 28.4% | ETA: 30s  MUSTAFA | GRTUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | GRTUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | GRTUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 0.03713000
+  - SL   : 0.03732000 (Risk: 0.00019000)
+  - TP1  : 0.03670326 | TP2: 0.03632364
+  - Qty  : 22746.089 (Equity: 1000.00)
+Backtesting GRTUSDT 1m: [87060/260777] 33.4% | ETA: 29s  MUSTAFA | GRTUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting GRTUSDT 1m: [87075/260777] 33.4% | ETA: 29s  MUSTAFA | GRTUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting GRTUSDT 1m: [87077/260777] 33.4% | ETA: 29s  MUSTAFA | GRTUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | GRTUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+Backtesting GRTUSDT 1m: [87083/260777] 33.4% | ETA: 29s  MUSTAFA | GRTUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 0.03273000
+  - SL   : 0.03274000 (Risk: 0.00001000)
+  - TP1  : 0.03315312 | TP2: 0.03315312
+  - Qty  : 138159.712 (Equity: 1000.00)
+Backtesting GRTUSDT 1m: [87084/260777] 33.4% | ETA: 29s  MUSTAFA_OV | GRTUSDT Overnight Sweep of Day SSL detected!
+Backtesting GRTUSDT 1m: [87088/260777] 33.4% | ETA: 29s  MUSTAFA_OV | GRTUSDT SSL Triggered! Target: Day Liquidity. Hub: UK_EU
+PLACED LIMIT ENTRY GRTUSDT BUY 6203.258 @ 0.03312000 | Margin Reserved: 2.74
+Backtesting GRTUSDT 1m: [87089/260777] 33.4% | ETA: 29s  FILLED ENTRY GRTUSDT BUY 6203.258 @ 0.03312000 (LIMIT) [] drt=0.5000 | equity=999.96 used_margin=2.74
+Backtesting GRTUSDT 1m: [87858/260777] 33.7% | ETA: 29s  EXIT FULL GRTUSDT BUY STOP (LIMIT) @ 0.03234000 PnL=-4.8385 net=-4.9198 [] drt_entry=0.5000 drt_exit=0.4346 | equity=995.08 used_margin=0.00
+Backtesting GRTUSDT 1m: [92717/260777] 35.6% | ETA: 28s  MUSTAFA | GRTUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting GRTUSDT 1m: [92722/260777] 35.6% | ETA: 28s  MUSTAFA | GRTUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | GRTUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | GRTUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | GRTUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 0.02963000
+  - SL   : 0.02986000 (Risk: 0.00023000)
+  - TP1  : 0.02928500 | TP2: 0.02905500
+  - Qty  : 19697.292 (Equity: 1000.00)
+Backtesting GRTUSDT 1m: [97791/260777] 37.5% | ETA: 28s  MUSTAFA | GRTUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting GRTUSDT 1m: [97807/260777] 37.5% | ETA: 28s  MUSTAFA | GRTUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | GRTUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | GRTUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | GRTUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 0.02824000
+  - SL   : 0.02847000 (Risk: 0.00023000)
+  - TP1  : 0.02789500 | TP2: 0.02766500
+  - Qty  : 19783.959 (Equity: 1000.00)
+Backtesting GRTUSDT 1m: [116717/260777] 44.8% | ETA: 25s  MUSTAFA | GRTUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting GRTUSDT 1m: [116721/260777] 44.8% | ETA: 25s  MUSTAFA | GRTUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting GRTUSDT 1m: [116839/260777] 44.8% | ETA: 25s  MUSTAFA | GRTUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | GRTUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | GRTUSDT BSL BOS2 Triggered (bearish_bos)! Hub: UK_EU
+  - Entry: 0.02623000
+  - SL   : 0.02637000 (Risk: 0.00014000)
+  - TP1  : 0.02602000 | TP2: 0.02588000
+  - Qty  : 31042.789 (Equity: 1000.00)
+Backtesting GRTUSDT 1m: [117851/260777] 45.2% | ETA: 25s  MUSTAFA | GRTUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | GRTUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting GRTUSDT 1m: [117852/260777] 45.2% | ETA: 25s  MUSTAFA | GRTUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | GRTUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | GRTUSDT SSL BOS2 Triggered (bullish_bos)! Hub: HK
+  - Entry: 0.02895000
+  - SL   : 0.02883000 (Risk: 0.00012000)
+  - TP1  : 0.02913000 | TP2: 0.02925000
+  - Qty  : 34943.531 (Equity: 1000.00)
+Backtesting GRTUSDT 1m: [122627/260777] 47.0% | ETA: 24s  MUSTAFA | GRTUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting GRTUSDT 1m: [122655/260777] 47.0% | ETA: 24s  MUSTAFA | GRTUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting GRTUSDT 1m: [126687/260777] 48.6% | ETA: 24s  MUSTAFA | GRTUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting GRTUSDT 1m: [126696/260777] 48.6% | ETA: 24s  MUSTAFA | GRTUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting GRTUSDT 1m: [126701/260777] 48.6% | ETA: 24s  MUSTAFA | GRTUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | GRTUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | GRTUSDT BSL BOS2 Triggered (bearish_bos)! Hub: UK_EU
+  - Entry: 0.02698000
+  - SL   : 0.02713000 (Risk: 0.00015000)
+  - TP1  : 0.02658339 | TP2: 0.02658339
+  - Qty  : 29124.969 (Equity: 1000.00)
+Backtesting GRTUSDT 1m: [127881/260777] 49.0% | ETA: 23s  MUSTAFA | GRTUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting GRTUSDT 1m: [127895/260777] 49.0% | ETA: 23s  MUSTAFA | GRTUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting GRTUSDT 1m: [127900/260777] 49.0% | ETA: 23s  MUSTAFA | GRTUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | GRTUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | GRTUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 0.02546000
+  - SL   : 0.02561000 (Risk: 0.00015000)
+  - TP1  : 0.02523500 | TP2: 0.02508500
+  - Qty  : 29332.738 (Equity: 1000.00)
+Backtesting GRTUSDT 1m: [135284/260777] 51.9% | ETA: 22s  MUSTAFA | GRTUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting GRTUSDT 1m: [135310/260777] 51.9% | ETA: 22s  MUSTAFA | GRTUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting GRTUSDT 1m: [142985/260777] 54.8% | ETA: 21s  MUSTAFA | GRTUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting GRTUSDT 1m: [143006/260777] 54.8% | ETA: 21s  MUSTAFA | GRTUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting GRTUSDT 1m: [161135/260777] 61.8% | ETA: 18s  MUSTAFA | GRTUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting GRTUSDT 1m: [161136/260777] 61.8% | ETA: 18s  MUSTAFA | GRTUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting GRTUSDT 1m: [161143/260777] 61.8% | ETA: 18s  MUSTAFA | GRTUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | GRTUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | GRTUSDT SSL BOS2 Triggered (bullish_bos)! Hub: UK_EU
+  - Entry: 0.02473000
+  - SL   : 0.02458000 (Risk: 0.00015000)
+  - TP1  : 0.02495500 | TP2: 0.02510500
+  - Qty  : 29464.801 (Equity: 1000.00)
+Backtesting GRTUSDT 1m: [177985/260777] 68.3% | ETA: 15s  MUSTAFA | GRTUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting GRTUSDT 1m: [177989/260777] 68.3% | ETA: 15s  MUSTAFA | GRTUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting GRTUSDT 1m: [177995/260777] 68.3% | ETA: 15s  MUSTAFA | GRTUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | GRTUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | GRTUSDT SSL BOS2 Triggered (bullish_bos)! Hub: HK
+  - Entry: 0.02425000
+  - SL   : 0.02417000 (Risk: 0.00008000)
+  - TP1  : 0.02437000 | TP2: 0.02445000
+  - Qty  : 50326.113 (Equity: 1000.00)
+Backtesting GRTUSDT 1m: [185015/260777] 70.9% | ETA: 14s  MUSTAFA | GRTUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting GRTUSDT 1m: [185031/260777] 71.0% | ETA: 14s  MUSTAFA | GRTUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting GRTUSDT 1m: [208060/260777] 79.8% | ETA: 10s  MUSTAFA | GRTUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting GRTUSDT 1m: [208072/260777] 79.8% | ETA: 10s  MUSTAFA | GRTUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting GRTUSDT 1m: [208123/260777] 79.8% | ETA: 10s  MUSTAFA | GRTUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | GRTUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | GRTUSDT SSL BOS2 Triggered (bullish_bos)! Hub: HK
+  - Entry: 0.02543000
+  - SL   : 0.02534000 (Risk: 0.00009000)
+  - TP1  : 0.02556500 | TP2: 0.02565500
+  - Qty  : 45335.025 (Equity: 1000.00)
+Backtesting GRTUSDT 1m: [248179/260777] 95.2% | ETA: 2s  MUSTAFA | GRTUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting GRTUSDT 1m: [248188/260777] 95.2% | ETA: 2s  MUSTAFA | GRTUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting GRTUSDT 1m: [248222/260777] 95.2% | ETA: 2s  MUSTAFA | GRTUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | GRTUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | GRTUSDT SSL BOS2 Triggered (bullish_bos)! Hub: HK
+  - Entry: 0.02645000
+  - SL   : 0.02635000 (Risk: 0.00010000)
+  - TP1  : 0.02662660 | TP2: 0.02670000
+  - Qty  : 41288.191 (Equity: 1000.00)
+Backtesting GRTUSDT 1m: [248223/260777] 95.2% | ETA: 2s  MUSTAFA_OV | GRTUSDT Overnight Sweep of Day SSL detected!
+MUSTAFA_OV | GRTUSDT SSL Triggered! Target: Day Liquidity. Hub: US
+PLACED LIMIT ENTRY GRTUSDT BUY 81795.576 @ 0.02644000 | Margin Reserved: 28.84
+Backtesting GRTUSDT 1m: [248224/260777] 95.2% | ETA: 2s  FILLED ENTRY GRTUSDT BUY 81795.576 @ 0.02644000 (LIMIT) [] drt=0.5000 | equity=994.65 used_margin=28.84
+EXIT FULL GRTUSDT BUY STOP (LIMIT) @ 0.02640000 PnL=-3.2718 net=-4.1362 [] drt_entry=0.5000 drt_exit=0.7019 | equity=990.94 used_margin=0.00
+Backtesting GRTUSDT 1m: [260777/260777] 100.0% | ETA: 0s  
+
+[Milestone Report: GRTUSDT]
+  - Phase 0: JAPAN Session Start  : 128  | First: 11-30 19:00-19:59 (1H) | Last: 05-28 20:00-20:59 (1H)
+  - Phase 0: HK Session Start     : 85   | First: 12-01 01:00-01:59 (1H) | Last: 05-31 01:00-01:59 (1H)
+  - Phase 0: US Session Start     : 153  | First: 12-01 11:00-11:59 (1H) | Last: 05-31 10:00-10:59 (1H)
+  - Phase 0: UK_EU Session Start  : 160  | First: 12-02 05:00-05:59 (1H) | Last: 05-31 03:00-03:59 (1H)
+  - Phase 1: 1H Overnight Range   : 3805 | First: 11-30 19:00-19:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 864  | First: 11-30 19:00-19:59 (1H) | Last: 05-31 14:00-14:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 751  | First: 12-02 05:00-05:59 (1H) | Last: 05-30 10:00-10:59 (1H)
+  - Phase 3: 15m BSL Sweep        : 11   | First: 12-17 11:00-11:14 (15m) | Last: 03-10 15:00-15:14 (15m)
+  - Phase 3: 15m SSL Sweep        : 12   | First: 12-18 22:00-22:14 (15m) | Last: 05-23 01:00-01:14 (15m)
+  - Phase 4: 1m BOS1              : 23   | First: 12-17 11:13-11:13 (1m) | Last: 05-23 01:09-01:09 (1m)
+  - Phase 5: 1m FVG Formed        : 18   | First: 12-17 11:13-11:13 (1m) | Last: 05-23 01:43-01:43 (1m)
+  - Phase 6: 1m FVG Retest        : 18   | First: 12-17 11:13-11:13 (1m) | Last: 05-23 01:43-01:43 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 18   | First: 12-17 11:13-11:13 (1m) | Last: 05-23 01:43-01:43 (1m)
+  - Phase 0: JAPAN Overnight Start: 2    | First: 12-17 11:00-11:59 (1H) | Last: 01-21 11:00-11:59 (1H)
+  - Phase 0: US Overnight Start   : 3    | First: 12-18 22:00-22:59 (1H) | Last: 02-07 01:00-01:59 (1H)
+  - Phase 0: UK_EU Overnight Start: 2    | First: 12-22 14:00-14:59 (1H) | Last: 01-30 13:00-13:59 (1H)
+  - Phase 1: Preceding Day Range Found: 18   | First: 12-17 11:00-11:59 (1H) | Last: 05-23 01:00-01:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 9    | First: 12-17 11:00-11:59 (1H) | Last: 02-28 01:00-01:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 9    | First: 12-18 22:00-22:59 (1H) | Last: 05-23 01:00-01:59 (1H)
+  - Phase 3: Day SSL Sweep        : 2    | First: 01-30 13:30-13:44 (15m) | Last: 05-23 01:30-01:44 (15m)
+  - Phase 4: 1m BOS1              : 2    | First: 01-30 13:39-13:39 (1m) | Last: 05-23 01:44-01:44 (1m)
+  - Phase 5: 1m FVG Formed        : 2    | First: 01-30 13:43-13:43 (1m) | Last: 05-23 01:44-01:44 (1m)
+  - Phase 6: 1m FVG Retest        : 2    | First: 01-30 13:43-13:43 (1m) | Last: 05-23 01:44-01:44 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 2    | First: 01-30 13:43-13:43 (1m) | Last: 05-23 01:44-01:44 (1m)
+Backtesting SOLUSDT 1m: [14030/260777] 5.4% | ETA: 28s  MUSTAFA | SOLUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | SOLUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting SOLUSDT 1m: [14031/260777] 5.4% | ETA: 28s  MUSTAFA | SOLUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SOLUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+Backtesting SOLUSDT 1m: [14045/260777] 5.4% | ETA: 28s  MUSTAFA | SOLUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 138.89300000
+  - SL   : 138.31700000 (Risk: 0.57600000)
+  - TP1  : 139.93579600 | TP2: 140.33300000
+  - Qty  : 7.280 (Equity: 1000.00)
+Backtesting SOLUSDT 1m: [20911/260777] 8.0% | ETA: 31s  MUSTAFA | SOLUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting SOLUSDT 1m: [23881/260777] 9.2% | ETA: 32s  MUSTAFA | SOLUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting SOLUSDT 1m: [23894/260777] 9.2% | ETA: 32s  MUSTAFA | SOLUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | SOLUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SOLUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SOLUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 126.93000000
+  - SL   : 127.68300000 (Risk: 0.75300000)
+  - TP1  : 125.79607800 | TP2: 125.04750000
+  - Qty  : 5.847 (Equity: 1000.00)
+Backtesting SOLUSDT 1m: [26806/260777] 10.3% | ETA: 32s  MUSTAFA | SOLUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting SOLUSDT 1m: [26827/260777] 10.3% | ETA: 32s  MUSTAFA | SOLUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting SOLUSDT 1m: [26829/260777] 10.3% | ETA: 32s  MUSTAFA | SOLUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SOLUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SOLUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 125.71800000
+  - SL   : 125.73700000 (Risk: 0.01900000)
+  - TP1  : 125.40447000 | TP2: 125.40447000
+  - Qty  : 41.810 (Equity: 1000.00)
+Backtesting SOLUSDT 1m: [47642/260777] 18.3% | ETA: 32s  MUSTAFA | SOLUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting SOLUSDT 1m: [47663/260777] 18.3% | ETA: 32s  MUSTAFA | SOLUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting SOLUSDT 1m: [47668/260777] 18.3% | ETA: 32s  MUSTAFA | SOLUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SOLUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SOLUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 131.78900000
+  - SL   : 131.93900000 (Risk: 0.15000000)
+  - TP1  : 131.42344500 | TP2: 130.60926000
+  - Qty  : 19.567 (Equity: 1000.00)
+Backtesting SOLUSDT 1m: [47669/260777] 18.3% | ETA: 32s  MUSTAFA_OV | SOLUSDT Overnight Sweep of Day BSL detected!
+MUSTAFA_OV | SOLUSDT BSL Triggered! Target: Day Liquidity. Hub: US
+PLACED LIMIT ENTRY SOLUSDT SELL 29.152 @ 131.83700000 | Margin Reserved: 38.43
+Backtesting SOLUSDT 1m: [47670/260777] 18.3% | ETA: 32s  FILLED ENTRY SOLUSDT SELL 29.152 @ 131.83700000 (LIMIT) [] drt=0.5000 | equity=999.23 used_margin=38.43
+Backtesting SOLUSDT 1m: [47721/260777] 18.3% | ETA: 32s  EXIT PARTIAL SOLUSDT SELL TP (LIMIT) @ 130.46940000 PnL=19.9341 net=19.1695 [] drt_entry=0.5000 drt_exit=0.4316 | equity=1018.79 used_margin=19.22
+TP1 HIT: SL for SOLUSDT SELL moved to 131.15300000 (Halfway Entry/TP1)
+EXIT FULL SOLUSDT SELL TP (LIMIT) @ 130.46940000 PnL=19.9341 net=19.1695 [] drt_entry=0.5000 drt_exit=0.4316 | equity=1038.34 used_margin=0.00
+Backtesting SOLUSDT 1m: [61911/260777] 23.7% | ETA: 31s  MUSTAFA | SOLUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting SOLUSDT 1m: [61912/260777] 23.7% | ETA: 31s  MUSTAFA | SOLUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | SOLUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SOLUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SOLUSDT SSL BOS2 Triggered (bullish_bos)! Hub: JAPAN
+  - Entry: 139.25800000
+  - SL   : 139.01800000 (Risk: 0.24000000)
+  - TP1  : 139.63549600 | TP2: 139.90176200
+  - Qty  : 14.234 (Equity: 1000.00)
+Backtesting SOLUSDT 1m: [67702/260777] 26.0% | ETA: 31s  MUSTAFA | SOLUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting SOLUSDT 1m: [67712/260777] 26.0% | ETA: 31s  MUSTAFA | SOLUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | SOLUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SOLUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SOLUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 143.84600000
+  - SL   : 143.97800000 (Risk: 0.13200000)
+  - TP1  : 143.25360300 | TP2: 143.25360300
+  - Qty  : 20.230 (Equity: 1000.00)
+Backtesting SOLUSDT 1m: [74030/260777] 28.4% | ETA: 30s  MUSTAFA | SOLUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting SOLUSDT 1m: [74034/260777] 28.4% | ETA: 30s  MUSTAFA | SOLUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting SOLUSDT 1m: [74035/260777] 28.4% | ETA: 30s  MUSTAFA | SOLUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SOLUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SOLUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 129.57500000
+  - SL   : 129.96400000 (Risk: 0.38900000)
+  - TP1  : 127.83204000 | TP2: 127.83204000
+  - Qty  : 10.144 (Equity: 1000.00)
+Backtesting SOLUSDT 1m: [96299/260777] 36.9% | ETA: 28s  MUSTAFA | SOLUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting SOLUSDT 1m: [96300/260777] 36.9% | ETA: 28s  MUSTAFA | SOLUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | SOLUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SOLUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SOLUSDT SSL BOS2 Triggered (bullish_bos)! Hub: JAPAN
+  - Entry: 77.88600000
+  - SL   : 77.16700000 (Risk: 0.71900000)
+  - TP1  : 80.28020000 | TP2: 80.28020000
+  - Qty  : 6.403 (Equity: 1000.00)
+Backtesting SOLUSDT 1m: [96301/260777] 36.9% | ETA: 28s  MUSTAFA_OV | SOLUSDT Overnight Sweep of Day SSL detected!
+MUSTAFA_OV | SOLUSDT SSL Triggered! Target: Day Liquidity. Hub: US
+PLACED LIMIT ENTRY SOLUSDT BUY 5.394 @ 78.03200000 | Margin Reserved: 4.21
+Backtesting SOLUSDT 1m: [96302/260777] 36.9% | ETA: 28s  FILLED ENTRY SOLUSDT BUY 5.394 @ 78.03200000 (LIMIT) [] drt=0.5000 | equity=1038.25 used_margin=4.21
+Backtesting SOLUSDT 1m: [96817/260777] 37.1% | ETA: 28s  EXIT PARTIAL SOLUSDT BUY TP (LIMIT) @ 83.35627300 PnL=14.3596 net=14.2725 [] drt_entry=0.5000 drt_exit=0.5247 | equity=1052.57 used_margin=2.10
+TP1 HIT: SL for SOLUSDT BUY moved to 80.69400000 (Halfway Entry/TP1)
+EXIT FULL SOLUSDT BUY TP (LIMIT) @ 83.35627300 PnL=14.3596 net=14.2725 [] drt_entry=0.5000 drt_exit=0.5247 | equity=1066.88 used_margin=0.00
+Backtesting SOLUSDT 1m: [113791/260777] 43.6% | ETA: 25s  MUSTAFA | SOLUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting SOLUSDT 1m: [113792/260777] 43.6% | ETA: 25s  MUSTAFA | SOLUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | SOLUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SOLUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SOLUSDT BSL BOS2 Triggered (bearish_bos)! Hub: UK_EU
+  - Entry: 85.23500000
+  - SL   : 85.45500000 (Risk: 0.22000000)
+  - TP1  : 84.82409100 | TP2: 84.61829700
+  - Qty  : 17.341 (Equity: 1000.00)
+Backtesting SOLUSDT 1m: [116836/260777] 44.8% | ETA: 25s  MUSTAFA | SOLUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | SOLUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | SOLUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SOLUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SOLUSDT BSL BOS2 Triggered (bearish_bos)! Hub: UK_EU
+  - Entry: 83.41800000
+  - SL   : 83.84900000 (Risk: 0.43100000)
+  - TP1  : 82.68523200 | TP2: 82.24167600
+  - Qty  : 10.040 (Equity: 1000.00)
+Backtesting SOLUSDT 1m: [127881/260777] 49.0% | ETA: 23s  MUSTAFA | SOLUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting SOLUSDT 1m: [127887/260777] 49.0% | ETA: 23s  MUSTAFA | SOLUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | SOLUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SOLUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SOLUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 81.24300000
+  - SL   : 81.49000000 (Risk: 0.24700000)
+  - TP1  : 80.75816100 | TP2: 80.18273700
+  - Qty  : 16.018 (Equity: 1000.00)
+Backtesting SOLUSDT 1m: [162687/260777] 62.4% | ETA: 18s  MUSTAFA | SOLUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting SOLUSDT 1m: [162694/260777] 62.4% | ETA: 18s  MUSTAFA | SOLUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting SOLUSDT 1m: [162696/260777] 62.4% | ETA: 18s  MUSTAFA | SOLUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SOLUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SOLUSDT BSL BOS2 Triggered (bearish_bos)! Hub: UK_EU
+  - Entry: 91.26000000
+  - SL   : 91.54200000 (Risk: 0.28200000)
+  - TP1  : 90.01089900 | TP2: 90.01089900
+  - Qty  : 14.077 (Equity: 1000.00)
+Backtesting SOLUSDT 1m: [185732/260777] 71.2% | ETA: 14s  MUSTAFA | SOLUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting SOLUSDT 1m: [185745/260777] 71.2% | ETA: 14s  MUSTAFA | SOLUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | SOLUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SOLUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SOLUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 82.22200000
+  - SL   : 81.96900000 (Risk: 0.25300000)
+  - TP1  : 82.70161900 | TP2: 82.85450000
+  - Qty  : 15.692 (Equity: 1000.00)
+Backtesting SOLUSDT 1m: [192956/260777] 74.0% | ETA: 13s  MUSTAFA | SOLUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | SOLUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting SOLUSDT 1m: [192957/260777] 74.0% | ETA: 13s  MUSTAFA | SOLUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SOLUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SOLUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 85.99900000
+  - SL   : 86.04300000 (Risk: 0.04400000)
+  - TP1  : 85.81809600 | TP2: 85.81809600
+  - Qty  : 44.316 (Equity: 1000.00)
+Backtesting SOLUSDT 1m: [198030/260777] 75.9% | ETA: 12s  MUSTAFA | SOLUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting SOLUSDT 1m: [198055/260777] 75.9% | ETA: 12s  MUSTAFA | SOLUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | SOLUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SOLUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SOLUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 88.30700000
+  - SL   : 88.39300000 (Risk: 0.08600000)
+  - TP1  : 88.08482700 | TP2: 88.08482700
+  - Qty  : 31.908 (Equity: 1000.00)
+Backtesting SOLUSDT 1m: [214209/260777] 82.1% | ETA: 9s  MUSTAFA | SOLUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | SOLUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting SOLUSDT 1m: [214211/260777] 82.1% | ETA: 9s  MUSTAFA | SOLUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SOLUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SOLUSDT BSL BOS2 Triggered (bearish_bos)! Hub: UK_EU
+  - Entry: 84.69600000
+  - SL   : 84.86600000 (Risk: 0.17000000)
+  - TP1  : 84.40151400 | TP2: 84.20670900
+  - Qty  : 21.020 (Equity: 1000.00)
+Backtesting SOLUSDT 1m: [225732/260777] 86.6% | ETA: 7s  MUSTAFA | SOLUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | SOLUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | SOLUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SOLUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SOLUSDT BSL BOS2 Triggered (bearish_bos)! Hub: UK_EU
+  - Entry: 89.55300000
+  - SL   : 89.77700000 (Risk: 0.22400000)
+  - TP1  : 89.13377700 | TP2: 88.61329800
+  - Qty  : 16.904 (Equity: 1000.00)
+Backtesting SOLUSDT 1m: [225733/260777] 86.6% | ETA: 7s  MUSTAFA_OV | SOLUSDT Overnight Sweep of Day BSL detected!
+MUSTAFA_OV | SOLUSDT BSL Triggered! Target: Day Liquidity. Hub: US
+PLACED LIMIT ENTRY SOLUSDT SELL 15.025 @ 89.51600000 | Margin Reserved: 13.45
+Backtesting SOLUSDT 1m: [225734/260777] 86.6% | ETA: 7s  FILLED ENTRY SOLUSDT SELL 15.025 @ 89.51600000 (LIMIT) [] drt=0.5000 | equity=1066.61 used_margin=13.45
+Backtesting SOLUSDT 1m: [225778/260777] 86.6% | ETA: 7s  EXIT PARTIAL SOLUSDT SELL TP (LIMIT) @ 88.45146000 PnL=7.9979 net=7.7305 [] drt_entry=0.5000 drt_exit=0.4334 | equity=1074.48 used_margin=6.72
+TP1 HIT: SL for SOLUSDT SELL moved to 88.98400000 (Halfway Entry/TP1)
+EXIT FULL SOLUSDT SELL TP (LIMIT) @ 88.45146000 PnL=7.9968 net=7.7294 [] drt_entry=0.5000 drt_exit=0.4334 | equity=1082.34 used_margin=0.00
+Backtesting SOLUSDT 1m: [238150/260777] 91.3% | ETA: 4s  MUSTAFA | SOLUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting SOLUSDT 1m: [238170/260777] 91.3% | ETA: 4s  MUSTAFA | SOLUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | SOLUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SOLUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SOLUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 88.53100000
+  - SL   : 88.59000000 (Risk: 0.05900000)
+  - TP1  : 88.06185000 | TP2: 88.06185000
+  - Qty  : 38.502 (Equity: 1000.00)
+Backtesting SOLUSDT 1m: [257433/260777] 98.7% | ETA: 0s  MUSTAFA | SOLUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting SOLUSDT 1m: [257441/260777] 98.7% | ETA: 0s  MUSTAFA | SOLUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting SOLUSDT 1m: [257450/260777] 98.7% | ETA: 0s  MUSTAFA | SOLUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SOLUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+Backtesting SOLUSDT 1m: [257464/260777] 98.7% | ETA: 0s  MUSTAFA | SOLUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 82.59800000
+  - SL   : 82.57800000 (Risk: 0.02000000)
+  - TP1  : 82.69561300 | TP2: 82.69561300
+  - Qty  : 58.094 (Equity: 1000.00)
+Backtesting SOLUSDT 1m: [260777/260777] 100.0% | ETA: 0s  
+
+[Milestone Report: SOLUSDT]
+  - Phase 0: JAPAN Session Start  : 105  | First: 11-30 19:00-19:59 (1H) | Last: 05-30 23:00-23:59 (1H)
+  - Phase 0: HK Session Start     : 60   | First: 12-01 01:00-01:59 (1H) | Last: 05-30 01:00-01:59 (1H)
+  - Phase 0: US Session Start     : 147  | First: 12-01 10:00-10:59 (1H) | Last: 05-31 10:00-10:59 (1H)
+  - Phase 0: UK_EU Session Start  : 141  | First: 12-02 05:00-05:59 (1H) | Last: 05-27 03:00-03:59 (1H)
+  - Phase 1: 1H Overnight Range   : 3805 | First: 11-30 19:00-19:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 744  | First: 11-30 19:00-19:59 (1H) | Last: 05-31 14:00-14:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 616  | First: 12-01 19:00-19:59 (1H) | Last: 05-31 00:00-00:59 (1H)
+  - Phase 3: 15m SSL Sweep        : 5    | First: 12-10 14:00-14:14 (15m) | Last: 05-29 12:00-12:14 (15m)
+  - Phase 3: 15m BSL Sweep        : 15   | First: 12-15 09:15-09:29 (15m) | Last: 05-16 01:00-01:14 (15m)
+  - Phase 4: 1m BOS1              : 19   | First: 12-10 14:00-14:00 (1m) | Last: 05-29 12:08-12:08 (1m)
+  - Phase 5: 1m FVG Formed        : 19   | First: 12-10 14:01-14:01 (1m) | Last: 05-29 12:17-12:17 (1m)
+  - Phase 6: 1m FVG Retest        : 19   | First: 12-10 14:01-14:01 (1m) | Last: 05-29 12:17-12:17 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 19   | First: 12-10 14:15-14:15 (1m) | Last: 05-29 12:31-12:31 (1m)
+  - Phase 0: UK_EU Overnight Start: 4    | First: 12-10 14:00-14:59 (1H) | Last: 05-29 12:00-12:59 (1H)
+  - Phase 0: JAPAN Overnight Start: 3    | First: 12-17 11:00-11:59 (1H) | Last: 04-09 11:00-11:59 (1H)
+  - Phase 0: US Overnight Start   : 3    | First: 01-03 01:00-01:59 (1H) | Last: 04-18 01:00-01:59 (1H)
+  - Phase 1: Preceding Day Range Found: 19   | First: 12-10 14:00-14:59 (1H) | Last: 05-29 12:00-12:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 5    | First: 12-10 14:00-14:59 (1H) | Last: 05-29 12:00-12:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 14   | First: 12-17 11:00-11:59 (1H) | Last: 05-16 01:00-01:59 (1H)
+  - Phase 3: Day BSL Sweep        : 2    | First: 01-03 01:15-01:29 (15m) | Last: 05-07 09:00-09:14 (15m)
+  - Phase 3: Day SSL Sweep        : 1    | 02-06 00:00-00:14 (15m)
+  - Phase 4: 1m BOS1              : 3    | First: 01-03 01:27-01:27 (1m) | Last: 05-07 09:01-09:01 (1m)
+  - Phase 5: 1m FVG Formed        : 3    | First: 01-03 01:27-01:27 (1m) | Last: 05-07 09:01-09:01 (1m)
+  - Phase 6: 1m FVG Retest        : 3    | First: 01-03 01:27-01:27 (1m) | Last: 05-07 09:01-09:01 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 3    | First: 01-03 01:27-01:27 (1m) | Last: 05-07 09:01-09:01 (1m)
+Backtesting ENAUSDT 1m: [23762/260777] 9.1% | ETA: 26s  MUSTAFA | ENAUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting ENAUSDT 1m: [23821/260777] 9.1% | ETA: 26s  MUSTAFA | ENAUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting ENAUSDT 1m: [23840/260777] 9.1% | ETA: 26s  MUSTAFA | ENAUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting ENAUSDT 1m: [23849/260777] 9.1% | ETA: 26s  MUSTAFA | ENAUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ENAUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ENAUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 0.21660000
+  - SL   : 0.21721000 (Risk: 0.00061000)
+  - TP1  : 0.21338640 | TP2: 0.21338640
+  - Qty  : 6380.431 (Equity: 1000.00)
+Backtesting ENAUSDT 1m: [25971/260777] 10.0% | ETA: 28s  MUSTAFA | ENAUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting ENAUSDT 1m: [25972/260777] 10.0% | ETA: 28s  MUSTAFA | ENAUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting ENAUSDT 1m: [25975/260777] 10.0% | ETA: 28s  MUSTAFA | ENAUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ENAUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ENAUSDT SSL BOS2 Triggered (bullish_bos)! Hub: JAPAN
+  - Entry: 0.19600000
+  - SL   : 0.19329000 (Risk: 0.00271000)
+  - TP1  : 0.20160140 | TP2: 0.21071050
+  - Qty  : 1745.094 (Equity: 1000.00)
+Backtesting ENAUSDT 1m: [35941/260777] 13.8% | ETA: 30s  MUSTAFA | ENAUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting ENAUSDT 1m: [35942/260777] 13.8% | ETA: 30s  MUSTAFA | ENAUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | ENAUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ENAUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ENAUSDT SSL BOS2 Triggered (bullish_bos)! Hub: JAPAN
+  - Entry: 0.20260000
+  - SL   : 0.20179000 (Risk: 0.00081000)
+  - TP1  : 0.20590570 | TP2: 0.20590570
+  - Qty  : 5146.182 (Equity: 1000.00)
+Backtesting ENAUSDT 1m: [74224/260777] 28.5% | ETA: 29s  MUSTAFA | ENAUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting ENAUSDT 1m: [74236/260777] 28.5% | ETA: 29s  MUSTAFA | ENAUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | ENAUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ENAUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ENAUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 0.17570000
+  - SL   : 0.17339000 (Risk: 0.00231000)
+  - TP1  : 0.18108090 | TP2: 0.18158140
+  - Qty  : 2041.504 (Equity: 1000.00)
+Backtesting ENAUSDT 1m: [74237/260777] 28.5% | ETA: 29s  MUSTAFA_OV | ENAUSDT Overnight Sweep of Day SSL detected!
+MUSTAFA_OV | ENAUSDT SSL Triggered! Target: Day Liquidity. Hub: UK_EU
+PLACED LIMIT ENTRY ENAUSDT BUY 1370.082 @ 0.17690000 | Margin Reserved: 3.23
+Backtesting ENAUSDT 1m: [74238/260777] 28.5% | ETA: 29s  FILLED ENTRY ENAUSDT BUY 1370.082 @ 0.17690000 (LIMIT) [] drt=0.5000 | equity=999.95 used_margin=3.23
+Backtesting ENAUSDT 1m: [74251/260777] 28.5% | ETA: 29s  EXIT PARTIAL ENAUSDT BUY TP (LIMIT) @ 0.18158140 PnL=3.2070 net=3.1578 [] drt_entry=0.5000 drt_exit=0.9189 | equity=1003.13 used_margin=1.62
+TP1 HIT: SL for ENAUSDT BUY moved to 0.17924000 (Halfway Entry/TP1)
+Backtesting ENAUSDT 1m: [74488/260777] 28.6% | ETA: 29s  EXIT FULL ENAUSDT BUY STOP (LIMIT) @ 0.17924000 PnL=1.6030 net=1.5542 [] drt_entry=0.5000 drt_exit=0.4744 | equity=1004.71 used_margin=0.00
+Backtesting ENAUSDT 1m: [92597/260777] 35.5% | ETA: 27s  MUSTAFA | ENAUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting ENAUSDT 1m: [92606/260777] 35.5% | ETA: 27s  MUSTAFA | ENAUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting ENAUSDT 1m: [92607/260777] 35.5% | ETA: 27s  MUSTAFA | ENAUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ENAUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+Backtesting ENAUSDT 1m: [92618/260777] 35.5% | ETA: 27s  MUSTAFA | ENAUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 0.13770000
+  - SL   : 0.13699000 (Risk: 0.00071000)
+  - TP1  : 0.13973960 | TP2: 0.13973960
+  - Qty  : 6099.539 (Equity: 1000.00)
+Backtesting ENAUSDT 1m: [92619/260777] 35.5% | ETA: 27s  MUSTAFA_OV | ENAUSDT Overnight Sweep of Day SSL detected!
+Backtesting ENAUSDT 1m: [92620/260777] 35.5% | ETA: 27s  MUSTAFA_OV | ENAUSDT SSL Triggered! Target: Day Liquidity. Hub: JAPAN
+PLACED LIMIT ENTRY ENAUSDT BUY 6099.539 @ 0.13770000 | Margin Reserved: 11.20
+Backtesting ENAUSDT 1m: [92621/260777] 35.5% | ETA: 27s  FILLED ENTRY ENAUSDT BUY 6099.539 @ 0.13770000 (LIMIT) [] drt=0.5000 | equity=1004.54 used_margin=11.20
+Backtesting ENAUSDT 1m: [92622/260777] 35.5% | ETA: 27s  EXIT FULL ENAUSDT BUY STOP (LIMIT) @ 0.13699000 PnL=-4.3307 net=-4.6658 [] drt_entry=0.5000 drt_exit=0.5132 | equity=1000.05 used_margin=0.00
+Backtesting ENAUSDT 1m: [96299/260777] 36.9% | ETA: 27s  MUSTAFA | ENAUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting ENAUSDT 1m: [96301/260777] 36.9% | ETA: 27s  MUSTAFA | ENAUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | ENAUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ENAUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ENAUSDT SSL BOS2 Triggered (bullish_bos)! Hub: JAPAN
+  - Entry: 0.11440000
+  - SL   : 0.11319000 (Risk: 0.00121000)
+  - TP1  : 0.11661650 | TP2: 0.11821810
+  - Qty  : 3843.806 (Equity: 1000.00)
+Backtesting ENAUSDT 1m: [97791/260777] 37.5% | ETA: 27s  MUSTAFA | ENAUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting ENAUSDT 1m: [97807/260777] 37.5% | ETA: 27s  MUSTAFA | ENAUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting ENAUSDT 1m: [97837/260777] 37.5% | ETA: 27s  MUSTAFA | ENAUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ENAUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ENAUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 0.12500000
+  - SL   : 0.12531000 (Risk: 0.00031000)
+  - TP1  : 0.12427560 | TP2: 0.12422500
+  - Qty  : 12189.592 (Equity: 1000.00)
+Backtesting ENAUSDT 1m: [126747/260777] 48.6% | ETA: 23s  MUSTAFA | ENAUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting ENAUSDT 1m: [126766/260777] 48.6% | ETA: 23s  MUSTAFA | ENAUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting ENAUSDT 1m: [126767/260777] 48.6% | ETA: 23s  MUSTAFA | ENAUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ENAUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+Backtesting ENAUSDT 1m: [126778/260777] 48.6% | ETA: 23s  MUSTAFA | ENAUSDT BSL BOS2 Triggered (bearish_bos)! Hub: UK_EU
+  - Entry: 0.10590000
+  - SL   : 0.10651000 (Risk: 0.00061000)
+  - TP1  : 0.10469520 | TP2: 0.10429560
+  - Qty  : 7193.354 (Equity: 1000.00)
+Backtesting ENAUSDT 1m: [126779/260777] 48.6% | ETA: 23s  MUSTAFA_OV | ENAUSDT Overnight Sweep of Day BSL detected!
+MUSTAFA_OV | ENAUSDT BSL Triggered! Target: Day Liquidity. Hub: US
+PLACED LIMIT ENTRY ENAUSDT SELL 4566.185 @ 0.10550000 | Margin Reserved: 6.42
+Backtesting ENAUSDT 1m: [126780/260777] 48.6% | ETA: 23s  FILLED ENTRY ENAUSDT SELL 4566.185 @ 0.10550000 (LIMIT) [] drt=0.5000 | equity=999.95 used_margin=6.42
+Backtesting ENAUSDT 1m: [126807/260777] 48.6% | ETA: 23s  EXIT PARTIAL ENAUSDT SELL TP (LIMIT) @ 0.10349640 PnL=4.5744 net=4.4790 [] drt_entry=0.5000 drt_exit=0.3601 | equity=1004.48 used_margin=3.21
+TP1 HIT: SL for ENAUSDT SELL moved to 0.10450000 (Halfway Entry/TP1)
+Backtesting ENAUSDT 1m: [126870/260777] 48.7% | ETA: 23s  EXIT FULL ENAUSDT SELL STOP (LIMIT) @ 0.10450000 PnL=2.2831 net=2.1872 [] drt_entry=0.5000 drt_exit=0.6241 | equity=1006.71 used_margin=0.00
+Backtesting ENAUSDT 1m: [145672/260777] 55.9% | ETA: 20s  MUSTAFA | ENAUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting ENAUSDT 1m: [145686/260777] 55.9% | ETA: 20s  MUSTAFA | ENAUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting ENAUSDT 1m: [145687/260777] 55.9% | ETA: 20s  MUSTAFA | ENAUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ENAUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ENAUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 0.10520000
+  - SL   : 0.10459000 (Risk: 0.00061000)
+  - TP1  : 0.10611500 | TP2: 0.10672500
+  - Qty  : 7206.750 (Equity: 1000.00)
+Backtesting ENAUSDT 1m: [212956/260777] 81.7% | ETA: 9s  MUSTAFA | ENAUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | ENAUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | ENAUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ENAUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ENAUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 0.10640000
+  - SL   : 0.10589000 (Risk: 0.00051000)
+  - TP1  : 0.10720710 | TP2: 0.10767500
+  - Qty  : 8405.989 (Equity: 1000.00)
+Backtesting ENAUSDT 1m: [212957/260777] 81.7% | ETA: 9s  MUSTAFA_OV | ENAUSDT Overnight Sweep of Day SSL detected!
+MUSTAFA_OV | ENAUSDT SSL Triggered! Target: Day Liquidity. Hub: JAPAN
+PLACED LIMIT ENTRY ENAUSDT BUY 7195.963 @ 0.10650000 | Margin Reserved: 10.22
+Backtesting ENAUSDT 1m: [212958/260777] 81.7% | ETA: 9s  FILLED ENTRY ENAUSDT BUY 7195.963 @ 0.10650000 (LIMIT) [] drt=0.5000 | equity=1006.56 used_margin=10.22
+Backtesting ENAUSDT 1m: [213085/260777] 81.7% | ETA: 9s  EXIT FULL ENAUSDT BUY STOP (LIMIT) @ 0.10589000 PnL=-4.3895 net=-4.6952 [] drt_entry=0.5000 drt_exit=0.4356 | equity=1002.02 used_margin=0.00
+Backtesting ENAUSDT 1m: [214209/260777] 82.1% | ETA: 9s  MUSTAFA | ENAUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting ENAUSDT 1m: [214211/260777] 82.1% | ETA: 9s  MUSTAFA | ENAUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | ENAUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ENAUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ENAUSDT BSL BOS2 Triggered (bearish_bos)! Hub: UK_EU
+  - Entry: 0.10790000
+  - SL   : 0.10911000 (Risk: 0.00121000)
+  - TP1  : 0.10579410 | TP2: 0.10487500
+  - Qty  : 3854.913 (Equity: 1000.00)
+Backtesting ENAUSDT 1m: [238150/260777] 91.3% | ETA: 4s  MUSTAFA | ENAUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting ENAUSDT 1m: [238151/260777] 91.3% | ETA: 4s  MUSTAFA | ENAUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | ENAUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ENAUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ENAUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 0.11050000
+  - SL   : 0.11101000 (Risk: 0.00051000)
+  - TP1  : 0.10973500 | TP2: 0.10922500
+  - Qty  : 8351.344 (Equity: 1000.00)
+Backtesting ENAUSDT 1m: [243762/260777] 93.5% | ETA: 3s  MUSTAFA | ENAUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting ENAUSDT 1m: [243771/260777] 93.5% | ETA: 3s  MUSTAFA | ENAUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting ENAUSDT 1m: [243780/260777] 93.5% | ETA: 3s  MUSTAFA | ENAUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ENAUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ENAUSDT SSL BOS2 Triggered (bullish_bos)! Hub: JAPAN
+  - Entry: 0.10370000
+  - SL   : 0.10329000 (Risk: 0.00041000)
+  - TP1  : 0.10431500 | TP2: 0.10472500
+  - Qty  : 10147.874 (Equity: 1000.00)
+Backtesting ENAUSDT 1m: [243781/260777] 93.5% | ETA: 3s  MUSTAFA_OV | ENAUSDT Overnight Sweep of Day SSL detected!
+MUSTAFA_OV | ENAUSDT SSL Triggered! Target: Day Liquidity. Hub: US
+PLACED LIMIT ENTRY ENAUSDT BUY 25920.972 @ 0.10370000 | Margin Reserved: 35.84
+Backtesting ENAUSDT 1m: [243782/260777] 93.5% | ETA: 3s  FILLED ENTRY ENAUSDT BUY 25920.972 @ 0.10370000 (LIMIT) [] drt=0.5000 | equity=1001.48 used_margin=35.84
+Backtesting ENAUSDT 1m: [243787/260777] 93.5% | ETA: 3s  EXIT PARTIAL ENAUSDT BUY TP (LIMIT) @ 0.10390380 PnL=2.6413 net=2.1032 [] drt_entry=0.5000 drt_exit=0.6806 | equity=1003.85 used_margin=17.92
+TP1 HIT: SL for ENAUSDT BUY moved to 0.10380000 (Halfway Entry/TP1)
+EXIT FULL ENAUSDT BUY STOP (LIMIT) @ 0.10380000 PnL=1.2960 net=0.7582 [] drt_entry=0.5000 drt_exit=0.6806 | equity=1004.88 used_margin=0.00
+Backtesting ENAUSDT 1m: [245612/260777] 94.2% | ETA: 3s  MUSTAFA | ENAUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting ENAUSDT 1m: [245624/260777] 94.2% | ETA: 3s  MUSTAFA | ENAUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | ENAUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ENAUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ENAUSDT BSL BOS2 Triggered (bearish_bos)! Hub: UK_EU
+  - Entry: 0.10590000
+  - SL   : 0.10661000 (Risk: 0.00071000)
+  - TP1  : 0.10483500 | TP2: 0.10412500
+  - Qty  : 6288.153 (Equity: 1000.00)
+Backtesting ENAUSDT 1m: [254627/260777] 97.6% | ETA: 1s  MUSTAFA | ENAUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | ENAUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | ENAUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ENAUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ENAUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 0.09692000
+  - SL   : 0.09726000 (Risk: 0.00034000)
+  - TP1  : 0.09526464 | TP2: 0.09526464
+  - Qty  : 11969.167 (Equity: 1000.00)
+Backtesting ENAUSDT 1m: [257374/260777] 98.7% | ETA: 0s  MUSTAFA | ENAUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting ENAUSDT 1m: [257380/260777] 98.7% | ETA: 0s  MUSTAFA | ENAUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | ENAUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | ENAUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | ENAUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 0.08683000
+  - SL   : 0.08640000 (Risk: 0.00043000)
+  - TP1  : 0.08784776 | TP2: 0.08800792
+  - Qty  : 10015.905 (Equity: 1000.00)
+Backtesting ENAUSDT 1m: [260777/260777] 100.0% | ETA: 0s  
+
+[Milestone Report: ENAUSDT]
+  - Phase 0: HK Session Start     : 79   | First: 12-03 02:00-02:59 (1H) | Last: 05-31 01:00-01:59 (1H)
+  - Phase 0: US Session Start     : 139  | First: 12-03 10:00-10:59 (1H) | Last: 05-31 10:00-10:59 (1H)
+  - Phase 0: JAPAN Session Start  : 109  | First: 12-03 19:00-19:59 (1H) | Last: 05-30 22:00-22:59 (1H)
+  - Phase 0: UK_EU Session Start  : 135  | First: 12-04 03:00-03:59 (1H) | Last: 05-30 08:00-08:59 (1H)
+  - Phase 1: 1H Overnight Range   : 3805 | First: 11-30 19:00-19:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 620  | First: 12-03 02:00-02:59 (1H) | Last: 05-31 02:00-02:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 807  | First: 12-04 03:00-03:59 (1H) | Last: 05-31 15:00-15:59 (1H)
+  - Phase 3: 15m SSL Sweep        : 10   | First: 12-17 09:00-09:14 (15m) | Last: 05-29 11:00-11:14 (15m)
+  - Phase 3: 15m BSL Sweep        : 7    | First: 12-17 10:00-10:14 (15m) | Last: 05-27 13:00-13:14 (15m)
+  - Phase 4: 1m BOS1              : 16   | First: 12-17 10:19-10:19 (1m) | Last: 05-29 11:07-11:07 (1m)
+  - Phase 5: 1m FVG Formed        : 16   | First: 12-17 10:28-10:28 (1m) | Last: 05-29 11:07-11:07 (1m)
+  - Phase 6: 1m FVG Retest        : 16   | First: 12-17 10:28-10:28 (1m) | Last: 05-29 11:07-11:07 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 16   | First: 12-17 10:28-10:28 (1m) | Last: 05-29 11:07-11:07 (1m)
+  - Phase 0: JAPAN Overnight Start: 4    | First: 12-17 10:00-10:59 (1H) | Last: 05-29 11:00-11:59 (1H)
+  - Phase 0: US Overnight Start   : 3    | First: 12-18 22:00-22:59 (1H) | Last: 04-29 08:00-08:59 (1H)
+  - Phase 0: UK_EU Overnight Start: 3    | First: 01-21 14:00-14:59 (1H) | Last: 05-27 13:00-13:59 (1H)
+  - Phase 1: Preceding Day Range Found: 16   | First: 12-17 10:00-10:59 (1H) | Last: 05-29 11:00-11:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 7    | First: 12-17 10:00-10:59 (1H) | Last: 05-27 13:00-13:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 9    | First: 12-18 22:00-22:59 (1H) | Last: 05-29 11:00-11:59 (1H)
+  - Phase 3: Day SSL Sweep        : 4    | First: 01-21 14:15-14:29 (15m) | Last: 05-19 23:15-23:29 (15m)
+  - Phase 3: Day BSL Sweep        : 1    | 02-27 06:30-06:44 (15m)
+  - Phase 4: 1m BOS1              : 5    | First: 01-21 14:28-14:28 (1m) | Last: 05-19 23:20-23:20 (1m)
+  - Phase 5: 1m FVG Formed        : 5    | First: 01-21 14:28-14:28 (1m) | Last: 05-19 23:20-23:20 (1m)
+  - Phase 6: 1m FVG Retest        : 5    | First: 01-21 14:28-14:28 (1m) | Last: 05-19 23:20-23:20 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 5    | First: 01-21 14:28-14:28 (1m) | Last: 05-19 23:20-23:20 (1m)
+Backtesting SUIUSDT 1m: [11881/260777] 4.6% | ETA: 17s  MUSTAFA | SUIUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting SUIUSDT 1m: [11896/260777] 4.6% | ETA: 17s  MUSTAFA | SUIUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | SUIUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SUIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SUIUSDT SSL BOS2 Triggered (bullish_bos)! Hub: HK
+  - Entry: 1.59110000
+  - SL   : 1.58450000 (Risk: 0.00660000)
+  - TP1  : 1.61581420 | TP2: 1.61581420
+  - Qty  : 635.411 (Equity: 1000.00)
+Backtesting SUIUSDT 1m: [11897/260777] 4.6% | ETA: 17s  MUSTAFA_OV | SUIUSDT Overnight Sweep of Day SSL detected!
+Backtesting SUIUSDT 1m: [11898/260777] 4.6% | ETA: 17s  MUSTAFA_OV | SUIUSDT SSL Triggered! Target: Day Liquidity. Hub: US
+PLACED LIMIT ENTRY SUIUSDT BUY 627.436 @ 1.59120000 | Margin Reserved: 13.31
+Backtesting SUIUSDT 1m: [11899/260777] 4.6% | ETA: 17s  FILLED ENTRY SUIUSDT BUY 627.436 @ 1.59120000 (LIMIT) [] drt=0.5000 | equity=999.80 used_margin=13.31
+Backtesting SUIUSDT 1m: [12361/260777] 4.7% | ETA: 18s  EXIT PARTIAL SUIUSDT BUY TP (LIMIT) @ 1.62482320 PnL=10.5482 net=10.3464 [] drt_entry=0.5000 drt_exit=0.6249 | equity=1010.25 used_margin=6.66
+TP1 HIT: SL for SUIUSDT BUY moved to 1.60800000 (Halfway Entry/TP1)
+EXIT FULL SUIUSDT BUY TP (LIMIT) @ 1.62482320 PnL=10.5482 net=10.3464 [] drt_entry=0.5000 drt_exit=0.6249 | equity=1020.69 used_margin=0.00
+Backtesting SUIUSDT 1m: [23881/260777] 9.2% | ETA: 26s  MUSTAFA | SUIUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting SUIUSDT 1m: [23892/260777] 9.2% | ETA: 26s  MUSTAFA | SUIUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | SUIUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SUIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SUIUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 1.47280000
+  - SL   : 1.49810000 (Risk: 0.02530000)
+  - TP1  : 1.43485000 | TP2: 1.40955000
+  - Qty  : 188.726 (Equity: 1000.00)
+Backtesting SUIUSDT 1m: [67702/260777] 26.0% | ETA: 29s  MUSTAFA | SUIUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting SUIUSDT 1m: [67737/260777] 26.0% | ETA: 29s  MUSTAFA | SUIUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting SUIUSDT 1m: [67738/260777] 26.0% | ETA: 29s  MUSTAFA | SUIUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SUIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SUIUSDT SSL BOS2 Triggered (bullish_bos)! Hub: HK
+  - Entry: 1.79990000
+  - SL   : 1.79380000 (Risk: 0.00610000)
+  - TP1  : 1.80905000 | TP2: 1.81515000
+  - Qty  : 663.459 (Equity: 1000.00)
+Backtesting SUIUSDT 1m: [74030/260777] 28.4% | ETA: 29s  MUSTAFA | SUIUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting SUIUSDT 1m: [74032/260777] 28.4% | ETA: 29s  MUSTAFA | SUIUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting SUIUSDT 1m: [74034/260777] 28.4% | ETA: 29s  MUSTAFA | SUIUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SUIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SUIUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 1.50910000
+  - SL   : 1.51360000 (Risk: 0.00450000)
+  - TP1  : 1.50039810 | TP2: 1.48990860
+  - Qty  : 875.659 (Equity: 1000.00)
+Backtesting SUIUSDT 1m: [83762/260777] 32.1% | ETA: 28s  MUSTAFA | SUIUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting SUIUSDT 1m: [83778/260777] 32.1% | ETA: 28s  MUSTAFA | SUIUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting SUIUSDT 1m: [83802/260777] 32.1% | ETA: 28s  MUSTAFA | SUIUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SUIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SUIUSDT SSL BOS2 Triggered (bullish_bos)! Hub: UK_EU
+  - Entry: 1.43040000
+  - SL   : 1.42560000 (Risk: 0.00480000)
+  - TP1  : 1.43893750 | TP2: 1.44824680
+  - Qty  : 841.546 (Equity: 1000.00)
+Backtesting SUIUSDT 1m: [83803/260777] 32.1% | ETA: 28s  MUSTAFA_OV | SUIUSDT Overnight Sweep of Day SSL detected!
+MUSTAFA_OV | SUIUSDT SSL Triggered! Target: Day Liquidity. Hub: US
+PLACED LIMIT ENTRY SUIUSDT BUY 972.444 @ 1.43010000 | Margin Reserved: 18.54
+Backtesting SUIUSDT 1m: [83804/260777] 32.1% | ETA: 28s  FILLED ENTRY SUIUSDT BUY 972.444 @ 1.43010000 (LIMIT) [] drt=0.5000 | equity=1020.41 used_margin=18.54
+Backtesting SUIUSDT 1m: [83810/260777] 32.1% | ETA: 28s  EXIT PARTIAL SUIUSDT BUY TP (LIMIT) @ 1.43773630 PnL=3.7129 net=3.4341 [] drt_entry=0.5000 drt_exit=0.6044 | equity=1023.99 used_margin=9.27
+TP1 HIT: SL for SUIUSDT BUY moved to 1.43390000 (Halfway Entry/TP1)
+Backtesting SUIUSDT 1m: [83833/260777] 32.1% | ETA: 28s  EXIT FULL SUIUSDT BUY STOP (LIMIT) @ 1.43390000 PnL=1.8476 net=1.5691 [] drt_entry=0.5000 drt_exit=0.4556 | equity=1025.70 used_margin=0.00
+Backtesting SUIUSDT 1m: [92717/260777] 35.6% | ETA: 27s  MUSTAFA | SUIUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting SUIUSDT 1m: [92722/260777] 35.6% | ETA: 27s  MUSTAFA | SUIUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | SUIUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SUIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SUIUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 1.12710000
+  - SL   : 1.13240000 (Risk: 0.00530000)
+  - TP1  : 1.11658230 | TP2: 1.11385000
+  - Qty  : 805.819 (Equity: 1000.00)
+Backtesting SUIUSDT 1m: [97791/260777] 37.5% | ETA: 27s  MUSTAFA | SUIUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting SUIUSDT 1m: [97803/260777] 37.5% | ETA: 27s  MUSTAFA | SUIUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting SUIUSDT 1m: [97804/260777] 37.5% | ETA: 27s  MUSTAFA | SUIUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SUIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+Backtesting SUIUSDT 1m: [97807/260777] 37.5% | ETA: 27s  MUSTAFA | SUIUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 1.00230000
+  - SL   : 1.00260000 (Risk: 0.00030000)
+  - TP1  : 0.99850050 | TP2: 0.99850050
+  - Qty  : 4537.122 (Equity: 1000.00)
+Backtesting SUIUSDT 1m: [111045/260777] 42.6% | ETA: 25s  MUSTAFA | SUIUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting SUIUSDT 1m: [111053/260777] 42.6% | ETA: 25s  MUSTAFA | SUIUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | SUIUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SUIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SUIUSDT SSL BOS2 Triggered (bullish_bos)! Hub: UK_EU
+  - Entry: 0.96380000
+  - SL   : 0.95890000 (Risk: 0.00490000)
+  - TP1  : 0.97417320 | TP2: 0.97957860
+  - Qty  : 882.129 (Equity: 1000.00)
+Backtesting SUIUSDT 1m: [113851/260777] 43.7% | ETA: 25s  MUSTAFA | SUIUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting SUIUSDT 1m: [113854/260777] 43.7% | ETA: 25s  MUSTAFA | SUIUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | SUIUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SUIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SUIUSDT BSL BOS2 Triggered (bearish_bos)! Hub: UK_EU
+  - Entry: 0.97020000
+  - SL   : 0.97690000 (Risk: 0.00670000)
+  - TP1  : 0.95634270 | TP2: 0.95345000
+  - Qty  : 668.433 (Equity: 1000.00)
+Backtesting SUIUSDT 1m: [116836/260777] 44.8% | ETA: 24s  MUSTAFA | SUIUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | SUIUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | SUIUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SUIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SUIUSDT BSL BOS2 Triggered (bearish_bos)! Hub: UK_EU
+  - Entry: 0.94060000
+  - SL   : 0.94470000 (Risk: 0.00410000)
+  - TP1  : 0.93406500 | TP2: 0.92916990
+  - Qty  : 1029.878 (Equity: 1000.00)
+Backtesting SUIUSDT 1m: [126687/260777] 48.6% | ETA: 23s  MUSTAFA | SUIUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting SUIUSDT 1m: [126689/260777] 48.6% | ETA: 23s  MUSTAFA | SUIUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | SUIUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SUIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SUIUSDT BSL BOS2 Triggered (bearish_bos)! Hub: UK_EU
+  - Entry: 0.94420000
+  - SL   : 0.94730000 (Risk: 0.00310000)
+  - TP1  : 0.93086820 | TP2: 0.93086820
+  - Qty  : 1296.270 (Equity: 1000.00)
+Backtesting SUIUSDT 1m: [127881/260777] 49.0% | ETA: 23s  MUSTAFA | SUIUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting SUIUSDT 1m: [127886/260777] 49.0% | ETA: 23s  MUSTAFA | SUIUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | SUIUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SUIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SUIUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 0.88510000
+  - SL   : 0.89160000 (Risk: 0.00650000)
+  - TP1  : 0.87535000 | TP2: 0.86885000
+  - Qty  : 693.290 (Equity: 1000.00)
+Backtesting SUIUSDT 1m: [161135/260777] 61.8% | ETA: 18s  MUSTAFA | SUIUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | SUIUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting SUIUSDT 1m: [161142/260777] 61.8% | ETA: 18s  MUSTAFA | SUIUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SUIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SUIUSDT SSL BOS2 Triggered (bullish_bos)! Hub: UK_EU
+  - Entry: 0.93670000
+  - SL   : 0.90240000 (Risk: 0.03430000)
+  - TP1  : 0.98815000 | TP2: 1.02245000
+  - Qty  : 142.739 (Equity: 1000.00)
+Backtesting SUIUSDT 1m: [188000/260777] 72.1% | ETA: 13s  MUSTAFA | SUIUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting SUIUSDT 1m: [188009/260777] 72.1% | ETA: 13s  MUSTAFA | SUIUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting SUIUSDT 1m: [188037/260777] 72.1% | ETA: 13s  MUSTAFA | SUIUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SUIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+Backtesting SUIUSDT 1m: [188046/260777] 72.1% | ETA: 13s  MUSTAFA | SUIUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 0.93570000
+  - SL   : 0.93560000 (Risk: 0.00010000)
+  - TP1  : 0.93396510 | TP2: 0.93396510
+  - Qty  : 5892.751 (Equity: 1000.00)
+Backtesting SUIUSDT 1m: [210926/260777] 80.9% | ETA: 9s  MUSTAFA | SUIUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting SUIUSDT 1m: [210927/260777] 80.9% | ETA: 9s  MUSTAFA | SUIUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting SUIUSDT 1m: [210932/260777] 80.9% | ETA: 9s  MUSTAFA | SUIUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SUIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SUIUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 0.95140000
+  - SL   : 0.95640000 (Risk: 0.00500000)
+  - TP1  : 0.94385520 | TP2: 0.93736170
+  - Qty  : 867.435 (Equity: 1000.00)
+Backtesting SUIUSDT 1m: [210933/260777] 80.9% | ETA: 9s  MUSTAFA_OV | SUIUSDT Overnight Sweep of Day BSL detected!
+MUSTAFA_OV | SUIUSDT BSL Triggered! Target: Day Liquidity. Hub: US
+PLACED LIMIT ENTRY SUIUSDT SELL 2685.025 @ 0.95190000 | Margin Reserved: 34.08
+Backtesting SUIUSDT 1m: [210934/260777] 80.9% | ETA: 9s  FILLED ENTRY SUIUSDT SELL 2685.025 @ 0.95190000 (LIMIT) [] drt=0.5000 | equity=1025.18 used_margin=34.08
+Backtesting SUIUSDT 1m: [210939/260777] 80.9% | ETA: 9s  EXIT PARTIAL SUIUSDT SELL TP (LIMIT) @ 0.94655250 PnL=7.1791 net=6.6693 [] drt_entry=0.5000 drt_exit=0.3685 | equity=1032.11 used_margin=17.04
+TP1 HIT: SL for SUIUSDT SELL moved to 0.94920000 (Halfway Entry/TP1)
+EXIT FULL SUIUSDT SELL TP (LIMIT) @ 0.94655250 PnL=7.1791 net=6.6693 [] drt_entry=0.5000 drt_exit=0.3685 | equity=1039.03 used_margin=0.00
+Backtesting SUIUSDT 1m: [238150/260777] 91.3% | ETA: 4s  MUSTAFA | SUIUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting SUIUSDT 1m: [238171/260777] 91.3% | ETA: 4s  MUSTAFA | SUIUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | SUIUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SUIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SUIUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 1.08350000
+  - SL   : 1.08740000 (Risk: 0.00390000)
+  - TP1  : 1.07765000 | TP2: 1.07375000
+  - Qty  : 1048.407 (Equity: 1000.00)
+Backtesting SUIUSDT 1m: [248179/260777] 95.2% | ETA: 2s  MUSTAFA | SUIUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | SUIUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | SUIUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | SUIUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | SUIUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 1.03520000
+  - SL   : 1.03650000 (Risk: 0.00130000)
+  - TP1  : 1.03276620 | TP2: 1.03195000
+  - Qty  : 2348.586 (Equity: 1000.00)
+Backtesting SUIUSDT 1m: [260777/260777] 100.0% | ETA: 0s  
+
+[Milestone Report: SUIUSDT]
+  - Phase 0: JAPAN Session Start  : 109  | First: 12-02 23:00-23:59 (1H) | Last: 05-31 00:00-00:59 (1H)
+  - Phase 0: HK Session Start     : 70   | First: 12-03 01:00-01:59 (1H) | Last: 05-28 01:00-01:59 (1H)
+  - Phase 0: UK_EU Session Start  : 143  | First: 12-03 03:00-03:59 (1H) | Last: 05-29 07:00-07:59 (1H)
+  - Phase 0: US Session Start     : 148  | First: 12-03 09:00-09:59 (1H) | Last: 05-31 10:00-10:59 (1H)
+  - Phase 1: 1H Overnight Range   : 3805 | First: 11-30 19:00-19:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 656  | First: 12-02 23:00-23:59 (1H) | Last: 05-31 00:00-00:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 723  | First: 12-03 09:00-09:59 (1H) | Last: 05-31 12:00-12:59 (1H)
+  - Phase 3: 15m SSL Sweep        : 5    | First: 12-09 02:00-02:14 (15m) | Last: 03-23 07:00-07:14 (15m)
+  - Phase 3: 15m BSL Sweep        : 12   | First: 12-17 11:00-11:14 (15m) | Last: 05-23 01:00-01:14 (15m)
+  - Phase 4: 1m BOS1              : 17   | First: 12-09 02:15-02:15 (1m) | Last: 05-23 01:00-01:00 (1m)
+  - Phase 5: 1m FVG Formed        : 17   | First: 12-09 02:15-02:15 (1m) | Last: 05-23 01:00-01:00 (1m)
+  - Phase 6: 1m FVG Retest        : 17   | First: 12-09 02:15-02:15 (1m) | Last: 05-23 01:00-01:00 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 17   | First: 12-09 02:15-02:15 (1m) | Last: 05-23 01:00-01:00 (1m)
+  - Phase 0: US Overnight Start   : 4    | First: 12-09 02:00-02:59 (1H) | Last: 02-07 01:00-01:59 (1H)
+  - Phase 0: JAPAN Overnight Start: 2    | First: 12-17 11:00-11:59 (1H) | Last: 01-21 11:00-11:59 (1H)
+  - Phase 0: UK_EU Overnight Start: 1    | 02-03 12:00-12:59 (1H)
+  - Phase 1: Preceding Day Range Found: 17   | First: 12-09 02:00-02:59 (1H) | Last: 05-23 01:00-01:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 5    | First: 12-09 02:00-02:59 (1H) | Last: 03-23 07:00-07:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 12   | First: 12-17 11:00-11:59 (1H) | Last: 05-23 01:00-01:59 (1H)
+  - Phase 3: Day SSL Sweep        : 2    | First: 12-09 02:15-02:29 (15m) | Last: 01-28 06:30-06:44 (15m)
+  - Phase 3: Day BSL Sweep        : 1    | 04-27 01:00-01:14 (15m)
+  - Phase 4: 1m BOS1              : 3    | First: 12-09 02:17-02:17 (1m) | Last: 04-27 01:07-01:07 (1m)
+  - Phase 5: 1m FVG Formed        : 3    | First: 12-09 02:17-02:17 (1m) | Last: 04-27 01:07-01:07 (1m)
+  - Phase 6: 1m FVG Retest        : 3    | First: 12-09 02:17-02:17 (1m) | Last: 04-27 01:07-01:07 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 3    | First: 12-09 02:17-02:17 (1m) | Last: 04-27 01:07-01:07 (1m)
+Backtesting DOGEUSDT 1m: [17582/260777] 6.7% | ETA: 23s  MUSTAFA | DOGEUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting DOGEUSDT 1m: [17587/260777] 6.7% | ETA: 23s  MUSTAFA | DOGEUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting DOGEUSDT 1m: [17593/260777] 6.7% | ETA: 23s  MUSTAFA | DOGEUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | DOGEUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | DOGEUSDT SSL BOS2 Triggered (bullish_bos)! Hub: HK
+  - Entry: 0.13742000
+  - SL   : 0.13716000 (Risk: 0.00026000)
+  - TP1  : 0.13799786 | TP2: 0.13807000
+  - Qty  : 13521.553 (Equity: 1000.00)
+Backtesting DOGEUSDT 1m: [23762/260777] 9.1% | ETA: 27s  MUSTAFA | DOGEUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting DOGEUSDT 1m: [23779/260777] 9.1% | ETA: 27s  MUSTAFA | DOGEUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | DOGEUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | DOGEUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | DOGEUSDT SSL BOS2 Triggered (bullish_bos)! Hub: UK_EU
+  - Entry: 0.13132000
+  - SL   : 0.13106000 (Risk: 0.00026000)
+  - TP1  : 0.13218205 | TP2: 0.13218205
+  - Qty  : 13702.384 (Equity: 1000.00)
+Backtesting DOGEUSDT 1m: [23881/260777] 9.2% | ETA: 27s  MUSTAFA | DOGEUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting DOGEUSDT 1m: [23893/260777] 9.2% | ETA: 27s  MUSTAFA | DOGEUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | DOGEUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | DOGEUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | DOGEUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 0.12982000
+  - SL   : 0.13269000 (Risk: 0.00287000)
+  - TP1  : 0.12551500 | TP2: 0.12264500
+  - Qty  : 1680.345 (Equity: 1000.00)
+Backtesting DOGEUSDT 1m: [25374/260777] 9.7% | ETA: 28s  MUSTAFA | DOGEUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | DOGEUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | DOGEUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | DOGEUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | DOGEUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 0.12836000
+  - SL   : 0.12951000 (Risk: 0.00115000)
+  - TP1  : 0.12563424 | TP2: 0.12466521
+  - Qty  : 3989.219 (Equity: 1000.00)
+Backtesting DOGEUSDT 1m: [31284/260777] 12.0% | ETA: 30s  MUSTAFA | DOGEUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting DOGEUSDT 1m: [31296/260777] 12.0% | ETA: 30s  MUSTAFA | DOGEUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting DOGEUSDT 1m: [31299/260777] 12.0% | ETA: 30s  MUSTAFA | DOGEUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | DOGEUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | DOGEUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 0.13186000
+  - SL   : 0.13228000 (Risk: 0.00042000)
+  - TP1  : 0.13123000 | TP2: 0.13081000
+  - Qty  : 9510.404 (Equity: 1000.00)
+Backtesting DOGEUSDT 1m: [74030/260777] 28.4% | ETA: 29s  MUSTAFA | DOGEUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting DOGEUSDT 1m: [74037/260777] 28.4% | ETA: 29s  MUSTAFA | DOGEUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting DOGEUSDT 1m: [74039/260777] 28.4% | ETA: 29s  MUSTAFA | DOGEUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | DOGEUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | DOGEUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 0.12547000
+  - SL   : 0.12590000 (Risk: 0.00043000)
+  - TP1  : 0.12477510 | TP2: 0.12384603
+  - Qty  : 9422.690 (Equity: 1000.00)
+Backtesting DOGEUSDT 1m: [92597/260777] 35.5% | ETA: 28s  MUSTAFA | DOGEUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting DOGEUSDT 1m: [92606/260777] 35.5% | ETA: 28s  MUSTAFA | DOGEUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting DOGEUSDT 1m: [92607/260777] 35.5% | ETA: 28s  MUSTAFA | DOGEUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | DOGEUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+Backtesting DOGEUSDT 1m: [92620/260777] 35.5% | ETA: 28s  MUSTAFA | DOGEUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 0.10638000
+  - SL   : 0.10630000 (Risk: 0.00008000)
+  - TP1  : 0.10764754 | TP2: 0.10764754
+  - Qty  : 30292.749 (Equity: 1000.00)
+Backtesting DOGEUSDT 1m: [97791/260777] 37.5% | ETA: 27s  MUSTAFA | DOGEUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting DOGEUSDT 1m: [97833/260777] 37.5% | ETA: 27s  MUSTAFA | DOGEUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting DOGEUSDT 1m: [97836/260777] 37.5% | ETA: 27s  MUSTAFA | DOGEUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | DOGEUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | DOGEUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 0.09800000
+  - SL   : 0.09842000 (Risk: 0.00042000)
+  - TP1  : 0.09714276 | TP2: 0.09695000
+  - Qty  : 10027.032 (Equity: 1000.00)
+Backtesting DOGEUSDT 1m: [105553/260777] 40.5% | ETA: 26s  MUSTAFA | DOGEUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | DOGEUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | DOGEUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | DOGEUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | DOGEUSDT BSL BOS2 Triggered (bearish_bos)! Hub: US
+  - Entry: 0.09337000
+  - SL   : 0.09351000 (Risk: 0.00014000)
+  - TP1  : 0.09306684 | TP2: 0.09291699
+  - Qty  : 23279.634 (Equity: 1000.00)
+Backtesting DOGEUSDT 1m: [127881/260777] 49.0% | ETA: 23s  MUSTAFA | DOGEUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting DOGEUSDT 1m: [127887/260777] 49.0% | ETA: 23s  MUSTAFA | DOGEUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | DOGEUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | DOGEUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | DOGEUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 0.09226000
+  - SL   : 0.09253000 (Risk: 0.00027000)
+  - TP1  : 0.09180810 | TP2: 0.09158500
+  - Qty  : 14536.151 (Equity: 1000.00)
+Backtesting DOGEUSDT 1m: [152120/260777] 58.3% | ETA: 20s  MUSTAFA | DOGEUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting DOGEUSDT 1m: [152141/260777] 58.3% | ETA: 20s  MUSTAFA | DOGEUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | DOGEUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | DOGEUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | DOGEUSDT BSL BOS2 Triggered (bearish_bos)! Hub: JAPAN
+  - Entry: 0.10080000
+  - SL   : 0.10137000 (Risk: 0.00057000)
+  - TP1  : 0.09994500 | TP2: 0.09937500
+  - Qty  : 7680.703 (Equity: 1000.00)
+Backtesting DOGEUSDT 1m: [152142/260777] 58.3% | ETA: 20s  MUSTAFA_OV | DOGEUSDT Overnight Sweep of Day BSL detected!
+MUSTAFA_OV | DOGEUSDT BSL Triggered! Target: Day Liquidity. Hub: US
+PLACED LIMIT ENTRY DOGEUSDT SELL 7564.525 @ 0.10079000 | Margin Reserved: 10.17
+Backtesting DOGEUSDT 1m: [152143/260777] 58.3% | ETA: 20s  FILLED ENTRY DOGEUSDT SELL 7564.525 @ 0.10079000 (LIMIT) [] drt=0.5000 | equity=999.85 used_margin=10.17
+Backtesting DOGEUSDT 1m: [152160/260777] 58.3% | ETA: 20s  EXIT PARTIAL DOGEUSDT SELL TP (LIMIT) @ 0.09978012 PnL=3.8196 net=3.6679 [] drt_entry=0.5000 drt_exit=0.3903 | equity=1003.59 used_margin=5.08
+TP1 HIT: SL for DOGEUSDT SELL moved to 0.10029000 (Halfway Entry/TP1)
+Backtesting DOGEUSDT 1m: [152161/260777] 58.3% | ETA: 20s  EXIT FULL DOGEUSDT SELL STOP (LIMIT) @ 0.10029000 PnL=1.8911 net=1.7390 [] drt_entry=0.5000 drt_exit=0.3715 | equity=1005.41 used_margin=0.00
+Backtesting DOGEUSDT 1m: [188000/260777] 72.1% | ETA: 14s  MUSTAFA | DOGEUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting DOGEUSDT 1m: [188003/260777] 72.1% | ETA: 14s  MUSTAFA | DOGEUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting DOGEUSDT 1m: [188006/260777] 72.1% | ETA: 14s  MUSTAFA | DOGEUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | DOGEUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | DOGEUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 0.09335000
+  - SL   : 0.09346000 (Risk: 0.00011000)
+  - TP1  : 0.09311679 | TP2: 0.09307500
+  - Qty  : 27064.185 (Equity: 1000.00)
+Backtesting DOGEUSDT 1m: [218090/260777] 83.6% | ETA: 8s  MUSTAFA | DOGEUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting DOGEUSDT 1m: [218094/260777] 83.6% | ETA: 8s  MUSTAFA | DOGEUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | DOGEUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | DOGEUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | DOGEUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 0.10796000
+  - SL   : 0.10822000 (Risk: 0.00026000)
+  - TP1  : 0.10748241 | TP2: 0.10731000
+  - Qty  : 14429.015 (Equity: 1000.00)
+Backtesting DOGEUSDT 1m: [224299/260777] 86.0% | ETA: 7s  MUSTAFA | DOGEUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | DOGEUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting DOGEUSDT 1m: [224301/260777] 86.0% | ETA: 7s  MUSTAFA | DOGEUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | DOGEUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | DOGEUSDT BSL BOS2 Triggered (bearish_bos)! Hub: UK_EU
+  - Entry: 0.11551000
+  - SL   : 0.11603000 (Risk: 0.00052000)
+  - TP1  : 0.11462526 | TP2: 0.11421000
+  - Qty  : 8160.334 (Equity: 1000.00)
+Backtesting DOGEUSDT 1m: [228150/260777] 87.5% | ETA: 6s  MUSTAFA | DOGEUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting DOGEUSDT 1m: [228158/260777] 87.5% | ETA: 6s  MUSTAFA | DOGEUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+Backtesting DOGEUSDT 1m: [228159/260777] 87.5% | ETA: 6s  MUSTAFA | DOGEUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | DOGEUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | DOGEUSDT SSL BOS2 Triggered (bullish_bos)! Hub: HK
+  - Entry: 0.11052000
+  - SL   : 0.11037000 (Risk: 0.00015000)
+  - TP1  : 0.11105094 | TP2: 0.11105094
+  - Qty  : 20979.666 (Equity: 1000.00)
+Backtesting DOGEUSDT 1m: [234329/260777] 89.9% | ETA: 5s  MUSTAFA | DOGEUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting DOGEUSDT 1m: [234345/260777] 89.9% | ETA: 5s  MUSTAFA | DOGEUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting DOGEUSDT 1m: [238150/260777] 91.3% | ETA: 4s  MUSTAFA | DOGEUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting DOGEUSDT 1m: [238174/260777] 91.3% | ETA: 4s  MUSTAFA | DOGEUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+Backtesting DOGEUSDT 1m: [238207/260777] 91.3% | ETA: 4s  MUSTAFA | DOGEUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | DOGEUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+Backtesting DOGEUSDT 1m: [238216/260777] 91.3% | ETA: 4s  MUSTAFA | DOGEUSDT BSL BOS2 Triggered (bearish_bos)! Hub: HK
+  - Entry: 0.11142000
+  - SL   : 0.11167000 (Risk: 0.00025000)
+  - TP1  : 0.11075913 | TP2: 0.11075913
+  - Qty  : 14736.829 (Equity: 1000.00)
+Backtesting DOGEUSDT 1m: [245612/260777] 94.2% | ETA: 3s  MUSTAFA | DOGEUSDT 15m Sweep detected (BSL)! Entering WAITING_FOR_BOS1
+Backtesting DOGEUSDT 1m: [245619/260777] 94.2% | ETA: 3s  MUSTAFA | DOGEUSDT 1m BOS1 detected (bearish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | DOGEUSDT 1m BEARISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | DOGEUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | DOGEUSDT BSL BOS2 Triggered (bearish_bos)! Hub: UK_EU
+  - Entry: 0.10515000
+  - SL   : 0.10527000 (Risk: 0.00012000)
+  - TP1  : 0.10492497 | TP2: 0.10477512
+  - Qty  : 24486.757 (Equity: 1000.00)
+Backtesting DOGEUSDT 1m: [253971/260777] 97.4% | ETA: 1s  MUSTAFA | DOGEUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+MUSTAFA | DOGEUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | DOGEUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | DOGEUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | DOGEUSDT SSL BOS2 Triggered (bullish_bos)! Hub: HK
+  - Entry: 0.10161000
+  - SL   : 0.10144000 (Risk: 0.00017000)
+  - TP1  : 0.10195185 | TP2: 0.10203500
+  - Qty  : 19905.567 (Equity: 1000.00)
+Backtesting DOGEUSDT 1m: [257374/260777] 98.7% | ETA: 0s  MUSTAFA | DOGEUSDT 15m Sweep detected (SSL)! Entering WAITING_FOR_BOS1
+Backtesting DOGEUSDT 1m: [257377/260777] 98.7% | ETA: 0s  MUSTAFA | DOGEUSDT 1m BOS1 detected (bullish_bos)! Entering WAITING_FOR_FVG
+MUSTAFA | DOGEUSDT 1m BULLISH FVG detected! Entering WAITING_FOR_RETEST
+MUSTAFA | DOGEUSDT 1m FVG Retest complete! Entering WAITING_FOR_BOS2
+MUSTAFA | DOGEUSDT SSL BOS2 Triggered (bullish_bos)! Hub: US
+  - Entry: 0.09915000
+  - SL   : 0.09828000 (Risk: 0.00087000)
+  - TP1  : 0.10045500 | TP2: 0.10132500
+  - Qty  : 5269.825 (Equity: 1000.00)
+Backtesting DOGEUSDT 1m: [260777/260777] 100.0% | ETA: 0s  
+
+[Milestone Report: DOGEUSDT]
+  - Phase 0: JAPAN Session Start  : 111  | First: 12-02 22:00-22:59 (1H) | Last: 05-29 21:00-21:59 (1H)
+  - Phase 0: HK Session Start     : 70   | First: 12-03 01:00-01:59 (1H) | Last: 05-30 01:00-01:59 (1H)
+  - Phase 0: UK_EU Session Start  : 146  | First: 12-03 03:00-03:59 (1H) | Last: 05-29 08:00-08:59 (1H)
+  - Phase 0: US Session Start     : 151  | First: 12-03 09:00-09:59 (1H) | Last: 05-31 10:00-10:59 (1H)
+  - Phase 1: 1H Overnight Range   : 3805 | First: 11-30 19:00-19:59 (1H) | Last: 05-31 19:00-19:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 653  | First: 12-02 22:00-22:59 (1H) | Last: 05-30 01:00-01:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 733  | First: 12-03 09:00-09:59 (1H) | Last: 05-31 14:00-14:59 (1H)
+  - Phase 3: 15m SSL Sweep        : 6    | First: 12-13 01:30-01:44 (15m) | Last: 05-29 11:00-11:14 (15m)
+  - Phase 3: 15m BSL Sweep        : 14   | First: 12-17 11:00-11:14 (15m) | Last: 05-21 06:00-06:14 (15m)
+  - Phase 4: 1m BOS1              : 20   | First: 12-13 01:35-01:35 (1m) | Last: 05-29 11:04-11:04 (1m)
+  - Phase 5: 1m FVG Formed        : 19   | First: 12-13 01:41-01:41 (1m) | Last: 05-29 11:04-11:04 (1m)
+  - Phase 6: 1m FVG Retest        : 19   | First: 12-13 01:41-01:41 (1m) | Last: 05-29 11:04-11:04 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 19   | First: 12-13 01:41-01:41 (1m) | Last: 05-29 11:04-11:04 (1m)
+  - Phase 0: US Overnight Start   : 3    | First: 12-13 01:00-01:59 (1H) | Last: 02-28 01:00-01:59 (1H)
+  - Phase 0: JAPAN Overnight Start: 4    | First: 12-17 11:00-11:59 (1H) | Last: 05-29 11:00-11:59 (1H)
+  - Phase 0: UK_EU Overnight Start: 1    | 12-18 12:00-12:59 (1H)
+  - Phase 1: Preceding Day Range Found: 19   | First: 12-13 01:00-01:59 (1H) | Last: 05-29 11:00-11:59 (1H)
+  - Phase 2: 1H BULLISH Bias      : 6    | First: 12-13 01:00-01:59 (1H) | Last: 05-29 11:00-11:59 (1H)
+  - Phase 2: 1H BEARISH Bias      : 13   | First: 12-17 11:00-11:59 (1H) | Last: 05-21 06:00-06:59 (1H)
+  - Phase 3: Day BSL Sweep        : 1    | 03-17 00:15-00:29 (15m)
+  - Phase 4: 1m BOS1              : 1    | 03-17 00:22-00:22 (1m)
+  - Phase 5: 1m FVG Formed        : 1    | 03-17 00:22-00:22 (1m)
+  - Phase 6: 1m FVG Retest        : 1    | 03-17 00:22-00:22 (1m)
+  - Phase 7: 1m BOS2 (Entry Trigger): 1    | 03-17 00:22-00:22 (1m)
+
+=====================================================================================================================================================================
+BACKTEST RESULTS
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Date Range             | Asset      | TF    |   Win% (L/S) |       PnL (L/S) |     ROE% |        PnL |    ROI% |   Trades |       Equity
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-12-01 to 2026-06-01 | ETHUSDT    | 1m    |      0%/100% |        0.0/49.0 |     98.4% |      49.03 |     4.9% |        5 |      1049.03
+2025-12-01 to 2026-06-01 | HBARUSDT   | 1m    |     67%/100% |       13.0/15.3 |     54.2% |      28.30 |     2.8% |        4 |      1028.30
+2025-12-01 to 2026-06-01 | UNIUSDT    | 1m    |    100%/100% |       14.9/18.1 |     78.1% |      32.96 |     3.3% |        3 |      1032.96
+2025-12-01 to 2026-06-01 | GRTUSDT    | 1m    |        0%/0% |        -9.1/0.0 |    -28.7% |      -9.06 |    -0.9% |        2 |       990.94
+2025-12-01 to 2026-06-01 | SOLUSDT    | 1m    |    100%/100% |       28.5/53.8 |    146.8% |      82.34 |     8.2% |        3 |      1082.34
+2025-12-01 to 2026-06-01 | ENAUSDT    | 1m    |     50%/100% |        -1.8/6.7 |      7.3% |       4.88 |     0.5% |        5 |      1004.88
+2025-12-01 to 2026-06-01 | SUIUSDT    | 1m    |    100%/100% |       25.7/13.3 |     59.2% |      39.03 |     3.9% |        3 |      1039.03
+2025-12-01 to 2026-06-01 | DOGEUSDT   | 1m    |      0%/100% |         0.0/5.4 |     53.2% |       5.41 |     0.5% |        1 |      1005.41
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+OVERALL                | ALL        | MIX   |     62%/100% |      71.3/161.6 |      N/A |     232.90 |     2.9% |       26 |          N/A
+=====================================================================================================================================================================
